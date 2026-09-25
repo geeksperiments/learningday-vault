@@ -6,11 +6,11 @@ speakers:
   - "[[Fari]]"
   - "[[Jan]]"
   - "[[Ka Ho]]"
+  - "[[Lih Wei]]"
   - "[[Louis]]"
   - "[[Paul]]"
   - "[[Teo]]"
   - "[[V]]"
-  - "[[lih wei]]"
 tags:
   - learning-day
   - session
@@ -36,7 +36,7 @@ tags:
 - <https://meettechniek.info/additional/additive-synthesis.html>
 - https://teropa.info/harmonics-explorer/
 
-### 3. [[lih wei]]  — Talking Piano, Adobe Audition, Cropping out sounds
+### 3. [[Lih Wei]]  — Talking Piano, Adobe Audition, Cropping out sounds
 
 
 ### 4. [[Ka Ho]]  — Cargo Cult

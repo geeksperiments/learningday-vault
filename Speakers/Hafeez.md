@@ -1,7 +1,7 @@
 ---
 speaker: "Hafeez"
-talk_count: 23
-first_talk: "2024-05-24"
+talk_count: 24
+first_talk: "2022-04-29"
 last_talk: "2026-07-04"
 tags:
   - learning-day
@@ -10,8 +10,8 @@ tags:
 
 # Hafeez
 
-- **Total Talks:** 23
-- **First Sharing:** 2024-05-24
+- **Total Talks:** 24
+- **First Sharing:** 2022-04-29
 - **Latest Sharing:** 2026-07-04
 - **Directory:** [[Learning Day Index]]
 
@@ -44,3 +44,4 @@ tags:
 | 2024-06-21 | [[Learning Day 168]] | 3 | Meta hints for geoguessr at geohints.com |
 | 2024-06-01 | [[Learning Day 167]] | 5 | Road Hiking |
 | 2024-05-24 | [[Learning Day 166]] | 2 | Geogussr |
+| 2022-04-29 | [[Learning Day 117.5]] | 8 | Flag animation of the world countries: Space edition https://www.youtube.com/watch?v=rLuqS6En_cA |

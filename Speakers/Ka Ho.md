@@ -1,6 +1,6 @@
 ---
 speaker: "Ka Ho"
-talk_count: 72
+talk_count: 74
 first_talk: "2022-01-21"
 last_talk: "2026-09-05"
 tags:
@@ -10,7 +10,7 @@ tags:
 
 # Ka Ho
 
-- **Total Talks:** 72
+- **Total Talks:** 74
 - **First Sharing:** 2022-01-21
 - **Latest Sharing:** 2026-09-05
 - **Directory:** [[Learning Day Index]]
@@ -54,6 +54,7 @@ tags:
 | 2024-02-16 | [[Learning Day 160]] | 3 | Test of a king (https://www.malaymail.com/news/malaysia/2024/01/28/test-of-a-king-tells-of-al-sultan-abdullahs-wisdom-in-steering-malaysia/115072) |
 | 2024-01-19 | [[Learning Day 158]] | 3 | The technical differences between SimplyGo (Account-Based Ticketing) and Card-based ticketing https://www.channelnewsasia.com/podcasts/simplygo-mrt-bus-lta-card-payment-heart-matter-podcast-4056106 |
 | 2024-01-06 | [[Learning Day 157]] | 4 | Flight Safety Video and how it helps you survive |
+| 2023-12-02 | [[Learning Day 155]] | 4 | General Sharing |
 | 2023-12-02 | [[Learning Day 156]] | 4 | NLB and RFID tech for library (https://www.youtube.com/watch?v=tzNdtDEVIAc) |
 | 2023-11-17 | [[Learning Day 154]] | 3 | Consuming Gossip |
 | 2023-11-04 | [[Learning Day 153]] | 4 | Cargo Cult |
@@ -89,6 +90,7 @@ tags:
 | 2022-03-04 | [[Learning Day 114]] | 5 | Undercover asia - Asian Hate. Getting into the mind of a racist. One perspective - Wanting to maintain cultural purity instead of wanting to encourage multiculturalism that is perceived as cultural dilution. |
 | 2022-02-25 | [[Learning Day 113.5]] | 5 | Burndown Chart |
 | 2022-02-18 | [[Learning Day 113]] | 3 | Topics about Japan: (1) Cup noodles and Japan (2) Tip from Guided trip in Japan - paticipate in cultural activities like traditional dressing when visiting temple (3) Challenge to find Little Japan in Singapore |
+| 2022-02-11 | [[Learning Day 112.5]] | 4 | Mindmaps and file folder structures as a way to organize information and knowledge. Over reliance on single "Laundry basket" with search engine as an anti-pattern to learn. |
 | 2022-02-11 | [[Learning Day 112.5]] | 1 | Bonhoeffer’s Theory of Stupidity - https://www.youtube.com/watch?v=ww47bR86wSc |
 | 2022-02-04 | [[Learning Day 112]] | 7 | Meme on Mahjong - the fallacy, and how gambling is about money and luck. |
 | 2022-01-28 | [[Learning Day 111.5]] | 4 | Jerome Bruner's theory of development, 1) hands on 2) imagery 3) symbolic |

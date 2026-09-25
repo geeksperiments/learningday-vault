@@ -7,7 +7,7 @@ speakers:
   - "[[Hafeez]]"
   - "[[Heng Liang]]"
   - "[[Ka Ho]]"
-  - "[[Liwei]]"
+  - "[[Lih Wei]]"
   - "[[Louis]]"
   - "[[Melvin]]"
   - "[[Paul]]"
@@ -59,7 +59,7 @@ tags:
 - <https://youtu.be/PDqfaOFGdMI?si=37UuwH8dIGvboHDl>
 - <https://youtu.be/YoeyfTGI7ik?si=B5vrbAIcPDRAop9g>
 
-### 9. [[Liwei]]  — Aerogels & Space tech e.g Mylar
+### 9. [[Lih Wei]]  — Aerogels & Space tech e.g Mylar
 
 
 ---

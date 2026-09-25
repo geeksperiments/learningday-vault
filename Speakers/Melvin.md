@@ -1,6 +1,6 @@
 ---
 speaker: "Melvin"
-talk_count: 72
+talk_count: 74
 first_talk: "2022-01-14"
 last_talk: "2026-07-04"
 tags:
@@ -10,7 +10,7 @@ tags:
 
 # Melvin
 
-- **Total Talks:** 72
+- **Total Talks:** 74
 - **First Sharing:** 2022-01-14
 - **Latest Sharing:** 2026-07-04
 - **Directory:** [[Learning Day Index]]
@@ -54,6 +54,7 @@ tags:
 | 2023-10-07 | [[Learning Day 151]] | 2 | https://www.skull-and-roses.com/ |
 | 2023-09-15 | [[Learning Day 150]] | 2 | SET game https://setwithfriends.com/ |
 | 2023-09-02 | [[Learning Day 149]] | 7 | From Lichtenberg to A4 |
+| 2023-08-06 | [[Learning Day 147]] | 4 | National day rituals and what they signify for you |
 | 2023-07-21 | [[Learning Day 146]] | 2 | The Path: What Chinese Philosophers Can Teach Us About the Good Life by Michael Puett and Christine Gross-Loh https://instituteofcoaching.org/resources/coach-way |
 | 2023-07-08 | [[Learning Day 145]] | 2 | Cooking 🥦 https://garden.melvinzhang.net/posts/broccoli/ |
 | 2023-05-19 | [[Learning Day 142]] | 2 | Hanabi by Antoine Bauza. Play it online at https://www.hanab.cards/en |
@@ -66,6 +67,7 @@ tags:
 | 2023-02-04 | [[Learning Day 135]] | 2 | Gemini Twins trick by Karl Fulves. |
 | 2023-01-20 | [[Learning Day 134]] | 4 | 'The Elephant in the Brain: Hidden Motives in Everyday Life' |
 | 2023-01-14 | [[Learning Day 133]] | 4 | Introduction to Stoicism https://garden.melvinzhang.net/posts/stoicism/ |
+| 2022-12-09 | [[Learning Day 132]] | 1 | gapminder.org - (1) Animating data (2) Dollar Street (3) Worldview Upgrader. Checkout Hans Roslings' excellent TED talk https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen |
 | 2022-11-26 | [[Learning Day 131]] | 2 | Self working card tricks. Demo of Baby Hummer. |
 | 2022-11-11 | [[Learning Day 130]] | 1 | Interactive exploration of the Tree of Life https://www.onezoom.org/ Additional links on https://garden.melvinzhang.net/posts/tree_of_life/ |
 | 2022-10-22 | [[Learning Day 129]] | 1 | Prioritizing your todo list with Elo |

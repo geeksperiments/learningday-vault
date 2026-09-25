@@ -3,6 +3,7 @@ session: "118"
 date: 2022-05-06
 talk_count: 8
 speakers:
+  - "[[Anna]]"
   - "[[Jan]]"
   - "[[Janice]]"
   - "[[Jin Hoo]]"
@@ -10,7 +11,6 @@ speakers:
   - "[[Louis]]"
   - "[[Martyn]]"
   - "[[Melvin]]"
-  - "[[T2M]]"
 tags:
   - learning-day
   - session
@@ -52,7 +52,7 @@ tags:
 ### 7. [[Ka Ho]]  — Happily Ever After - Disneyland late night show with fireworks. esp. The making of in brief: https://www.youtube.com/watch?v=-CtAc7T1Oug
 
 
-### 8. [[T2M]]  — About Yue Lao. Visit here to pray for singles, higher success rate for finding a partner! https://www.youtube.com/watch?v=CeOP3Meht1c&ab_channel=%E5%A6%AE%E5%A6%AE%E6%B1%9Fninijiang 30B Phillip St, Yueh Hai Ching Temple, Singapore 048696
+### 8. [[Anna]]  — About Yue Lao. Visit here to pray for singles, higher success rate for finding a partner! https://www.youtube.com/watch?v=CeOP3Meht1c&ab_channel=%E5%A6%AE%E5%A6%AE%E6%B1%9Fninijiang 30B Phillip St, Yueh Hai Ching Temple, Singapore 048696
 
 - Till we meet again (Taiwan Movie) -- Superb: touching, comedic, intense, big brain
 

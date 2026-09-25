@@ -4,7 +4,7 @@ date: 2023-07-21
 talk_count: 6
 speakers:
   - "[[Ka Ho]]"
-  - "[[LW]]"
+  - "[[Lih Wei]]"
   - "[[Louis & Scarlett]]"
   - "[[Melvin]]"
   - "[[Paul]]"
@@ -34,7 +34,7 @@ tags:
 - Music: https://www.youtube.com/watch?v=QAbwPeAYf_o
 - Lyrics: https://vocaloidlyrics.fandom.com/wiki/%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%82%A4%E3%83%88_(Teammate)
 
-### 4. [[LW]]  — Reverse engineering .NET programs and modifying them
+### 4. [[Lih Wei]]  — Reverse engineering .NET programs and modifying them
 
 
 ### 5. [[Paul]]  — Almost proper demo about...

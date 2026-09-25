@@ -1,9 +1,8 @@
 ---
 session: "144"
 date: 2023-06-23
-talk_count: 7
+talk_count: 6
 speakers:
-  - "[[Additional notes]]"
   - "[[Jin]]"
   - "[[Julian]]"
   - "[[Ka Ho]]"
@@ -46,10 +45,11 @@ tags:
 
 ### 6. [[cx]]  — Mop washing robot with auto water refill and drainage kit from taobao. https://world.taobao.com/item/wap/671123803907.htm
 
-
-### 7. [[Additional notes]] 
-
 - Traditional (European) herb mixtures: https://www.thespruceeats.com/ingredient-herb-mixtures-912864
+
+## Community Notes & Announcements
+
+7. Additional notes:
 
 ---
 

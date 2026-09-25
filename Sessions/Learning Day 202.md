@@ -1,7 +1,7 @@
 ---
 session: "202"
 date: 2025-12-06
-talk_count: 10
+talk_count: 7
 speakers:
   - "[[Darren]]"
   - "[[Hafeez]]"
@@ -9,9 +9,6 @@ speakers:
   - "[[Ka Ho]]"
   - "[[Louis]]"
   - "[[Paul]]"
-  - "[[Physical Modeling]]"
-  - "[[Sampling]]"
-  - "[[Subtractive]]"
   - "[[Van]]"
 tags:
   - learning-day
@@ -39,19 +36,13 @@ tags:
 - Synthesis is the art of generating sound by shaping or combining waveforms.
 - It’s how electronic instruments create timbre, motion, and expression.
 - 🧭 Some Types of Synthesis
-
-### 1. [[Subtractive]] 
-
+- 1. Subtractive
 - Start with a harmonically rich sound → remove frequencies with filters.
 - “Sculpting sound by carving away.”
-
-### 2. [[Sampling]] 
-
+- 2. Sampling
 - Use recorded audio as the source → realistic, static snapshots.
 - “Playback of captured sound.”
-
-### 3. [[Physical Modeling]] 
-
+- 3. Physical Modeling
 - Simulate the physics of the instrument → behavior‑based realism.
 - “Sound from equations, not recordings.”
 * https://www.tracktion.com/products/outersect-modeler

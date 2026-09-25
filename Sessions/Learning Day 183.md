@@ -1,18 +1,16 @@
 ---
 session: "183"
 date: 2025-02-01
-talk_count: 11
+talk_count: 9
 speakers:
-  - "[[Chloe and Eevee]]"
   - "[[Darren]]"
   - "[[Hafeez]]"
   - "[[Hilda]]"
   - "[[Ka Ho]]"
-  - "[[Liwei]]"
+  - "[[Lih Wei]]"
   - "[[Louis]]"
   - "[[Paul]]"
   - "[[Scarlett]]"
-  - "[[Serena and Eevee]]"
   - "[[Teo]]"
 tags:
   - learning-day
@@ -39,10 +37,8 @@ tags:
 
 ### 4. [[Ka Ho]]  — Eeveelution (Eevee and its evolved forms) and the story of life lessons related to it.
 
-### 1. [[Serena and Eevee]]  — > Sylveon
-
-### 2. [[Chloe and Eevee]] 
-
+- 1. Serena and Eevee -> Sylveon
+- 2. Chloe and Eevee
 - [Recommended introductory material:
 - 1. https://bulbapedia.bulbagarden.net/wiki/Eeveelution
 - 2. https://pokemon.fandom.com/wiki/Eeveelution]
@@ -52,7 +48,7 @@ tags:
 
 - <https://docs.google.com/presentation/d/1Sy89KZcNeR6ouUfTpbEYFmQtgv8UiBiyeZ1UN5CVD4o/edit?usp=sharing>
 
-### 6. [[Liwei]]  — Novation Launchpad Pro and live music performances in Ableton
+### 6. [[Lih Wei]]  — Novation Launchpad Pro and live music performances in Ableton
 
 
 ### 7. [[Hafeez]]  — How to spot a cheater in Geoguessr

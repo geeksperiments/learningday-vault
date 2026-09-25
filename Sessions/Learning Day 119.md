@@ -9,7 +9,7 @@ speakers:
   - "[[Lih Wei]]"
   - "[[Melvin]]"
   - "[[Paul]]"
-  - "[[Yuyang]]"
+  - "[[Yu Yang]]"
   - "[[Zhang quan]]"
 tags:
   - learning-day
@@ -59,7 +59,7 @@ tags:
 - Taking a picture onto the film
 - Loading film
 
-### 7. [[Yuyang]]  — Commercial Law, Consumer Rights
+### 7. [[Yu Yang]]  — Commercial Law, Consumer Rights
 
 - Process: Offer, Agreement, Consideration, Acceptance
 - The customer makes the offer by ordering

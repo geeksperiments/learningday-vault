@@ -1,7 +1,7 @@
 ---
 session: "187"
 date: 2025-04-05
-talk_count: 9
+talk_count: 8
 speakers:
   - "[[Darren]]"
   - "[[Julian]]"
@@ -10,7 +10,6 @@ speakers:
   - "[[Louis]]"
   - "[[Melvin]]"
   - "[[Teo]]"
-  - "[[The Good Place Trolley Problem]]"
 tags:
   - learning-day
   - session
@@ -56,9 +55,7 @@ tags:
 ### 8a. [[Darren]]  — Kamen Rider Kuuga Darkest Scene
 
 - <https://youtu.be/L0MLeP-idnw?si=4AkAvUp0kyCXXgSp>
-
-### 8b. [[The Good Place Trolley Problem]] 
-
+- 8b. The Good Place Trolley Problem
 - 8c.
 
 ---

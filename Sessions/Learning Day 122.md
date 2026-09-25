@@ -3,7 +3,7 @@ session: "122"
 date: 2022-07-08
 talk_count: 8
 speakers:
-  - "[[Anna T2M]]"
+  - "[[Anna]]"
   - "[[Julian]]"
   - "[[Ka Ho]]"
   - "[[Louis]]"
@@ -48,7 +48,7 @@ tags:
 - ADDICT (Music Video) - HAZBIN HOTEL - YouTube https://www.youtube.com/watch?v=ulfeM8JGq7s
 - DEAL MAKER ▶ Hazbin Hotel - Alastor Song // TytoCat - YouTube https://www.youtube.com/watch?v=Eb3YAKzLcFY
 
-### 8. [[Anna T2M]]  — What big brain means to me? The impression of "chim". Workshop from common ground
+### 8. [[Anna]]  — What big brain means to me? The impression of "chim". Workshop from common ground
 
 - speaking up in the event of profound knowledge
 - Slow down when talking so as to leave a deeper impression. Take your own time when talking and don't be scared.

@@ -6,7 +6,7 @@ speakers:
   - "[[Janice]]"
   - "[[Julian]]"
   - "[[Velda]]"
-  - "[[YuYang]]"
+  - "[[Yu Yang]]"
 tags:
   - learning-day
   - session
@@ -33,10 +33,10 @@ tags:
 
 - <https://youtu.be/YZcyMgdWmPg>
 
-### 4. [[YuYang]]  — A Gamer Drank 12 Energy Drinks In 10 Minutes. This Is What Happened To His Organs. https://youtu.be/tAtaIZD0Ebs
+### 4. [[Yu Yang]]  — A Gamer Drank 12 Energy Drinks In 10 Minutes. This Is What Happened To His Organs. https://youtu.be/tAtaIZD0Ebs
 
 
-### 5. [[YuYang]]  — Learning how to use blender
+### 5. [[Yu Yang]]  — Learning how to use blender
 
 - Choose a specific area you want to learn. One that you find most rewarding and would use most often
 - Have a SMART GOAL

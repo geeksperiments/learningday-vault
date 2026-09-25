@@ -9,7 +9,7 @@ speakers:
   - "[[Louis]]"
   - "[[Melvin]]"
   - "[[Scarlett]]"
-  - "[[Yu xiang]]"
+  - "[[Yu Xiang]]"
 tags:
   - learning-day
   - session
@@ -39,7 +39,7 @@ tags:
 ### 5. [[Ka Ho]]  — Bring your own bags. Next time pay 5 cents for plastic bags. PLASTIC BAGS ARE REUSABLE BAGS. https://omny.fm/shows/moneyfm-evening-show/weekly-wrap-up-most-supermarkets-in-sg-to-charge-5
 
 
-### 6. [[Yu xiang]]  — Felt sewing and craft. Sewing techniques. Running stich, blanket stitch, and invisible stitch.
+### 6. [[Yu Xiang]]  — Felt sewing and craft. Sewing techniques. Running stich, blanket stitch, and invisible stitch.
 
 
 ### 7. [[Jan]]  — The plot and ideas behind Frankenstein ('s Monster). The fascinating intersection between Arts & Science. https://www.youtube.com/watch?v=FqlEczhNK0A

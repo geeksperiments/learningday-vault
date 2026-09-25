@@ -5,7 +5,7 @@ talk_count: 8
 speakers:
   - "[[Aaron]]"
   - "[[Fari]]"
-  - "[[Huizhen Lim]]"
+  - "[[Huizhen]]"
   - "[[Julian]]"
   - "[[Ka Ho]]"
   - "[[Melvin]]"
@@ -52,7 +52,7 @@ tags:
 ### 7. [[Yu Yang]]  — skipping rope
 
 
-### 8. [[Huizhen Lim]]  — spinal hygiene thrivechiro.com.sg
+### 8. [[Huizhen]]  — spinal hygiene thrivechiro.com.sg
 
 
 ---

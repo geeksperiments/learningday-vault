@@ -1,6 +1,6 @@
 ---
 speaker: "Scarlett"
-talk_count: 28
+talk_count: 29
 first_talk: "2022-02-25"
 last_talk: "2026-01-03"
 tags:
@@ -10,7 +10,7 @@ tags:
 
 # Scarlett
 
-- **Total Talks:** 28
+- **Total Talks:** 29
 - **First Sharing:** 2022-02-25
 - **Latest Sharing:** 2026-01-03
 - **Directory:** [[Learning Day Index]]
@@ -35,6 +35,7 @@ tags:
 | 2024-01-06 | [[Learning Day 157]] | 1 | Cutest electronic musical instrument: the Otamatone. Similar to an erhu, no frets. Watch the pros: https://youtu.be/ZmxLja-DRIw?si=BayuLk8DhHzAfqto and https://youtu.be/nY6h5kJKtgg?si=DQ9WFTj-8lhT3wx- and a Singaporean erhu player https://youtu.be/REHW8ZmwCfk?si=HunnU4Sb47RvGRqT |
 | 2023-12-02 | [[Learning Day 155]] | 3 | "Long Long Man", series of Japanese commercial on the Sakeru grape-flavoured gummy candy - https://youtu.be/6-1Ue0FFrHY?si=lX4oOP8wFJ6d-Rau |
 | 2023-10-20 | [[Learning Day 152]] | 3 | Arrowed to share about random interesting things in energy security and global affairs |
+| 2023-08-06 | [[Learning Day 147]] | 2 | How to make clay accessories |
 | 2023-06-23 | [[Learning Day 144]] | 5 | Fresh meal kits - users can order ingredent kits with receipes which the users will follow to cook the meal. Each ingredent are labelled with steps. |
 | 2023-06-10 | [[Learning Day 143]] | 8 | Aggretsuko (https://www.youtube.com/watch?v=95c1ZtP-2z8) |
 | 2023-05-19 | [[Learning Day 142]] | 4 | Trashy dinner of cUp NoOdLeS fRiEd RiCe in 15 min. Confirm tasty because cUp NoOdLeS. Reference recipe here: https://soranews24.com/2022/11/22/cup-noodles-fried-rice-super-easy-recipe-will-make-you-a-potluck-or-campsite-hero%E3%80%90sorakitchen%E3%80%91/ |

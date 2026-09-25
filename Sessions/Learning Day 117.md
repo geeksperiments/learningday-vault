@@ -8,7 +8,7 @@ speakers:
   - "[[Jin Hoo]]"
   - "[[Julian]]"
   - "[[Ka Ho]]"
-  - "[[Lih wei]]"
+  - "[[Lih Wei]]"
   - "[[Louis]]"
   - "[[Melvin]]"
   - "[[Rahul]]"
@@ -38,7 +38,7 @@ tags:
 ### 4. [[Jess]]  — Human evolution. Evolution tree. DNA sequencing reveals that evolution tree theory might be wrong, due to possible intermingling of species.
 
 
-### 5. [[Lih wei]]  — lockpicking. https://youtu.be/WpH_t0u5Ybg
+### 5. [[Lih Wei]]  — lockpicking. https://youtu.be/WpH_t0u5Ybg
 
 
 ### 6. [[Ka Ho]]  — Visual methods of multiplication. Breaking down big multiplication problems to smaller ones. 2814 x 679 = 1,910,706

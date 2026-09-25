@@ -4,13 +4,13 @@ date: 2026-07-04
 talk_count: 8
 speakers:
   - "[[Abraham]]"
-  - "[[Coconut (Yu Yang)]]"
   - "[[Darren]]"
   - "[[Hafeez]]"
   - "[[June]]"
   - "[[Justin]]"
   - "[[Melvin]]"
   - "[[Rhine]]"
+  - "[[Yu Yang]]"
 tags:
   - learning-day
   - session
@@ -28,7 +28,7 @@ tags:
 ### 1. [[Melvin]]  — 10min chair yoga https://www.youtube.com/watch?v=mPNLL_hAZP0
 
 
-### 2. [[Coconut (Yu Yang)]] 
+### 2. [[Yu Yang]] 
 
 - <https://www.youtube.com/shorts/XhPrtL6bC3g>
 - <https://www.youtube.com/watch?v=r3sDhgR2SYI>

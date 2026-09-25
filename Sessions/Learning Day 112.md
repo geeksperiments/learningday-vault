@@ -3,7 +3,7 @@ session: "112"
 date: 2022-02-04
 talk_count: 8
 speakers:
-  - "[[Angela Ng]]"
+  - "[[Angela]]"
   - "[[Ervin Lam]]"
   - "[[Jin]]"
   - "[[Ka Ho]]"
@@ -37,7 +37,7 @@ tags:
 ### 4. [[Shu En]]  — THe myth of making the egg stand upright only during the spring equinox - it can be done without the use of salt and at anytime of the year.
 
 
-### 5. [[Angela Ng]]  — Improving Optical Music Recognition Prediction Results for Camera
+### 5. [[Angela]]  — Improving Optical Music Recognition Prediction Results for Camera
 
 
 ### 6. [[Louis]]  — Thinking about Finance beyond just money. The case of simple concept of investing using the idea of Burger King and sesame seeds.

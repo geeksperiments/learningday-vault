@@ -5,7 +5,7 @@ talk_count: 7
 speakers:
   - "[[Hilda]]"
   - "[[Julian]]"
-  - "[[Liwei]]"
+  - "[[Lih Wei]]"
   - "[[Louis]]"
   - "[[Melvin]]"
   - "[[Saffiyah]]"
@@ -33,7 +33,7 @@ tags:
 ### 3. [[Hilda]]  — tarot cards - cleansing and doing a reading
 
 
-### 4. [[Liwei]]  — lens - endocentric, telecentric and hypercentric. Functions of telecentric lens
+### 4. [[Lih Wei]]  — lens - endocentric, telecentric and hypercentric. Functions of telecentric lens
 
 
 ### 5. [[Julian]]  — The Science of How to Optimize Testosterone & Estrogen

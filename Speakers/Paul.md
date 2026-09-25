@@ -1,6 +1,6 @@
 ---
 speaker: "Paul"
-talk_count: 26
+talk_count: 27
 first_talk: "2022-01-21"
 last_talk: "2026-03-07"
 tags:
@@ -10,7 +10,7 @@ tags:
 
 # Paul
 
-- **Total Talks:** 26
+- **Total Talks:** 27
 - **First Sharing:** 2022-01-21
 - **Latest Sharing:** 2026-03-07
 - **Directory:** [[Learning Day Index]]
@@ -24,6 +24,7 @@ tags:
 | 2026-03-07 | [[Learning Day 207]] | 5 | Creating a Song with AI |
 | 2026-02-07 | [[Learning Day 206]] | 3 | Grooveboxes |
 | 2025-12-06 | [[Learning Day 202]] | 3 | Physical Modeling Synthesis |
+| 2025-07-05 | [[Learning Day 192]] | 8 | https://sundownfestival.com/music-climate-action-summit/ |
 | 2025-03-01 | [[Learning Day 185]] | 5 | Tresillo Rhythm with APC Key 25 mk2 (Live Demo) |
 | 2025-02-01 | [[Learning Day 183]] | 8 | MIXXX |
 | 2024-10-18 | [[Learning Day 176]] | 6 | Humble Bundle, ACID Pro 10, and NotebookLM |

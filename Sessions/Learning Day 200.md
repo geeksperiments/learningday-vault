@@ -3,11 +3,11 @@ session: "200"
 date: 2025-11-01
 talk_count: 8
 speakers:
-  - "[[Charmaine (Urban Birds Initiative)]]"
+  - "[[Charmaine]]"
   - "[[Darren]]"
-  - "[[Fari's 101 bracelet]]"
+  - "[[Fari]]"
   - "[[Hafeez]]"
-  - "[[Liwei]]"
+  - "[[Lih Wei]]"
   - "[[Louis]]"
   - "[[Scarlett]]"
   - "[[Teo]]"
@@ -25,13 +25,13 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Fari's 101 bracelet]]  — making?
+### 1. [[Fari]]  — 101 bracelet-making?
 
 
-### 2. [[Liwei]]  — Acoustic Cameras?! Nani?!
+### 2. [[Lih Wei]]  — Acoustic Cameras?! Nani?!
 
 
-### 3. [[Charmaine (Urban Birds Initiative)]]  — Sharing the sky
+### 3. [[Charmaine]]  — Sharing the sky
 
 - The three birds that co-exist in urban Singapore.
 

@@ -3,7 +3,6 @@ session: "188.5"
 date: 2025-05-16
 talk_count: 4
 speakers:
-  - "[[Bell curve]]"
   - "[[Hafeez]]"
   - "[[Melvin]]"
   - "[[Scarlett]]"
@@ -21,7 +20,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Bell curve]]  — https://www.youtube.com/watch?v=TUOxBKEayG0
+### 1. Bell curve — https://www.youtube.com/watch?v=TUOxBKEayG0
 
 - Privilege, fortunes in life:  https://www.instagram.com/thetrampoline.club/reels/
 

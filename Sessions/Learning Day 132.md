@@ -5,8 +5,8 @@ talk_count: 5
 speakers:
   - "[[Julian]]"
   - "[[Ka Ho]]"
-  - "[[Melvin Zhang]]"
-  - "[[Velda Wong]]"
+  - "[[Melvin]]"
+  - "[[Velda]]"
   - "[[Yu Yang]]"
 tags:
   - learning-day
@@ -22,10 +22,10 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Melvin Zhang]]  — gapminder.org - (1) Animating data (2) Dollar Street (3) Worldview Upgrader. Checkout Hans Roslings' excellent TED talk https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
+### 1. [[Melvin]]  — gapminder.org - (1) Animating data (2) Dollar Street (3) Worldview Upgrader. Checkout Hans Roslings' excellent TED talk https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
 
 
-### 2. [[Velda Wong]]  — Mental health and well-being. Folks are getting burnt out from overwork in June 2022. Work reduction and setting personal boundaries.
+### 2. [[Velda]]  — Mental health and well-being. Folks are getting burnt out from overwork in June 2022. Work reduction and setting personal boundaries.
 
 
 ### 3. [[Ka Ho]]  — Two sides of extreme - Burnout vs Hustle culture. Sustainability, not only about climate change. Sustainable pace.

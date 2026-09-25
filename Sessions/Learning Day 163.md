@@ -1,12 +1,11 @@
 ---
 session: "163"
 date: 2024-04-06
-talk_count: 7
+talk_count: 6
 speakers:
   - "[[Jan]]"
   - "[[Julian]]"
-  - "[[Learning day WhatsApp community]]"
-  - "[[Liwei]]"
+  - "[[Lih Wei]]"
   - "[[Louis]]"
   - "[[Martin]]"
   - "[[Scarlett]]"
@@ -28,7 +27,7 @@ tags:
 
 - Music - https://www.youtube.com/watch?v=Z4TjmnoOKfg
 
-### 2. [[Liwei]]  — Gaming on a big screen
+### 2. [[Lih Wei]]  — Gaming on a big screen
 
 
 ### 3. [[Martin]]  — Cats (https://docs.google.com/presentation/d/1CQPU2p1AD4kKM0lnKeLYqQEVdRTsTywQsevLXBx0VyU/edit)
@@ -50,8 +49,9 @@ tags:
 - Song "Where is the justice?" https://youtu.be/-CPGKDCIRTo?si=sfaoQYBbNecGu5Ip
 - Full musical in Jap: https://youtu.be/bGci1ixhveI?si=7lkax41P9ih1esKE
 
-### 8. [[Learning day WhatsApp community]]  — https://chat.whatsapp.com/DX3GaPQMuQ56sfSggY6Y4f
+## Community Notes & Announcements
 
+8. Learning day WhatsApp community: https://chat.whatsapp.com/DX3GaPQMuQ56sfSggY6Y4f
 
 ---
 

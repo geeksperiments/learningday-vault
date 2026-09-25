@@ -10,7 +10,7 @@ speakers:
   - "[[Ka Ho]]"
   - "[[Louis]]"
   - "[[Melvin]]"
-  - "[[Paul： https]]"
+  - "[[Paul]]"
 tags:
   - learning-day
   - session
@@ -55,7 +55,7 @@ tags:
 - 福福面坊 Hearty Noodle
 - Block 163 Bukit Merah Central, #02-35, Singapore 150163
 
-### 8. [[Paul： https]]  — //sundownfestival.com/music-climate-action-summit/
+### 8. [[Paul]]  — https://sundownfestival.com/music-climate-action-summit/
 
 
 ---

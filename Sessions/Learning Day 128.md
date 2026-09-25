@@ -1,16 +1,14 @@
 ---
 session: "128"
 date: 2022-10-07
-talk_count: 8
+talk_count: 6
 speakers:
-  - "[[FATE HAS ALLOWED]]"
   - "[[Jin]]"
   - "[[Julian]]"
   - "[[Ka Ho]]"
   - "[[Louis & Scarlett]]"
   - "[[Martin]]"
   - "[[Melvin]]"
-  - "[[US TO SLEEP EARLY]]"
 tags:
   - learning-day
   - session
@@ -48,11 +46,10 @@ tags:
 ### 6. [[Martin]]  — Take-aways from Sharing Best Practice seminar: Importance of an aligned curriculum in schools and how a stream-lined curriculum allows teachers to focus on imrpoving practice instead of creating materials.
 
 
-### 7. [[FATE HAS ALLOWED]] 
+## Community Notes & Announcements
 
-
-### 8. [[US TO SLEEP EARLY]] 
-
+7. FATE HAS ALLOWED
+8. US TO SLEEP EARLY
 
 ---
 

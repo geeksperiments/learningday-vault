@@ -9,8 +9,8 @@ speakers:
   - "[[Lionel]]"
   - "[[Louis]]"
   - "[[Mahak]]"
+  - "[[Rhine]]"
   - "[[WP]]"
-  - "[[rhine]]"
 tags:
   - learning-day
   - session
@@ -50,7 +50,7 @@ tags:
 
 - <https://docs.google.com/presentation/d/1wDXNU-zXR4w8hYytDg-447qsf2kdij1zaJu_cy74kbQ/edit?usp=sharing>
 
-### 7. [[rhine]]  — rambling about hypertext
+### 7. [[Rhine]]  — rambling about hypertext
 
 - <https://youtu.be/dP1xVpMPn8M?si=bhv7m6Mq7bt6RGet&t=368>
 - <https://youtu.be/MquoGuU8sHM?si=_-fiONFIqR6UgGtG&t=645>

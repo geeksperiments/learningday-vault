@@ -5,7 +5,7 @@ talk_count: 8
 speakers:
   - "[[Florence]]"
   - "[[Ka Ho]]"
-  - "[[Liwei]]"
+  - "[[Lih Wei]]"
   - "[[Louis]]"
   - "[[Melvin]]"
   - "[[Paul]]"
@@ -41,7 +41,7 @@ tags:
 - <https://www.youtube.com/watch?v=EB8jz4Lcfl4&list=PLkMf14VQEvTb20brFFm73-_ooi6i-QeGG&index=19>
 - <https://www.youtube.com/watch?v=3BDIGt8MOD8>
 
-### 5. [[Liwei]]  — Typewriter!
+### 5. [[Lih Wei]]  — Typewriter!
 
 
 ### 6. [[Florence]]  — the joys (and pains) of overland travel. misadventures.

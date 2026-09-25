@@ -1,6 +1,6 @@
 ---
 speaker: "Teo"
-talk_count: 17
+talk_count: 18
 first_talk: "2023-07-08"
 last_talk: "2026-09-05"
 tags:
@@ -10,7 +10,7 @@ tags:
 
 # Teo
 
-- **Total Talks:** 17
+- **Total Talks:** 18
 - **First Sharing:** 2023-07-08
 - **Latest Sharing:** 2026-09-05
 - **Directory:** [[Learning Day Index]]
@@ -37,4 +37,5 @@ tags:
 | 2023-11-04 | [[Learning Day 153]] | 8 | Introduction to Markdown |
 | 2023-10-07 | [[Learning Day 151]] | 6 | (a) The SAF 8 Core Values from my experience of an overseas exercise; (b) Practices I learned in Thailand - National Anthem and the 'Wai' |
 | 2023-09-02 | [[Learning Day 149]] | 2 | Introduction to F1 - https://youtu.be/Q-jjZMMxbZs?si=HdvjC_P3nKPTnbM0 |
+| 2023-08-06 | [[Learning Day 147]] | 1 | Evolution of postal codes in Singapore and some unusual cases |
 | 2023-07-08 | [[Learning Day 145]] | 6 | Autism & Savant Syndrome - Personal Experiences. How a person on the spectrum pursued his love for buses through a trip to see the last hours of New World First Bus (NWFB) in Hong Kong. |

@@ -5,7 +5,7 @@ talk_count: 7
 speakers:
   - "[[JC]]"
   - "[[JY]]"
-  - "[[Ka Ho The incident of SQ319]]"
+  - "[[Ka Ho]]"
   - "[[Louis]]"
   - "[[Melvin]]"
   - "[[Paul]]"
@@ -35,7 +35,7 @@ tags:
 ### 3. [[Scarlett]]  — "Long Long Man", series of Japanese commercial on the Sakeru grape-flavoured gummy candy - https://youtu.be/6-1Ue0FFrHY?si=lX4oOP8wFJ6d-Rau
 
 
-### 4. [[Ka Ho The incident of SQ319]] 
+### 4. [[Ka Ho]] 
 
 - <https://www.youtube.com/watch?v=ERXG4qoI4TA&pp=ygUNbWVudG91ciBwaWxvdA%3D%3D>
 - (Supplementary material: https://www.youtube.com/watch?v=2YF8jQ9-DH4)

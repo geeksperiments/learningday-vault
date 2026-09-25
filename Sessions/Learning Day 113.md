@@ -6,9 +6,9 @@ speakers:
   - "[[Dexter]]"
   - "[[Jin]]"
   - "[[Ka Ho]]"
+  - "[[Louis & Scarlett]]"
   - "[[Martin]]"
   - "[[Melvin]]"
-  - "[[Scarlett & Louis]]"
   - "[[Velda]]"
   - "[[Yi Feng]]"
 tags:
@@ -28,7 +28,7 @@ tags:
 ### 1. [[Melvin]]  — Matcha infographic https://matcha-tea.com/matcha/the-match-tea-infographic-tells-the-whole-story See https://www.nussadoclub.org/matcha/ FAQ for recommendations.
 
 
-### 2. [[Scarlett & Louis]]  — Nissin Cup Noodles & Soda from Japan - Made in Japan ( Part 2 ) - Seafood and Curry flavour
+### 2. [[Louis & Scarlett]]  — Nissin Cup Noodles & Soda from Japan - Made in Japan ( Part 2 ) - Seafood and Curry flavour
 
 
 ### 3. [[Ka Ho]]  — Topics about Japan: (1) Cup noodles and Japan (2) Tip from Guided trip in Japan - paticipate in cultural activities like traditional dressing when visiting temple (3) Challenge to find Little Japan in Singapore

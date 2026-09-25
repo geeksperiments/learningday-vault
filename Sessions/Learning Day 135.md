@@ -5,7 +5,7 @@ talk_count: 7
 speakers:
   - "[[Jan]]"
   - "[[Julian]]"
-  - "[[Liwei]]"
+  - "[[Lih Wei]]"
   - "[[Louis]]"
   - "[[Melvin]]"
   - "[[Rahul]]"
@@ -45,7 +45,7 @@ tags:
 ### 7. [[Jan]]  — Cruel Angel's Thesis - Western/Asian differences in emotive musical performances
 
 
-### 8. [[Liwei]]  — The Looking Glass holographic display and how to easily make holograms using your phone, 3D software or photoshop https://lookingglassfactory.com/
+### 8. [[Lih Wei]]  — The Looking Glass holographic display and how to easily make holograms using your phone, 3D software or photoshop https://lookingglassfactory.com/
 
 
 ---

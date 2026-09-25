@@ -3,6 +3,7 @@ session: "114.5"
 date: 2022-03-11
 talk_count: 8
 speakers:
+  - "[[Anna]]"
   - "[[Dexter]]"
   - "[[Jin]]"
   - "[[Ka Ho]]"
@@ -10,7 +11,6 @@ speakers:
   - "[[Louis]]"
   - "[[Melvin]]"
   - "[[Nurul]]"
-  - "[[T2M]]"
 tags:
   - learning-day
   - session
@@ -38,7 +38,7 @@ tags:
 ### 4. [[Lih Wei]]  — Real-time 3D re-construction from images https://nvlabs.github.io/instant-ngp/ , how most AIs in the past are trained with human labour https://medium.com/syncedreview/data-annotation-the-billion-dollar-business-behind-ai-breakthroughs-d929b0a50d23 (captchas are one of them)
 
 
-### 5. [[T2M]]  — AMA - Anna likes to impersonate people.
+### 5. [[Anna]]  — AMA - Anna likes to impersonate people.
 
 
 ### 6. [[Ka Ho]]  — Vitamin D - Professional Guidance Advised

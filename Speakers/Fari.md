@@ -1,8 +1,8 @@
 ---
 speaker: "Fari"
-talk_count: 9
+talk_count: 10
 first_talk: "2022-07-23"
-last_talk: "2024-07-19"
+last_talk: "2025-11-01"
 tags:
   - learning-day
   - speaker
@@ -10,9 +10,9 @@ tags:
 
 # Fari
 
-- **Total Talks:** 9
+- **Total Talks:** 10
 - **First Sharing:** 2022-07-23
-- **Latest Sharing:** 2024-07-19
+- **Latest Sharing:** 2025-11-01
 - **Directory:** [[Learning Day Index]]
 
 ---
@@ -21,6 +21,7 @@ tags:
 
 | Date | Session | Talk # | Topic / Sharing |
 | :--- | :--- | :--- | :--- |
+| 2025-11-01 | [[Learning Day 200]] | 1 | 101 bracelet-making? |
 | 2024-07-19 | [[Learning Day 170]] | 7 | Naturhus concept - https://www.greenhouseliving.se/naturhus |
 | 2024-06-01 | [[Learning Day 167]] | 6 | Experiences in acting and auditioning: https://www.youtube.com/@FariWu |
 | 2023-11-04 | [[Learning Day 153]] | 7 | Singing bowls and sound healing (https://youtu.be/p0ZBJT7KMOs?si=7gvRspzBq7Q4uXze) |

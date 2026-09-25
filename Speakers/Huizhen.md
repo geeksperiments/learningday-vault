@@ -1,7 +1,7 @@
 ---
 speaker: "Huizhen"
-talk_count: 1
-first_talk: "2023-05-19"
+talk_count: 2
+first_talk: "2023-05-06"
 last_talk: "2023-05-19"
 tags:
   - learning-day
@@ -10,8 +10,8 @@ tags:
 
 # Huizhen
 
-- **Total Talks:** 1
-- **First Sharing:** 2023-05-19
+- **Total Talks:** 2
+- **First Sharing:** 2023-05-06
 - **Latest Sharing:** 2023-05-19
 - **Directory:** [[Learning Day Index]]
 
@@ -22,3 +22,4 @@ tags:
 | Date | Session | Talk # | Topic / Sharing |
 | :--- | :--- | :--- | :--- |
 | 2023-05-19 | [[Learning Day 142]] | 3 | Human Design by Chetan Parkyn |
+| 2023-05-06 | [[Learning Day 141]] | 8 | spinal hygiene thrivechiro.com.sg |

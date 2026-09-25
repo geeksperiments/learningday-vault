@@ -1,7 +1,7 @@
 ---
 speaker: "Yu Xiang"
-talk_count: 1
-first_talk: "2024-06-01"
+talk_count: 2
+first_talk: "2023-03-04"
 last_talk: "2024-06-01"
 tags:
   - learning-day
@@ -10,8 +10,8 @@ tags:
 
 # Yu Xiang
 
-- **Total Talks:** 1
-- **First Sharing:** 2024-06-01
+- **Total Talks:** 2
+- **First Sharing:** 2023-03-04
 - **Latest Sharing:** 2024-06-01
 - **Directory:** [[Learning Day Index]]
 
@@ -22,3 +22,4 @@ tags:
 | Date | Session | Talk # | Topic / Sharing |
 | :--- | :--- | :--- | :--- |
 | 2024-06-01 | [[Learning Day 167]] | 4 | Making sock puppets |
+| 2023-03-04 | [[Learning Day 137]] | 6 | Felt sewing and craft. Sewing techniques. Running stich, blanket stitch, and invisible stitch. |

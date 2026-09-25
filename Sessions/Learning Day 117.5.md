@@ -3,7 +3,7 @@ session: "117.5"
 date: 2022-04-29
 talk_count: 8
 speakers:
-  - "[[Izz Hafeez]]"
+  - "[[Hafeez]]"
   - "[[Jin]]"
   - "[[Julian]]"
   - "[[Ka Ho]]"
@@ -48,7 +48,7 @@ tags:
 ### 7. [[Ka Ho]]  — The new normal with COVID-19 chronicles: https://medicine.nus.edu.sg/the-covid-19-chronicles/
 
 
-### 8. [[Izz Hafeez]]  — Flag animation of the world countries: Space edition https://www.youtube.com/watch?v=rLuqS6En_cA
+### 8. [[Hafeez]]  — Flag animation of the world countries: Space edition https://www.youtube.com/watch?v=rLuqS6En_cA
 
 
 ---

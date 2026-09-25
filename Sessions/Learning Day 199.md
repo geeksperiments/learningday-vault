@@ -3,7 +3,6 @@ session: "199"
 date: 2025-10-17
 talk_count: 3
 speakers:
-  - "[[Bonus]]"
   - "[[Hafeez]]"
   - "[[Louis]]"
 tags:
@@ -27,7 +26,7 @@ tags:
 
 - <https://chatguessr.com/map/PlonkIt>
 
-### 3. [[Bonus]]  — Elevator Otakus
+### 3. Bonus Clip — Elevator Otakus
 
 
 ---
