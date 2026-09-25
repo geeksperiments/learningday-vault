@@ -1,0 +1,81 @@
+---
+session: "111"
+date: 2022-01-21
+talk_count: 8
+speakers:
+  - "[[Anna]]"
+  - "[[Hijie]]"
+  - "[[Janice]]"
+  - "[[Ka Ho]]"
+  - "[[Martin]]"
+  - "[[Melia]]"
+  - "[[Melvin]]"
+  - "[[Paul]]"
+tags:
+  - learning-day
+  - session
+---
+
+# Learning Day 111
+
+**Date:** 2022-01-21
+**Navigation:** [[Learning Day 110.5|← Previous (LD 110.5)]] · [[Learning Day Index|Index]] · [[Learning Day 111.5|Next (LD 111.5) →]]
+
+---
+
+## Talks & Presentations
+
+### [[Martin]]  — Ashanti Empire in Africa that lasted from the early 1600s - 1900s. Built on free labour. Rallied around the golden stool to defeat the enemy. Importance of culture to unify the people. Series of Anglo-Ashanti wars that were fought on the basis of disagreements between future colonisers on how Africa should be divided.
+
+
+### [[Ka Ho]]  — Mathematical biology, using mathematical models in biology & Alan Turing's contributions (Ref Video: How the zebra really got its stripes. https://www.youtube.com/watch?v=JLkCaBwRrVo )
+
+
+### [[Paul]]  — MODO BASS - a physically modeled electric bass guitar; delivers the rich and nuanced sound of a real instrument played by a real musician. Useful when synth bass or samples aren't good enough and you can't get a talented bass player to cut a perfect track on short notice. https://www.ikmultimedia.com/products/modobass/
+
+
+### [[Melvin]]  — Cuttle, 2 player card game played with a standard deck. Play against the AI https://gloryofrobots.itch.io/cuttle, play against other people https://www.cuttle.cards/ Rules: https://github.com/shmup/card-game-rules/blob/master/cuttle.md
+
+
+### [[Melia]]  — Collection of parasite plants. Examples are rafflesia and mistletoe. In Southeast Asia, there are practices of using parasite plants for their medicinal properties. https://link.springer.com/article/10.1007%2Fs11418-012-0695-2
+
+
+### [[Hijie]]  — Searching for the best tool to permanently delete files on your computer. Bought BitRaser. SG companies fined due to data breaches.
+
+
+### [[Anna]]  — Reading the book "Beneath the Rug", 30 stories of people in the social impact space. Understand the struggles and share the stories. https://www.solvenplus.one/btr
+
+
+### [[Janice]]  — Springtail Jumps Off Water and in Super Slow Motion! https://www.youtube.com/watch?v=MXeSnWY6DNc Pictures https://www.chaosofdelight.org/
+
+-- https://pad.riseup.net/p/ld111
+
+---
+
+## Original Notes
+
+<details>
+<summary>Click to view original raw notes from this session</summary>
+
+```text
+
+Martin - Ashanti Empire in Africa that lasted from the early 1600s - 1900s. Built on free labour. Rallied around the golden stool to defeat the enemy. Importance of culture to unify the people. Series of Anglo-Ashanti wars that were fought on the basis of disagreements between future colonisers on how Africa should be divided. 
+
+Ka Ho - Mathematical biology, using mathematical models in biology & Alan Turing's contributions (Ref Video: How the zebra really got its stripes. https://www.youtube.com/watch?v=JLkCaBwRrVo ) 
+
+Paul - MODO BASS - a physically modeled electric bass guitar; delivers the rich and nuanced sound of a real instrument played by a real musician. Useful when synth bass or samples aren't good enough and you can't get a talented bass player to cut a perfect track on short notice. https://www.ikmultimedia.com/products/modobass/
+
+Melvin - Cuttle, 2 player card game played with a standard deck. Play against the AI https://gloryofrobots.itch.io/cuttle, play against other people https://www.cuttle.cards/ Rules: https://github.com/shmup/card-game-rules/blob/master/cuttle.md
+
+Melia - Collection of parasite plants. Examples are rafflesia and mistletoe. In Southeast Asia, there are practices of using parasite plants for their medicinal properties. https://link.springer.com/article/10.1007%2Fs11418-012-0695-2
+
+Hijie - Searching for the best tool to permanently delete files on your computer. Bought BitRaser. SG companies fined due to data breaches.
+
+Anna - Reading the book "Beneath the Rug", 30 stories of people in the social impact space. Understand the struggles and share the stories. https://www.solvenplus.one/btr
+
+Janice - Springtail Jumps Off Water and in Super Slow Motion! https://www.youtube.com/watch?v=MXeSnWY6DNc Pictures https://www.chaosofdelight.org/
+
+-- https://pad.riseup.net/p/ld111
+
+```
+</details>
