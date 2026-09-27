@@ -30,7 +30,7 @@ tags:
 ### 3. [[Ka Ho]]  — The technical differences between SimplyGo (Account-Based Ticketing) and Card-based ticketing https://www.channelnewsasia.com/podcasts/simplygo-mrt-bus-lta-card-payment-heart-matter-podcast-4056106
 
 
-### 4. [[Paul]]  — Vocaloid Alternatives
+### 4. [[Paul]]  — [[Music, Audio & Acoustics|Vocaloid Alternatives]]
 
 - Vocaloid: https://www.vocaloid.com/en/
 - Sample: https://www.youtube.com/watch?v=VU9rskwbUMw

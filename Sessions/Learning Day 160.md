@@ -38,7 +38,7 @@ tags:
 - <https://docs.google.com/document/d/1V_MPjpmHHtBrOVg9pGNozHEGajqhQMDoauLDpsPbuTU/edit?usp=sharing>
 - <https://www.data-mania.com/blog/reasons-not-to-become-a-data-analyst/>
 
-### 5. [[Paul]]  — Melodics Beatmaking Workshop
+### 5. [[Paul]]  — [[Music, Audio & Acoustics|Melodics Beatmaking Workshop]]
 
 - Melodics hosted a free 14-day workshop on beatmaking (music production)
 - Workshop Intro: https://www.youtube.com/watch?v=-_EqRzQ_lf4

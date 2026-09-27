@@ -30,7 +30,7 @@ tags:
 ### 2. [[Tony]]  — Visual Scribing
 
 
-### 3. [[Paul]]  — Grooveboxes
+### 3. [[Paul]]  — [[Music, Audio & Acoustics|Grooveboxes]]
 
 - A groovebox is a self-contained electronic music production instrument that integrates synthesis, sequencing, and performance controls into a single, all-in-one unit, designed for creating music without a computer. They are popular for their tactile workflow and portability, making them great for both studio use and live performance.
 - Battlestation https://synthanatomy.com/2025/12/bram-bos-battelstation-an-immediate-performance-ready-groovebox.html

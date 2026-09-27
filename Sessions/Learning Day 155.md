@@ -43,7 +43,7 @@ tags:
 ### 5. [[JC]]  — General History of [[Singapore History & Culture|Singapore]]. Malay Annals (Book). Temasek, Sang Nila Utama, Isakandar Shah, Long Ya Men, Temengong Abdul, Raffles, Farquhar, British in 1819, Thiam Hock Keng. Singapore River, Lightermen, Rickshaw Puller. Coolies. Maria Hertogh riots. 1964 July 21st racial riots. "Peaceful" independence of Singapore.
 
 
-### 6. [[Paul]]  — bespoke demo showing how additive synthesis is applied into creating a song/melody
+### 6. [[Paul]]  — bespoke demo showing how additive synthesis is applied into creating a [[Music, Audio & Acoustics|song/melody]]
 
 - https://www.bespokesynth.com/
 - https://www.meldaproduction.com/MFreeFXBundle

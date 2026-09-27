@@ -39,7 +39,7 @@ tags:
 
 - <https://docs.google.com/presentation/d/1m95v67_-ks2JBad8f_zg8CJOU0fqgL7Nsb1QLQIvJ00/edit?usp=sharing>
 
-### 5. [[Paul]]  — Tresillo Rhythm with APC Key 25 mk2 (Live Demo)
+### 5. [[Paul]]  — [[Music, Audio & Acoustics|Tresillo Rhythm]] with APC Key 25 mk2 (Live Demo)
 
 - Tresillo Rhythm: https://www.youtube.com/watch?v=9tcdBYK9ZmY
 - APC Key 25 mk2: https://www.akaipro.com/apc-key-25-mkii.html

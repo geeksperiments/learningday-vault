@@ -62,7 +62,7 @@ tags:
 - 7:45 - space plonking, scripting
 - 35:35 - likely not cheating
 
-### 8. [[Paul]]  — MIXXX
+### 8. [[Paul]]  — [[Music, Audio & Acoustics|MIXXX]] DJ software
 
 - Free and Open Source DJ Software
 - Mixxx integrates the tools DJs need to perform creative live mixes with digital music files.

@@ -36,7 +36,7 @@ tags:
 
 - Variant played with UNO card deck instead.
 
-### 4. [[Paul]]  — One Synth Challenge
+### 4. [[Paul]]  — One [[Music, Audio & Acoustics|Synth Challenge]]
 
 * It is a monthly competition where tracks are made using only one synth for absolutely all sounds, including percussion, then voted on.
 - FAQ: https://sites.google.com/site/kvrosc/faq

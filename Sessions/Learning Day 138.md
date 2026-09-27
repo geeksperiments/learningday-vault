@@ -35,7 +35,7 @@ tags:
 
 - <https://www.youtube.com/watch?v=IgoREfXJR88&list=PLt4UmbeKIBOwZ0WKax6KogEX0-ZRSZGMu&index=4>
 
-### 4. [[Paul]]  — Free Amp and Looper
+### 4. [[Paul]]  — Free Amp and [[Music, Audio & Acoustics|Looper]]
 
 * neurontube-debut
 * https://audiosingularity.com/product/neurontube-debut/

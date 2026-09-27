@@ -3,6 +3,9 @@ speaker: "Paul"
 talk_count: 27
 first_talk: "2022-01-21"
 last_talk: "2026-03-07"
+topics:
+  - "[[Music, Audio & Acoustics]]"
+  - "[[Artificial Intelligence]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 27
 - **First Sharing:** 2022-01-21
 - **Latest Sharing:** 2026-03-07
+- **Primary Topics:** [[Music, Audio & Acoustics]] · [[Artificial Intelligence]]
 - **Directory:** [[Learning Day Index]]
 
 ---

@@ -37,7 +37,7 @@ tags:
 ### 4. [[Lih Wei]]  — Reverse engineering .NET programs and modifying them
 
 
-### 5. [[Paul]]  — Almost proper demo about...
+### 5. [[Paul]]  — Almost proper demo about [[Music, Audio & Acoustics|lo-fi audio plugins]]...
 
 - https://bedroomproducersblog.com/2023/06/21/unison-audio-introduces-free-lo-fi-plugin-zen-master/
 - to be shared further next when there's no audio constraint :-)

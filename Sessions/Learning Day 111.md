@@ -31,7 +31,7 @@ tags:
 ### [[Ka Ho]]  — Mathematical biology, using mathematical models in biology & Alan Turing's contributions (Ref Video: How the zebra really got its stripes. https://www.youtube.com/watch?v=JLkCaBwRrVo )
 
 
-### [[Paul]]  — MODO BASS - a physically modeled electric bass guitar; delivers the rich and nuanced sound of a real instrument played by a real musician. Useful when synth bass or samples aren't good enough and you can't get a talented bass player to cut a perfect track on short notice. https://www.ikmultimedia.com/products/modobass/
+### [[Paul]]  — [[Music, Audio & Acoustics|MODO BASS]] - a physically modeled electric bass guitar; delivers the rich and nuanced sound of a real instrument played by a real musician. Useful when synth bass or samples aren't good enough and you can't get a talented bass player to cut a perfect track on short notice. https://www.ikmultimedia.com/products/modobass/
 
 
 ### [[Melvin]]  — Cuttle, 2 player card game played with a standard deck. Play against the AI https://gloryofrobots.itch.io/cuttle, play against other people https://www.cuttle.cards/ Rules: https://github.com/shmup/card-game-rules/blob/master/cuttle.md

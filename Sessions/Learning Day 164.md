@@ -34,7 +34,7 @@ tags:
 - c. The child "scientist" who has intention to control everybody's mind (from eposide  - "The Control Freak"): https://www.youtube.com/watch?v=rOmELW06bKk
 - Note: It can be questionable if The Garfield Show is also tying to attract adults since although, a show for children in nature, some of the jokes can only be understood by adults.
 
-### 4. [[Paul]]  — Learning Synths (Synthesizers)
+### 4. [[Paul]]  — Learning Synths ([[Music, Audio & Acoustics|Synthesizers]])
 
 - <https://learningsynths.ableton.com/>
 - 5.

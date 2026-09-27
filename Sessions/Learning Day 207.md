@@ -42,7 +42,7 @@ tags:
 - File an Employment Claim: https://www.judiciary.gov.sg/civil/file-employment-claim
 - Enforce an Order: https://www.judiciary.gov.sg/civil/civil-claims-(from-1-april-2022)/enforce-an-order-or-judgment-(from-1-april-2022)
 
-### 5. [[Paul]]  — Creating a Song with [[Artificial Intelligence|AI]]
+### 5. [[Paul]]  — Creating a [[Music, Audio & Acoustics|Song]] with [[Artificial Intelligence|AI]]
 
 - suno.com
 

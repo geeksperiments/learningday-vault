@@ -31,7 +31,7 @@ tags:
 ### 2. [[Melvin]]  — Better backups. Backblaze, storj.
 
 
-### 3. [[Paul]]  — Looper Pedal
+### 3. [[Paul]]  — [[Music, Audio & Acoustics|Looper Pedal]]
 
 - Live Looping: https://en.wikipedia.org/wiki/Live_looping
 - Looper Pedal used in the demo: https://lekatodeal.com/products/guitar-effect-pedal-with-9-onboard-loops

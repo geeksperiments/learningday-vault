@@ -30,7 +30,7 @@ tags:
 ### 2. [[Hafeez]]  — Flags on Powerpoint https://www.youtube.com/watch?v=w5QSVhgrqVE
 
 
-### 3. [[Paul]]  — Physical Modeling Synthesis
+### 3. [[Paul]]  — [[Music, Audio & Acoustics|Physical Modeling Synthesis]]
 
 - 🎹 What Is Synthesis?
 - Synthesis is the art of generating sound by shaping or combining waveforms.

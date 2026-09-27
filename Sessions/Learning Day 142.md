@@ -51,7 +51,7 @@ tags:
 ### 7. [[Rahul]]  — Vipassana Retreat in Malaysia https://malaya.dhamma.org/
 
 
-### 8. [[Paul]]  — PlugData
+### 8. [[Paul]]  — [[Music, Audio & Acoustics|PlugData]]
 
 * A visual programming environment for audio experimentation, prototyping and education
 * https://plugdata.org/

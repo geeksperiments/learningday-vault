@@ -47,7 +47,7 @@ tags:
 ### 5. [[Hijie]]  — Insights from Seneca on Time and Existence
 
 
-### 6. [[Paul]]  — Humble Bundle, ACID Pro 10, and NotebookLM
+### 6. [[Paul]]  — Humble Bundle, [[Music, Audio & Acoustics|ACID Pro 10]] DAW, and [[Artificial Intelligence|NotebookLM]]
 
 - https://www.humblebundle.com/software/music-creators-bundle-software
 - https://notebooklm.google/

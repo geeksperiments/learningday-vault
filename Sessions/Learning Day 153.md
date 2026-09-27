@@ -30,7 +30,7 @@ tags:
 - How it works
 - RFID
 
-### 2. [[Paul]]  — Every sound is sine
+### 2. [[Paul]]  — Every sound is sine ([[Music, Audio & Acoustics|additive synthesis]])
 
 - https://youtu.be/UrBZsUBibtk (Every sound is a sine wave.)
 - <https://meettechniek.info/additional/additive-synthesis.html>

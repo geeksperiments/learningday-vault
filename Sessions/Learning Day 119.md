@@ -31,7 +31,7 @@ tags:
 ### 2. [[Melvin]]  — [[Crafts, Origami & Life Hacks|Origami Envelope]] using Square Paper and A4 Paper - useful for turning birthday letters into a portable piece
 
 
-### 3. [[Paul]]  — Soundfont, FluidSynth (soundfont player)
+### 3. [[Paul]]  — Soundfont, FluidSynth ([[Music, Audio & Acoustics|soundfont player]])
 
 - Portable keyboard/synthesizer
 - References:
