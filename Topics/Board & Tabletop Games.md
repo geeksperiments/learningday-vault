@@ -7,15 +7,15 @@ tags:
 
 # Board & Tabletop Games
 
-Sharings covering tabletop games, card games, co-op games, abstract strategy, and TTRPGs.
+Modern tabletop board games, card games, co-op strategy games, and tabletop roleplaying games (TTRPGs).
 
 ## Related Topics
-- [[Philosophy & Mental Models]]
-- [[Crafts & Design]]
+- [[Puzzles, Magic & Strategy]]
+- [[Video Games & Interactive Media]]
 
 ## Notable Sharings
-- [[Learning Day 213]]: [[Amos]] — TTRPGs and How to Start Playing
-- [[Learning Day 192]]: [[Melvin]] — Pen Paper Games - Hex
-- [[Learning Day 142]]: [[Melvin]] — Hanabi by Antoine Bauza
-- [[Learning Day 114.5]]: [[Melvin]] — Dominion by Donald X. Vaccarino
-- [[Learning Day 111]]: [[Melvin]] — Cuttle
+- [[Learning Day 114.5]]: [[Melvin]] — Dominion by Donald X
+- [[Learning Day 114]]: [[Melvin]] — Regicide ( a 1-4 player co-op card game using only standard playing cards
+- [[Learning Day 131]]: [[Louis]] — Using ai-generated art, spreadsheets, and Adobe InDesign to generate a card game.
+- [[Learning Day 136]]: [[Melvin]] — Play LotR Living Card Game with  open source website to play the game online with others or solo.
+- [[Learning Day 141]]: [[Melvin]] — how much would you pay to play this red/black card game?
