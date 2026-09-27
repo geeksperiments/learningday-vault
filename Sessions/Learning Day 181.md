@@ -65,7 +65,7 @@ tags:
 - 1. Pill Crushers Crushed my Hopes.
 - 2. Clearing dust from wall edges.
 
-### 9. [[Alan]]  — Stoicism
+### 9. [[Alan]]  — [[Philosophy & Mental Models|Stoicism]]
 
 
 ### 10. [[Teo]]  — Communicating Using NATO Phonetic Alphabet and Number

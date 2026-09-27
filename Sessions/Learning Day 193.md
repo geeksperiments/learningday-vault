@@ -23,13 +23,13 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Vibe Coding - What it is, and how it works. Replit. Made this on the spot for learning day: https://learning-persona-quiz-lauises.replit.app/ ½
+### 1. [[Louis]]  — [[Artificial Intelligence|Vibe Coding]] - What it is, and how it works. Replit. Made this on the spot for learning day: https://learning-persona-quiz-lauises.replit.app/ ½
 
 
 ### 2. [[Jae]]  — FYP Project - Hotpot City (RPG) https://wildinjaelyn.itch.io/hotpot-city-boiling-point +
 
 
-### 3. [[Tan]]  — Billion Dollar Decision. Genting Singapore (G13), being in the MICE sector. High spending tourists, year round demand, boost local economy, leisure touris, large corporate budget. Basically, business tourism. Hospitality classifies MICE as one of the most profitable segments because of large volume bookings or rooms, conference halls, catering, premium services. +
+### 3. [[Tan]]  — Billion Dollar Decision. Genting [[Singapore History & Culture|Singapore]] (G13), being in the MICE sector. High spending tourists, year round demand, boost local economy, leisure touris, large corporate budget. Basically, business tourism. Hospitality classifies MICE as one of the most profitable segments because of large volume bookings or rooms, conference halls, catering, premium services. +
 
 
 ### 4. [[Jan]]  — Post-depression. By Building a Galatic Civilization! Jae's impact. ½+

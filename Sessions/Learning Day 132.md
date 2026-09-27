@@ -22,16 +22,16 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Melvin]]  — gapminder.org - (1) Animating data (2) Dollar Street (3) Worldview Upgrader. Checkout Hans Roslings' excellent TED talk https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
+### 1. [[Melvin]]  — [[Data & Analytics|gapminder]].org - (1) Animating data (2) Dollar Street (3) Worldview Upgrader. Checkout Hans Roslings' excellent TED talk https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
 
 
-### 2. [[Velda]]  — Mental health and well-being. Folks are getting burnt out from overwork in June 2022. Work reduction and setting personal boundaries.
+### 2. [[Velda]]  — [[Health, Fitness & Wellness|Mental health]] and well-being. Folks are getting burnt out from overwork in June 2022. Work reduction and setting personal boundaries.
 
 
-### 3. [[Ka Ho]]  — Two sides of extreme - Burnout vs Hustle culture. Sustainability, not only about climate change. Sustainable pace.
+### 3. [[Ka Ho]]  — Two sides of extreme - [[Community, Volunteering & Social Dynamics|Burnout]] vs Hustle culture. Sustainability, not only about climate change. Sustainable pace.
 
 
-### 4. [[Yu Yang]]  — Studying Cybersecurity and Computer Science in Uni. One of the assignment is to determine the grades from the scores of the students.
+### 4. [[Yu Yang]]  — Studying [[Cybersecurity & Cryptography|Cybersecurity]] and Computer Science in Uni. One of the assignment is to determine the grades from the scores of the students.
 
 
 ### 5. [[Julian]]  — The 7 Types of Plastic

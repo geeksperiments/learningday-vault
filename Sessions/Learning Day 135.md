@@ -35,7 +35,7 @@ tags:
 
 - <https://tinyurl.com/witness-eliewiesel>
 
-### 4. [[Scarlett]]  — Origami rabbit (https://youtu.be/ZUk7cW7u1Rw)
+### 4. [[Scarlett]]  — [[Crafts, Origami & Life Hacks|Origami]] rabbit (https://youtu.be/ZUk7cW7u1Rw)
 
 - 5.Ka Ho: Dehumidifier and humidity https://techblog.ctgclean.com/wp-content/uploads/Relative-Humidity-Graph-e1367505504127.jpg
 
@@ -45,7 +45,7 @@ tags:
 ### 7. [[Jan]]  — Cruel Angel's Thesis - Western/Asian differences in emotive musical performances
 
 
-### 8. [[Lih Wei]]  — The Looking Glass holographic display and how to easily make holograms using your phone, 3D software or photoshop https://lookingglassfactory.com/
+### 8. [[Lih Wei]]  — The Looking Glass holographic display and how to easily make holograms using your phone, 3D software or [[Design, Art & Creative Tools|photoshop]] https://lookingglassfactory.com/
 
 
 ---

@@ -21,7 +21,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Teo]]  — Evolution of postal codes in Singapore and some unusual cases
+### 1. [[Teo]]  — Evolution of postal codes in [[Singapore History & Culture|Singapore]] and some unusual cases
 
 
 ### 2. [[Scarlett]]  — How to make clay accessories
@@ -30,7 +30,7 @@ tags:
 ### 3. [[Q]]  — How to learn to play drums
 
 
-### 4. [[Melvin]]  — National day rituals and what they signify for you
+### 4. [[Melvin]]  — [[Singapore History & Culture|National day]] rituals and what they signify for you
 
 
 ---

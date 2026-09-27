@@ -28,7 +28,7 @@ tags:
 ### 1. [[Louis]]  — Prototyping - What it is, how does it work?
 
 
-### 2. [[Melvin]]  — Lazarus Group's 1.5B hack
+### 2. [[Melvin]]  — [[Cybersecurity & Cryptography|Lazarus Group]]'s 1.5B hack
 
 
 ### 3. [[Ka Ho]]  — Reading - ‘Done in a flash’: Malaysians laud quick border checkpoint clearance with new app but want glitches fixed
@@ -56,7 +56,7 @@ tags:
 - 3D Engine: https://www.youtube.com/watch?v=xu1wRfUHtKg&t=14
 - Graphics Engine: https://youtu.be/aJNnEqNGi7w?si=dY05g9eTdTFu9jco
 
-### 7. [[JC]]  — Bunch of Mental puzzles
+### 7. [[JC]]  — Bunch of Mental [[Puzzles, Magic & Strategy|puzzles]]
 
 
 ### 8. [[Jin]]  — Rectangle, weight of front vs back, Kind of drifting

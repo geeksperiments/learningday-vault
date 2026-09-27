@@ -8,6 +8,7 @@ A structured Obsidian knowledge vault containing community notes, presentations,
 - 🎨 **[[Community & Culture]]**: Overview of the community rules (T-Shirt challenge), origin story, and creative session formats.
 - 📁 **`Sessions/`**: 107 individual session notes (e.g., `Learning Day 213.md`), each with metadata frontmatter, presentation links, speaker wikilinks, and bidirectional navigation.
 - 📁 **`Speakers/`**: 119 dedicated presenter profile notes (e.g., `Melvin.md`, `Ka Ho.md`, `Louis.md`), indexing every presentation given by date and session.
+- 📁 **`Topics/`**: 28 curated topic hub notes (e.g., `Artificial Intelligence.md`, `Board & Tabletop Games.md`) establishing thematic semantic relationships across the graph.
 - 📁 **`Attachments/`**: Configured default folder for attachments and media.
 
 ## Git Sync & Backup

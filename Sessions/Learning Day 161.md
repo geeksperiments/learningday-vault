@@ -28,10 +28,10 @@ tags:
 ### 1. [[Janice]]  — Mindful Meditation
 
 
-### 2. [[Melvin]]  — Folding a seamless cube https://www.youtube.com/watch?v=Pn9ROEqK0r4
+### 2. [[Melvin]]  — Folding a [[Crafts, Origami & Life Hacks|seamless cube]] https://www.youtube.com/watch?v=Pn9ROEqK0r4
 
 
-### 3. [[Paul]]  — AI Sound/Music Processing
+### 3. [[Paul]]  — [[Artificial Intelligence|AI]] Sound/[[Music, Audio & Acoustics|Music]] Processing
 
 - OpenVINO - A set of AI-enabled effects, generators, and analyzers for Audacity®. These AI features run 100% locally on your PC 💻 -- no internet connection necessary! OpenVINO™ is used to run AI models on supported accelerators found on the user's system such as CPU, GPU, and NPU.
 - https://github.com/intel/openvino-plugins-ai-audacity

@@ -24,7 +24,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Rap Music Video on Capitalism
+### 1. [[Louis]]  — Rap [[Music, Audio & Acoustics|Music]] Video on Capitalism
 
 - Ren - Money Game part 2
 - <https://youtu.be/YonS9_QJbp8>
@@ -34,14 +34,14 @@ tags:
 - A Cruel Angel's Thesis English rebuild AMV (Geekyfandubs) + Lyrics
 - <https://youtu.be/bOVyA6tbqsY>
 
-### 3. [[Julian]]  — How to Make Pineapple Tarts (feat. the family recipe)
+### 3. [[Julian]]  — How to Make Pineapple Tarts (feat. the family [[Food, Cooking & Beverage|recipe]])
 
 
 ### 4. [[Melvin]]  — 'The Elephant in the Brain: Hidden Motives in Everyday Life'
 
 - <https://www.slideshare.net/INSTITUTEsk/robin-hanson-hidden-motives-are-everywhere>
 
-### 5. [[Paul]]  — Music Live Coding - Sonic Pi
+### 5. [[Paul]]  — [[Music, Audio & Acoustics|Music]] Live Coding - Sonic Pi
 
 * Screenshot of the jam session: https://ibb.co/QffVwjt
 * Sonic Pi is a code-based music creation and performance tool.
@@ -59,7 +59,7 @@ tags:
 * Plant it in soil so it grows stronger
 * You need to plant a male and female tree near each other if you want fruits
 
-### 7. [[Rahul]]  — Lifehack - Making your room smell like Canada -- using maple/coffee/vanilla essence from baking shops as scents for your room
+### 7. [[Rahul]]  — Lifehack - Making your room smell like Canada -- using maple/[[Food, Cooking & Beverage|coffee]]/vanilla essence from baking shops as scents for your room
 
 
 ---

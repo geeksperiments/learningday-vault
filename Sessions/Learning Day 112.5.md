@@ -27,26 +27,26 @@ tags:
 ### 1. [[Ka Ho]]  — Bonhoeffer’s Theory of Stupidity - https://www.youtube.com/watch?v=ww47bR86wSc
 
 
-### 2. [[Louis & Scarlett]]  — Nissin Cup Noodles from Japan (made in Japan) and soda version. Original and Tomato Flavour
+### 2. [[Louis & Scarlett]]  — Nissin [[Japan & Japanese Culture|Cup Noodles from Japan]] (made in Japan) and soda version. Original and Tomato Flavour
 
 
-### 3. [[Melvin]]  — Growing the digital garden using evergreen notes
+### 3. [[Melvin]]  — Growing the digital garden using [[Tools for Thought & PKM|evergreen notes]]
 
 - maggieappleton.com/evergreens (create titles using statements instead of just words!) Apps that are similar - roamresearch.com, obsidian.md
 
-### 4. [[Ka Ho]]  — Mindmaps and file folder structures as a way to organize information and knowledge. Over reliance on single "Laundry basket" with search engine as an anti-pattern to learn.
+### 4. [[Ka Ho]]  — [[Tools for Thought & PKM|Mindmaps]] and file folder structures as a way to organize information and knowledge. Over reliance on single "Laundry basket" with search engine as an anti-pattern to learn.
 
 
-### 5. [[Shu En]]  — History of TOTO. https://www.youtube.com/watch?v=HGzC79d30WE. How Singapore Pools contributed to building Singapore.
+### 5. [[Shu En]]  — [[Singapore History & Culture|History of TOTO]]. https://www.youtube.com/watch?v=HGzC79d30WE. How Singapore Pools contributed to building Singapore.
 
 
-### 6. [[Shan]]  — Framework modular interchange-able part laptops https://frame.work/. Similar to https://www.fairphone.com/en/. Say no to monopolistic computer brands!!
+### 6. [[Shan]]  — [[Hardware & Devices|Framework modular]] interchange-able part laptops https://frame.work/. Similar to https://www.fairphone.com/en/. Say no to monopolistic computer brands!!
 
 
-### 7. [[Jin]]  — Inner workings of door knobs. How to break open doors. Hinges, Latches, connnection points.
+### 7. [[Jin]]  — Inner workings of [[Crafts, Origami & Life Hacks|door knobs]]. How to break open doors. Hinges, Latches, connnection points.
 
 
-### 8. [[Rahul]]  — Life-changing tip of how to fold a shirt in 2 seconds. https://www.youtube.com/watch?v=uz6rjbw0ZA0
+### 8. [[Rahul]]  — [[Crafts, Origami & Life Hacks|Life-changing tip]] of how to fold a shirt in 2 seconds. https://www.youtube.com/watch?v=uz6rjbw0ZA0
 
 
 ---

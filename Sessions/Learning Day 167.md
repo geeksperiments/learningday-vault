@@ -28,14 +28,14 @@ tags:
 ### 1. [[Louis]]  — Systems Thinking: https://www.canva.com/design/DAGGZ_4H2nw/0kLnYxom-kFEj7KB2jJWpw/edit
 
 
-### 2. [[Melvin]]  — Today is International Tabletop Day! https://nationaltoday.com/international-tabletop-day/
+### 2. [[Melvin]]  — Today is International [[Board & Tabletop Games|Tabletop]] Day! https://nationaltoday.com/international-tabletop-day/
 
 - Just One https://www.rprod.com/en/games/just-one
 - Click https://just1.herokuapp.com/room/ld167 to join
 - TT game festival by NLB: https://www.eventbrite.com/cc/tabletop-games-festival-3355549
 - Suntec tablecon: https://www.eventbrite.sg/e/tablecon-quest-2024-tickets-885449793167
 
-### 3. [[Ka Ho]]  — Recorder (musical instrument) - things that are not taught in Primary School music lesson.
+### 3. [[Ka Ho]]  — Recorder (musical instrument) - things that are not taught in Primary School [[Music, Audio & Acoustics|music]] lesson.
 
 - a. Size Variations (and hence pitch) - By decreasing size - Great Bass, Bass, Tenor, Alto, Soprano, Sopranino (there's more, depending on makers).
 - b. Windway - Straight and Arch
@@ -61,7 +61,7 @@ tags:
 
 - <https://youtu.be/4ArjlPAU_X4?si=B3WxartC8lYwCjM_>
 
-### 8. [[Anna]]  — AMA. Mental Well-being, work stress, adapting to Singapore and self-care.
+### 8. [[Anna]]  — AMA. Mental Well-being, work stress, adapting to [[Singapore History & Culture|Singapore]] and self-care.
 
 
 ---

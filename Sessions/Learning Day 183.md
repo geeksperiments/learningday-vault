@@ -32,7 +32,7 @@ tags:
 ### 2. [[Hilda]]  — Sak Yant tattoos: https://www.federationofkhmersakyantra.com/about-sak-yant/
 
 
-### 3. [[Scarlett]]  — Folding an origami fish using angbao - step-by-step guide here: http://www.dinomama.com/2013/02/cny-craft-red-packet-fish.html?m=1
+### 3. [[Scarlett]]  — Folding an [[Crafts, Origami & Life Hacks|origami]] fish using angbao - step-by-step guide here: http://www.dinomama.com/2013/02/cny-craft-red-packet-fish.html?m=1
 
 
 ### 4. [[Ka Ho]]  — Eeveelution (Eevee and its evolved forms) and the story of life lessons related to it.
@@ -48,7 +48,7 @@ tags:
 
 - <https://docs.google.com/presentation/d/1Sy89KZcNeR6ouUfTpbEYFmQtgv8UiBiyeZ1UN5CVD4o/edit?usp=sharing>
 
-### 6. [[Lih Wei]]  — Novation Launchpad Pro and live music performances in Ableton
+### 6. [[Lih Wei]]  — Novation Launchpad Pro and live [[Music, Audio & Acoustics|music]] performances in Ableton
 
 
 ### 7. [[Hafeez]]  — How to spot a cheater in Geoguessr

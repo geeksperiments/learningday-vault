@@ -25,7 +25,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Melvin]]  — 10min chair yoga https://www.youtube.com/watch?v=mPNLL_hAZP0
+### 1. [[Melvin]]  — 10min [[Health, Fitness & Wellness|chair yoga]] https://www.youtube.com/watch?v=mPNLL_hAZP0
 
 
 ### 2. [[Yu Yang]] 

@@ -21,11 +21,11 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Meritocracy in Singapore - https://www.youtube.com/watch?v=P8frwa5JdaQ
+### 1. [[Louis]]  — Meritocracy in [[Singapore History & Culture|Singapore]] - https://www.youtube.com/watch?v=P8frwa5JdaQ
 
 - [ Video: Measuring Meritocracy in CNA insider on YouTube; available as a playlist ]
 
-### 2. [[Melvin]]  — Passo, a new abstract board game. https://steffen-spiele.com/products/passo
+### 2. [[Melvin]]  — Passo, a new abstract [[Board & Tabletop Games|board game]]. https://steffen-spiele.com/products/passo
 
 
 ### 3. [[Ka Ho]]  — Consuming Gossip

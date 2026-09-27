@@ -24,10 +24,10 @@ tags:
 
 - Privilege, fortunes in life:  https://www.instagram.com/thetrampoline.club/reels/
 
-### 2. [[Melvin]]  — Deepmind's AlphaEvolve edits code to solve open problems https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
+### 2. [[Melvin]]  — Deepmind's [[Artificial Intelligence|AlphaEvolve]] edits code to solve open problems https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
 
 
-### 3. [[Hafeez]]  — 3D Computer Vision for Object Reassembly from Multiple Fragments
+### 3. [[Hafeez]]  — 3D [[Artificial Intelligence|Computer Vision]] for Object Reassembly from Multiple Fragments
 
 - <https://docs.google.com/presentation/d/1iQ6L-CjBo4Dzzo14Qb_KE67725Cm38RalAWg1J5LPgo/edit?usp=sharing>
 

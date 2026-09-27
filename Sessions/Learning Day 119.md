@@ -28,7 +28,7 @@ tags:
 ### 1. [[Ching]]  — Special Needs Sign Language
 
 
-### 2. [[Melvin]]  — Origami Envelope using Square Paper and A4 Paper - useful for turning birthday letters into a portable piece
+### 2. [[Melvin]]  — [[Crafts, Origami & Life Hacks|Origami Envelope]] using Square Paper and A4 Paper - useful for turning birthday letters into a portable piece
 
 
 ### 3. [[Paul]]  — Soundfont, FluidSynth (soundfont player)
@@ -40,13 +40,13 @@ tags:
 - MIDI Looper (a free app for looping) - has integration with FluidSynth
 - <https://play.google.com/store/apps/details?id=net.volcanomobile.fluidsynthmidi&gl=US>
 
-### 4. [[Demi]]  — Mental Models. (eg. anger, meditation, productivity, appreciation)
+### 4. [[Demi]]  — [[Philosophy & Mental Models|Mental Models]]. (eg. anger, meditation, [[Productivity & Time Management|productivity]], appreciation)
 
 - Mental Programming and training.
 - Influences actions and outcomes in life.
 - Lists of Models: https://mmpractices.com/links
 
-### 5. [[Jan]]  — Character Development/Growing Distance in Songs (Rapunzel's Tangled Aventures)
+### 5. [[Jan]]  — Character Development/Growing Distance in [[Music, Audio & Acoustics|Songs]] (Rapunzel's Tangled Aventures)
 
 - The Girl who has Everything https://www.youtube.com/watch?v=LJ7d3PS-UnU
 - Ready as I'll ever be https://www.youtube.com/watch?v=r-PYYaoq0fY

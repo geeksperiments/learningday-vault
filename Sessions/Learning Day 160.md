@@ -24,16 +24,16 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Family Service Centres and Social work in Singapore (https://www.msf.gov.sg/our-services/directories)
+### 1. [[Louis]]  — Family Service Centres and Social work in [[Singapore History & Culture|Singapore]] (https://www.msf.gov.sg/our-services/directories)
 
 
-### 2. [[Melvin]]  — Xylitol for cavity prevention https://prezi.com/uurpd5a8ddul/xylitol-presentation/
+### 2. [[Melvin]]  — [[Health, Fitness & Wellness|Xylitol]] for cavity prevention https://prezi.com/uurpd5a8ddul/xylitol-presentation/
 
 
 ### 3. [[Ka Ho]]  — Test of a king (https://www.malaymail.com/news/malaysia/2024/01/28/test-of-a-king-tells-of-al-sultan-abdullahs-wisdom-in-steering-malaysia/115072)
 
 
-### 4. [[Julian]]  — Data Analytics for Dummies
+### 4. [[Julian]]  — Data [[Data & Analytics|Analytics]] for Dummies
 
 - <https://docs.google.com/document/d/1V_MPjpmHHtBrOVg9pGNozHEGajqhQMDoauLDpsPbuTU/edit?usp=sharing>
 - <https://www.data-mania.com/blog/reasons-not-to-become-a-data-analyst/>
@@ -50,7 +50,7 @@ tags:
 ### 6. [[Jan]]  — Confronting with a ponzi investment scheme
 
 
-### 7. [[Li Jen]]  — Japanese personality types. https://www.tofugu.com/japan/japanese-blood-type/
+### 7. [[Li Jen]]  — [[Japan & Japanese Culture|Japanese]] personality types. https://www.tofugu.com/japan/japanese-blood-type/
 
 - Type A: Scientist, Doctors
 - Type O:

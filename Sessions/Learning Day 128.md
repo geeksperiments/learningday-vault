@@ -43,7 +43,7 @@ tags:
 ### 5. [[Jin]]  — How QR codes work https://typefully.com/DanHollick/qr-codes-T7tLlNi
 
 
-### 6. [[Martin]]  — Take-aways from Sharing Best Practice seminar: Importance of an aligned curriculum in schools and how a stream-lined curriculum allows teachers to focus on imrpoving practice instead of creating materials.
+### 6. [[Martin]]  — Take-aways from Sharing Best Practice seminar: Importance of an aligned [[Education & Pedagogy|curriculum]] in schools and how a stream-lined curriculum allows teachers to focus on imrpoving practice instead of creating materials.
 
 
 ## Community Notes & Announcements

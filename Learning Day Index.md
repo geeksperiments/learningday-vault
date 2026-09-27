@@ -20,7 +20,20 @@ Welcome to the **Learning Day** community vault. Learning Day is a grassroots le
 - 📅 **Recorded Sessions:** 107 sessions (January 2022 – October 2026)
 - 🎙️ **Total Talks Recorded:** 685
 - 👥 **Distinct Speakers:** 119
+- 🏷️ **Knowledge Topics:** 28 curated topic hubs across 7 domains
 - 👕 **Community Lore & Rules:** [[Community & Culture|T-Shirt Challenge, Rules & Ideation]]
+
+## Topic Directory
+
+| Domain | Core Topics |
+| :--- | :--- |
+| **Technology & Computing** | [[Artificial Intelligence]] · [[Software & Web Development]] · [[Data & Analytics]] · [[Hardware & Devices]] · [[Cybersecurity & Cryptography]] |
+| **Knowledge & Learning** | [[Tools for Thought & PKM]] · [[Productivity & Time Management]] · [[Philosophy & Mental Models]] · [[Psychology & Human Behavior]] · [[Education & Pedagogy]] |
+| **Games & Recreation** | [[Board & Tabletop Games]] · [[Video Games & Interactive Media]] · [[Puzzles, Magic & Strategy]] |
+| **Arts & Media** | [[Books & Literature]] · [[Music, Audio & Acoustics]] · [[Design, Art & Creative Tools]] · [[Films, Shows & Media]] |
+| **Society & Culture** | [[Singapore History & Culture]] · [[Japan & Japanese Culture]] · [[World History & Geopolitics]] · [[Community, Volunteering & Social Dynamics]] · [[Economics, Finance & Investing]] |
+| **Lifestyle & Health** | [[Food, Cooking & Beverage]] · [[Health, Fitness & Wellness]] · [[Crafts, Origami & Life Hacks]] |
+| **Science & Nature** | [[Urban Planning, Transport & Outdoors]] · [[Science, Ecology & Environment]] · [[Astronomy, Physics & Mathematics]] |
 
 ## Quick Year Index
 - [2026](#2026)

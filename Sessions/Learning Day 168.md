@@ -43,7 +43,7 @@ tags:
 - (The first take [Contains English Subtitle]: https://www.youtube.com/watch?v=4C53-V-A960)
 - (Piano & recorder: https://www.youtube.com/watch?v=fqtDqL2da7o)
 
-### 5. [[Julian]]  — Coldplay's latest single from their new album (Moon Music):
+### 5. [[Julian]]  — Coldplay's latest single from their new album (Moon [[Music, Audio & Acoustics|Music]]):
 
 - feelslikeimfallinginlove https://youtu.be/zKQ1ai_ymh0
 - Walk On - U2 https://youtu.be/al2hPC6cVVU

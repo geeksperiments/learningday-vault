@@ -25,28 +25,28 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Melvin]]  — Matcha infographic https://matcha-tea.com/matcha/the-match-tea-infographic-tells-the-whole-story See https://www.nussadoclub.org/matcha/ FAQ for recommendations.
+### 1. [[Melvin]]  — [[Food, Cooking & Beverage|Matcha]] infographic https://matcha-tea.com/matcha/the-match-tea-infographic-tells-the-whole-story See https://www.nussadoclub.org/matcha/ FAQ for recommendations.
 
 
-### 2. [[Louis & Scarlett]]  — Nissin Cup Noodles & Soda from Japan - Made in Japan ( Part 2 ) - Seafood and Curry flavour
+### 2. [[Louis & Scarlett]]  — [[Japan & Japanese Culture|Nissin Cup Noodles]] & Soda from Japan - Made in Japan ( Part 2 ) - Seafood and Curry flavour
 
 
-### 3. [[Ka Ho]]  — Topics about Japan: (1) Cup noodles and Japan (2) Tip from Guided trip in Japan - paticipate in cultural activities like traditional dressing when visiting temple (3) Challenge to find Little Japan in Singapore
+### 3. [[Ka Ho]]  — Topics about [[Japan & Japanese Culture|Japan]]: (1) Cup noodles and Japan (2) Tip from Guided trip in Japan - paticipate in cultural activities like traditional dressing when visiting temple (3) Challenge to find Little Japan in [[Singapore History & Culture|Singapore]]
 
 
-### 4. [[Dexter]]  — Subroutines in the world of computing and possibly metaverse anticipation.
+### 4. [[Dexter]]  — [[Software & Web Development|Subroutines]] in the world of computing and possibly metaverse anticipation.
 
 
-### 5. [[Jin]]  — Playing guitar cover of Fast Cars ft. Jin Hoo (https://www.youtube.com/watch?v=5yXQJBU8A28)
+### 5. [[Jin]]  — Playing [[Music, Audio & Acoustics|guitar cover]] of Fast Cars ft. Jin Hoo (https://www.youtube.com/watch?v=5yXQJBU8A28)
 
 
-### 6. [[Martin]]  — Ochre education and developing online lessons for children. Education principles: a. Activate prior knowledge. Start with a super simple quiz to build confidence and interset. c.Active listening learning (pause points) d. Break things down (reduces cognitive load) e. Checking for understanding as you go f. Gradually release responsibility or learning (I do -> We do -> You do)
+### 6. [[Martin]]  — Ochre education and developing [[Education & Pedagogy|online lessons]] for children. Education principles: a. Activate prior knowledge. Start with a super simple quiz to build confidence and interset. c.Active listening learning (pause points) d. Break things down (reduces [[Psychology & Human Behavior|cognitive]] load) e. Checking for understanding as you go f. Gradually release responsibility or learning (I do -> We do -> You do)
 
 
-### 7. [[Velda]]  — Procrastination (https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
+### 7. [[Velda]]  — [[Productivity & Time Management|Procrastination]] (https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 
 
-### 8. [[Yi Feng]]  — AMA - (1) Mental health guy that likes nature, culture, futures. (2) Tree of life - https://dulwichcentre.com.au/the-tree-of-life/, nature as a teacher (3) ecological systems theory (https://www.simplypsychology.org/Bronfenbrenner.html) (4) Interdisciplinary relation between SEA study and mental health. (5) Courage and resilience. Resilience = Difficult situation + Recovery + Sustainability (Zautra, 2009).
+### 8. [[Yi Feng]]  — AMA - (1) [[Health, Fitness & Wellness|Mental health]] guy that likes nature, culture, futures. (2) [[Science, Ecology & Environment|Tree of life]] - https://dulwichcentre.com.au/the-tree-of-life/, nature as a teacher (3) ecological systems theory (https://www.simplypsychology.org/Bronfenbrenner.html) (4) Interdisciplinary relation between SEA study and mental health. (5) Courage and resilience. Resilience = Difficult situation + Recovery + Sustainability (Zautra, 2009).
 
 
 ---

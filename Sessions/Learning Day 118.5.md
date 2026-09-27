@@ -25,7 +25,7 @@ tags:
 ### 1. [[Jin]]  — data warehouse, data lake -> data lakehouse -> data mesh. Snowflake, Databricks, and Amazon Redshift.
 
 
-### 2. [[Melvin]]  — Algorithmic stablecoins make use of economic incentives instead of requiring collateral. Most have not managed to maintain their value. See https://medium.com/dragonfly-research/a-visual-explanation-of-algorithmic-stablecoins-9a0c1f0f51a0
+### 2. [[Melvin]]  — [[Economics, Finance & Investing|Algorithmic [[Cybersecurity & Cryptography|stablecoins]]]] make use of economic incentives instead of requiring collateral. Most have not managed to maintain their value. See https://medium.com/dragonfly-research/a-visual-explanation-of-algorithmic-stablecoins-9a0c1f0f51a0
 
 
 ### 3. [[Shu En]]  — May is ALS awareness month, Jap drama: 1 litre of tears

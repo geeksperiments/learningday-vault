@@ -27,7 +27,7 @@ tags:
 ### 1. [[Melvin]]  — Finding energy efficient appliances via https://wrms2.nea.gov.sg/els/process/WRMS/GHG_ProductSearch#wrms
 
 
-### 2. [[Louis]]  — AI tools permeating different software, as well as their utility. Zoom, Loom...
+### 2. [[Louis]]  — [[Artificial Intelligence|AI]] tools permeating different software, as well as their utility. Zoom, Loom...
 
 
 ### 3. [[Scarlett]]  — Arrowed to share about random interesting things in energy security and global affairs
@@ -49,7 +49,7 @@ tags:
 - "Just keep going."
 - <https://vitalecology.org/2022/08/01/an-open-letter-to-the-julian-of-2012/>
 
-### 6. [[Jannson]]  — Redeafination, learning sign language, joining the group, a little about Very Special Arts (now Art:Dis).
+### 6. [[Jannson]]  — Redeafination, learning sign language, joining the group, a little about Very Special Arts (now [[Design, Art & Creative Tools|Art]]:Dis).
 
 
 ### 7. [[Louis]]  — Eminence in Shadow: https://youtu.be/3W5FkGkh4gs?si=8tXEQRNMO06-zysX

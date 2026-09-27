@@ -21,7 +21,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — TV show Community episode with the characters playing DnD
+### 1. [[Louis]]  — TV show [[Community, Volunteering & Social Dynamics|Community]] episode with the characters playing DnD
 
 
 ### 2. [[Melvin]]  — Beginners guide to text-based roleplaying https://writing-games.com/beginners-guide-to-roleplaying/

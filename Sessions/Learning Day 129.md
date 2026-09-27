@@ -18,7 +18,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Melvin]]  — Prioritizing your todo list with Elo
+### 1. [[Melvin]]  — Prioritizing your [[Productivity & Time Management|todo list]] with Elo
 
 - Please do this survey, https://app.opinionx.co/97aebd72-ba1e-40fd-a0d1-b0842294a297
 - Reference https://garden.melvinzhang.net/posts/ranking_from_pairwise_comparisons/

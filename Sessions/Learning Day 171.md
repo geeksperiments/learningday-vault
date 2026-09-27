@@ -33,10 +33,10 @@ tags:
 ### 3. [[Wei Shen]]  — How to take stunning firework photos e.g equipments, preparation (4.30pm is the best timing to get a good spot), camera settings (bulb mode) and post editing trick
 
 
-### 4. [[Ka Ho]]  — Music Day [Featuring Instrument - Recorder & Melodica & Song - The Road Ahead]
+### 4. [[Ka Ho]]  — [[Music, Audio & Acoustics|Music]] Day [Featuring Instrument - Recorder & Melodica & Song - The Road Ahead]
 
 
-### 5. [[Jimmy & Soong]]  — Board Games Collection and Discussion
+### 5. [[Jimmy & Soong]]  — [[Board & Tabletop Games|Board Games]] Collection and Discussion
 
 
 ---

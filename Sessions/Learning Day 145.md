@@ -27,7 +27,7 @@ tags:
 ### 1. [[Louis]]  — Gebiz, what is it, how it works? Government tendering platform.  https://www.gebiz.gov.sg/
 
 
-### 2. [[Melvin]]  — Cooking 🥦 https://garden.melvinzhang.net/posts/broccoli/
+### 2. [[Melvin]]  — [[Food, Cooking & Beverage|Cooking]] 🥦 https://garden.melvinzhang.net/posts/broccoli/
 
 
 ### 3. [[Hilda]]  — tarot cards - cleansing and doing a reading

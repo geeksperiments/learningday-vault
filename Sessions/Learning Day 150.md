@@ -34,7 +34,7 @@ tags:
 
 - Singapore theatre scene https://www.wildrice.com.sg/event/137859-g-d-is-a-woman/
 
-### 4. [[Paul]]  — Alter/Ego: real-time singing synthesizer
+### 4. [[Paul]]  — Alter/[[Psychology & Human Behavior|Ego]]: real-time singing synthesizer
 
 - https://www.plogue.com/products/alter-ego.html
 - https://www.youtube.com/watch?v=c2564V5_ND8

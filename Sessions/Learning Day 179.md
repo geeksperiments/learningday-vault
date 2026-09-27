@@ -56,7 +56,7 @@ tags:
 ### 7. [[Jin]]  — why humans (and birds) dance? https://docs.google.com/presentation/d/1m4HgRLmzEQK6YA_c_ntQentu49HvbN5kOpOMF66Sguk/edit?usp=sharing
 
 
-### 8. [[Teo]]  — Songs at 40 (Released in 1984)
+### 8. [[Teo]]  — [[Music, Audio & Acoustics|Songs]] at 40 (Released in 1984)
 
 - Careless Whisper
 -  https://youtu.be/dvUJUzNqDaI?si=inHJEM3cCYGAaZYV

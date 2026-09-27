@@ -44,7 +44,7 @@ tags:
 ### 4. [[Jan]]  — What makes a good musical OP https://youtu.be/twRIdbAZlw0?si=lutXv14Kcdgk-rik
 
 
-### 5. [[Sharon]]  — local music including underground bands:
+### 5. [[Sharon]]  — local [[Music, Audio & Acoustics|music]] including underground bands:
 
 -rock/emo band: https://instagram.com/stoneshipsailors?igshid=MzRlODBiNWFlZA==,
 -ska band: https://instagram.com/cesspit_sg?igshid=MzRlODBiNWFlZA==

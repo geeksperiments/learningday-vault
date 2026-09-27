@@ -45,7 +45,7 @@ tags:
 
 ### 6. [[Ka Ho]] 
 
-- Riddle - more cryptic than puzzles.
+- Riddle - more cryptic than [[Puzzles, Magic & Strategy|puzzles]].
 - Louis - Puzzle hunt https://www.instagram.com/reel/DHzuXXos40Z/?igsh=MTJhcXZ3NGRpMHdidw==
 
 ### 7. [[Justin]]  — A Trip of a Lifetime: 1 Trip, 2 Months, 9 Countries (imma_travel). For Instagram photos/stories:

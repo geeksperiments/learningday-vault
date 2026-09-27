@@ -40,7 +40,7 @@ tags:
 ### 5. [[Heng Liang]]  — botanic gardens - https://saturdaysoccerdidyouknow.blogspot.com/2023/08/singapore-botanic-gardens-and-rubber.html?m=1
 
 
-### 6. [[Louis]]  — options: Urban planning and maps
+### 6. [[Louis]]  — options: [[Urban Planning, Transport & Outdoors|Urban planning]] and maps
 
 
 ### 7. [[Melvin]]  — From Lichtenberg to A4

@@ -25,16 +25,16 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Paper clay sculpting. Can buy from art friend. Cheap cheap.
+### 1. [[Louis]]  — Paper clay sculpting. Can buy from [[Design, Art & Creative Tools|art]] friend. Cheap cheap.
 
 
-### 2. [[Melvin]]  — Folding a Hexa-tetra-flexagon
+### 2. [[Melvin]]  — Folding a [[Crafts, Origami & Life Hacks|Hexa-tetra-flexagon]]
 
 
 ### 3. [[Ka Ho]]  — Mathematical trick
 
 
-### 4. [[Paul]]  — Recreating an EDM Song on digital audio workstation (DAW) - FL Studio software
+### 4. [[Paul]]  — Recreating an EDM Song on digital [[Music, Audio & Acoustics|audio]] workstation (DAW) - FL Studio software
 
 - FL Studio: https://www.image-line.com/
 - Free DAW Alternatives:

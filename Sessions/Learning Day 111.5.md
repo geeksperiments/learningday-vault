@@ -27,37 +27,37 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — what makes a good gift, e.g. giving art, can find freelance artists from https://www.fiverr.com/ Behind the scenes of commissioning art.
+### 1. [[Louis]]  — what makes a good gift, e.g. giving [[Design, Art & Creative Tools|art]], can find freelance artists from https://www.fiverr.com/ Behind the scenes of commissioning art.
 
 - an example https://www.instagram.com/nyanv.kun/
 
-### 2. [[Melvin]]  — how collaborative editors like google docs work, https://conclave-team.github.io/conclave-site/ operational transformation (OT) and conflict-free replicated data type (CRDT)
+### 2. [[Melvin]]  — how collaborative editors like google docs work, https://conclave-team.github.io/conclave-site/ operational transformation (OT) and conflict-free replicated data type ([[Software & Web Development|CRDT]])
 
 
-### 3. [[Jin Hoo]]  — Art at Gillman Barracks
+### 3. [[Jin Hoo]]  — Art at [[Design, Art & Creative Tools|Gillman Barracks]]
 
 - Hyper realistic paintings "Candyland": https://www.gillmanbarracks.com/art-galleries/mucciaccia-gallery/2958
 - Life Imitates Art: https://www.instagram.com/p/CY_gnKiPWw7/
 - Patterns "Stars Crossed": https://www.gillmanbarracks.com/art-galleries/shanghart-gallery/2969
 - Waterfall paintings "Beginnings": https://www.gillmanbarracks.com/art-galleries/sundaram-tagore-gallery-singapore/2809
 
-### 4. [[Ka Ho]]  — Jerome Bruner's theory of development, 1) hands on 2) imagery 3) symbolic
+### 4. [[Ka Ho]]  — Jerome [[Education & Pedagogy|Bruner's theory]] of development, 1) hands on 2) imagery 3) symbolic
 
 - <https://www.youtube.com/watch?v=rZfAsbhfL_Y>
 
 ### 5. [[Angela]]  — 2048 (Game) https://play2048.co/. Quick tip to win the game.
 
 
-### 6. [[Joey]]  — Sustainable Development Goals (SDGs) in a rap. https://www.youtube.com/watch?v=kGcrYkHwE80
+### 6. [[Joey]]  — [[Science, Ecology & Environment|Sustainable Development Goals]] (SDGs) in a rap. https://www.youtube.com/watch?v=kGcrYkHwE80
 
 
-### 7. [[Rahul]]  — Dutch Bikes - no crossbar so can wear skirts, upright position for comfort, skirt guard and chain guard to protect clothes, backpedal for coaster brakes, no hand brakes (!) https://www.youtube.com/watch?v=aESqrP3hfi8&ab_channel=NotJustBikes
+### 7. [[Rahul]]  — [[Urban Planning, Transport & Outdoors|Dutch Bikes]] - no crossbar so can wear skirts, upright position for comfort, skirt guard and chain guard to protect clothes, backpedal for coaster brakes, no hand brakes (!) https://www.youtube.com/watch?v=aESqrP3hfi8&ab_channel=NotJustBikes
 
 
-### 8. [[Hijie]]  — how hummingbird can fly really fast with good control.
+### 8. [[Hijie]]  — how [[Science, Ecology & Environment|hummingbird]] can fly really fast with good control.
 
 
-### 9. [[Shaun]]  — The Honey Trap - distingushing altered honey from pure honey
+### 9. [[Shaun]]  — The [[Food, Cooking & Beverage|Honey]] Trap - distingushing altered honey from pure honey
 
 - Organic honey is almost impossible to find, yet many brands claim their product is. A hive would need to be in the middle of a minimum of 16 square miles of organic plants to be able to truly earn the accreditation of organic.
 - <https://www.youtube.com/watch?v=gafNOtcShyI>
@@ -69,7 +69,7 @@ tags:
 - Science papers on techniques of detecting adulterants
 - <https://www.sciencedirect.com/science/article/abs/pii/S0889>
 
-### 10. [[Yumin]]  — Book Sharing - Think Again by Adam Grant
+### 10. [[Yumin]]  — [[Books & Literature|Book Sharing]] - Think Again by Adam Grant
 
 -- https://pad.riseup.net/p/ld111.5
 

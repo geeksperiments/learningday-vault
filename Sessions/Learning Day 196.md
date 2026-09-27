@@ -22,7 +22,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Melvin]]  — Types of tea and their processing
+### 1. [[Melvin]]  — [[Food, Cooking & Beverage|Types of tea]] and their processing
 
 - see https://wumountaintea.com/a-masterclass-on-tea/ chapter 3
 
@@ -36,7 +36,7 @@ tags:
 
 - <https://docs.google.com/presentation/d/15S-6poi-DPpRnuoo-XmQCFXUm_1xloRzFvMZfwtQPH8/edit?usp=sharing>
 
-### 4. [[Anne]]  — Toastmasters and Art therapy
+### 4. [[Anne]]  — Toastmasters and [[Design, Art & Creative Tools|Art]] therapy
 
 
 ### 5. [[Justin]]  — Guess the Song (World Edition)

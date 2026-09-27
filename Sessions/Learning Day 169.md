@@ -33,12 +33,12 @@ tags:
 ### 2. [[Julian]]  — How to make a Zine
 
 
-### 3. [[Melvin]]  — The secretary problem
+### 3. [[Melvin]]  — The [[Puzzles, Magic & Strategy|secretary problem]]
 
 - <https://pmirla.github.io/2017/06/12/secretary_problem.html>
 - <https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d61174e2e02102054752255c4269dbd1b3effc5d>
 
-### 4. [[Ka Ho]]  — Urban/City Design [City/Urban planning] - Dealing with urban sprawl.
+### 4. [[Ka Ho]]  — Urban/City [[Design, Art & Creative Tools|Design]] [City/[[Urban Planning, Transport & Outdoors|Urban planning]]] - Dealing with urban sprawl.
 
 - <https://itdp.org/wp-content/uploads/2021/12/CCSE_Infographic-1024x663.jpg>
 
@@ -53,12 +53,12 @@ tags:
 ### 6. [[Tracy]]  — How I discovered Learning Day
 
 
-### 7. [[Angela]]  — Floppy disks, Liu Thai Ker, Cooking tips, Air fryers, etc.
+### 7. [[Angela]]  — Floppy disks, Liu Thai Ker, [[Food, Cooking & Beverage|Cooking]] tips, Air fryers, etc.
 
 
 ### 8. [[Lin Yin]] 
 
--"Hidden Potential" Podcast by Adam Grant
+-"Hidden Potential" Podcast by [[Books & Literature|Adam Grant]]
 -Sg clog-busters: https://www.straitstimes.com/multimedia/graphics/2024/06/sewer-cleaner-pub-singapore/index.html?shell
 -Pipe Dreams book: https://www.amazon.sg/Pipe-Dreams-Urgent-Global-Transform/dp/1982116218
 -poop emoji as good luck

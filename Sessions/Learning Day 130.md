@@ -22,7 +22,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Melvin]]  — Interactive exploration of the Tree of Life https://www.onezoom.org/ Additional links on https://garden.melvinzhang.net/posts/tree_of_life/
+### 1. [[Melvin]]  — Interactive exploration of the [[Science, Ecology & Environment|Tree of Life]] https://www.onezoom.org/ Additional links on https://garden.melvinzhang.net/posts/tree_of_life/
 
 
 ### 2. [[Lih Wei]]  — Item response theory to make sure exams are of comparable difficulty
@@ -34,7 +34,7 @@ tags:
 - Cloud Computing in 6 Minutes: https://youtu.be/M988_fsOSWo
 - Why the Cloud is (mostly) more eco-friendly: https://www.missioncloud.com/blog/5-reasons-why-the-cloud-is-environmentally-friendly
 
-### 4. [[Louis]]  — Designing a simulation game. Workflow of using spreadsheet -> indesign, supported by AI-generated art from Midjourney.
+### 4. [[Louis]]  — Designing a simulation game. Workflow of using spreadsheet -> indesign, supported by AI-generated [[Design, Art & Creative Tools|art]] from [[Artificial Intelligence|Midjourney]].
 
 
 ### 5. [[Ka Ho]]  — Notes from tips in using account-based ticketing

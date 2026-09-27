@@ -29,7 +29,7 @@ tags:
 
 - <https://thesmartlocal.com/read/kodak-charmera-keychain-blind-box/>
 
-### 2. [[CK]]  — Cognitive Biases, e.g. survivorship fallacy https://docs.google.com/presentation/d/1HRkdaffpZL6RVOLON9dRDQpJJ7NtvEMy/edit?usp=drive_link&ouid=115987635290281417626&rtpof=true&sd=true
+### 2. [[CK]]  — [[Psychology & Human Behavior|Cognitive]] Biases, e.g. survivorship fallacy https://docs.google.com/presentation/d/1HRkdaffpZL6RVOLON9dRDQpJJ7NtvEMy/edit?usp=drive_link&ouid=115987635290281417626&rtpof=true&sd=true
 
 - <https://youtube.com/shorts/M3g1L4Z6rOs?si=5ftvjywqZKHPRr_b>
 - <https://www.instagram.com/reel/DSwAxLjEsfG/>

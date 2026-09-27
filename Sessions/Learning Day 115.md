@@ -35,13 +35,13 @@ tags:
 ### 3. [[Sean]]  — AMA: Getting married. The financial advisor business model. Pro/cons of the financial advisor life.
 
 
-### 4. [[Ka Ho]]  — Crypto & NFT. NFT on Opensea (https://www.youtube.com/watch?v=uBN6B99Mzx4)
+### 4. [[Ka Ho]]  — [[Cybersecurity & Cryptography|Crypto]] & NFT. NFT on Opensea (https://www.youtube.com/watch?v=uBN6B99Mzx4)
 
 
-### 5. [[Scarlett]]  — Cup Noodles from Japan - Miso & Tonkotsu
+### 5. [[Scarlett]]  — [[Japan & Japanese Culture|Cup Noodles from Japan]] - Miso & Tonkotsu
 
 
-### 6. [[Jin Hoo]]  — ESG and Investment Impact
+### 6. [[Jin Hoo]]  — [[Economics, Finance & Investing|ESG and Investment]] Impact
 
 
 ### 7. [[Jan]]  — Modding games. Fields of Glory: Empire, can mod using csv files.

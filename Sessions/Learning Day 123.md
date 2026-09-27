@@ -28,16 +28,16 @@ tags:
 ### 1. [[Louis]]  — City planning inspired by dungeons and dragons city maps
 
 
-### 2. [[Melvin]]  — The Dark Forest by Liu Cixin. The idea of cosmic sociology.
+### 2. [[Melvin]]  — The [[Books & Literature|Dark Forest]] by Liu Cixin. The idea of cosmic sociology.
 
 
-### 3. [[Ka Ho]]  — Continuation of "Overworked in a good way" from "How Google Works" by Eric Schmidt & Jonathan Rosenberg - An insight into burnout. Symptoms: Exhaustion, cynicism, inefficiency.
+### 3. [[Ka Ho]]  — Continuation of "Overworked in a good way" from "How Google Works" by Eric Schmidt & Jonathan Rosenberg - An insight into [[Community, Volunteering & Social Dynamics|burnout]]. Symptoms: Exhaustion, cynicism, inefficiency.
 
 
 ### 4. [[Fari]]  — Ask me about being a mermaid. Doing a mermaid as a hobby. @fariwu on Instagram, unicorn mermaid Fari
 
 
-### 5. [[Julian]]  — Coursera course on Religion and Ecology. Coursera Plus gives you unlimited access to as many courses as you want for a monthly fee. NLB HAS PARTNERSHIP WITH UDEMY, CAN ACCESS MANY FREE COURSES THERE TOO!
+### 5. [[Julian]]  — Coursera course on Religion and [[Science, Ecology & Environment|Ecology]]. Coursera Plus gives you unlimited access to as many courses as you want for a monthly fee. NLB HAS PARTNERSHIP WITH UDEMY, CAN ACCESS MANY FREE COURSES THERE TOO!
 
 - <https://www.coursera.org/specializations/religion-ecology>
 - <https://eresources.nlb.gov.sg/main/Browse?browseBy=type&filter=18>
@@ -51,7 +51,7 @@ tags:
 - <https://youtu.be/ik5OjbAk-og>
 - 2:30 https://youtu.be/YyNs-IOLiVw
 
-### 8. [[Jan]]  — Songs from Rapunzel's Tangled Adventure
+### 8. [[Jan]]  — [[Music, Audio & Acoustics|Songs]] from Rapunzel's Tangled Adventure
 
 - www.youtube.com/watch?v=r-PYYaoq0fY
 - www.youtube.com/watch?v=hkZEpNsw6zA

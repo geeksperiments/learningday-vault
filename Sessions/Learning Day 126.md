@@ -25,16 +25,16 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Midjourney AI-generated art: https://twitter.com/midjourney
+### 1. [[Louis]]  — [[Artificial Intelligence|Midjourney]] AI-generated [[Design, Art & Creative Tools|art]]: https://twitter.com/midjourney
 
 
 ### 2. [[Scarlett]]  — Food from Inasal at Lucky Plaza - chicken inasal (grilled chicken), lechon kawali (deep fried pork belly), ube ensaymada (fluffy bun with ube filling, dusted with sugar and cheese), ube halaya (think yam paste, red bean paste), turon (deep fried banana spring roll), leche flan (caramel pudding). See https://www.burpple.com/inasal-lucky-plaza. Other Filipino restaurants to try: Don Lechon (Paya Lebar), Kuya's Kusinang Pinoy (Bugis) - recommended by Paul the legit Fillipino for ube.
 
 
-### 3. [[Melvin]]  — Learning from superhuman Go AI KataGo with https://ai-sensei.com/ Showing where are your mistakes, then add it as a quiz to revise later.
+### 3. [[Melvin]]  — Learning from superhuman Go [[Artificial Intelligence|AI]] [[Puzzles, Magic & Strategy|KataGo]] with https://ai-sensei.com/ Showing where are your mistakes, then add it as a quiz to revise later.
 
 
-### 4. [[Paul]]  — Creating Sounds for Electronic Music
+### 4. [[Paul]]  — Creating Sounds for Electronic [[Music, Audio & Acoustics|Music]]
 
 * Cousera Course: https://www.coursera.org/learn/music-synthesizer
 * Sound synthesis is the technique of generating sound, using electronic hardware or software, from scratch. The most common use of synthesis is musical, where electronic instruments called synthesizers are used in the performance and recording of music.
@@ -45,7 +45,7 @@ tags:
 ### 5. [[Ka Ho]]  — Should passport cover be used for Biometric Passport? (https://www.icao.int/Meetings/FAL12/Documents/Malaysia.pdf)
 
 
-### 6. [[Jin]]  — Nominative determinism https://en.m.wikipedia.org/wiki/Nominative_determinism
+### 6. [[Jin]]  — Nominative [[Philosophy & Mental Models|determinism]] https://en.m.wikipedia.org/wiki/Nominative_determinism
 
 - Unproven hypothesis that people grow into their names, with a higher chance of picking a profession that matches their name (James Counsell and many members of his family are lawyers)
 

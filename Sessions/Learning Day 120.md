@@ -28,16 +28,16 @@ tags:
 ### 1. [[Louis]]  — Walking around Joo Chiat - 1 litre cider (Cider Pit), shophouses, rattan furniture shop, pet grooming shops indicating wealthier audience
 
 
-### 2. [[Melvin]]  — Super slow protocol from Body by Science. Once a week for 12 minutes to maintain lean body mass. Full demo by Dough McGuff https://www.youtube.com/watch?v=FVhhbC51_3k
+### 2. [[Melvin]]  — Super slow protocol from [[Health, Fitness & Wellness|Body by Science]]. Once a week for 12 minutes to maintain lean body mass. Full demo by Dough McGuff https://www.youtube.com/watch?v=FVhhbC51_3k
 
 
-### 3. [[Jin]]  — Financial movies: The Big Short, Margin Call, The China Hustle, The Laundromat
+### 3. [[Jin]]  — Financial [[Films, Shows & Media|movies]]: The Big Short, Margin Call, The China Hustle, The Laundromat
 
 
-### 4. [[Ka Ho]]  — Reading - "Overworked in a good way" from "How Google Works" by Eric Schmidt & Jonathan Rosenberg - An insight into burnout.
+### 4. [[Ka Ho]]  — Reading - "Overworked in a good way" from "How Google Works" by Eric Schmidt & Jonathan Rosenberg - An insight into [[Community, Volunteering & Social Dynamics|burnout]].
 
 
-### 5. [[Sharon]]  — Burnout
+### 5. [[Sharon]]  — [[Community, Volunteering & Social Dynamics|Burnout]]
 
 -WHO definition of burnout: Burnout is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. It is characterized by three dimensions:
 -feelings of energy depletion or exhaustion;
@@ -47,13 +47,13 @@ tags:
 -6 types of burnout (this helps to Recognise and Reverse): https://www.instagram.com/p/CQC9czbHD-g/?utm_medium=copy_link; https://www.instagram.com/p/CQU_A8EnMp7/?utm_medium=copy_link
 -Rejuvenate: make time to rest and do things you enjoy
 
-### 6. [[Velda]]  — working on Project Candid, a mental health e-book. Contact her if you have mental health stories by leaders! veldawong@outlook.com
+### 6. [[Velda]]  — working on Project Candid, a [[Health, Fitness & Wellness|mental health]] e-book. Contact her if you have mental health stories by leaders! veldawong@outlook.com
 
 - https://www.linkedin.com/company/candid-singapore/?viewAsMember=true
 - https://www.canva.com/design/DAFAc-jf6M8/1x3HrULCejVhdesnHw6GFw/view?utm_content=DAFAc-jf6M8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - https://www.businesstimes.com.sg/brunch/when-a-colleague-is-grieving-navigating-bereavement-in-the-workplace
 
-### 7. [[Saffiyah]]  — Ask me anything - about secondary school, going your own path despite social media influences, mental health.
+### 7. [[Saffiyah]]  — Ask me anything - about secondary school, going your own path despite social media influences, [[Health, Fitness & Wellness|mental health]].
 
 
 ### 8. [[Yu Yang]]  — Rules for ruler

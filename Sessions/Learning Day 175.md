@@ -29,13 +29,13 @@ tags:
 ### 1. [[Louis]]  — Posing for photos. Jojo pose: https://images.app.goo.gl/FBV24WVmbgSQ1rXi7
 
 
-### 2. [[Melvin]]  — Highest grossing media franchise. Pokemon.
+### 2. [[Melvin]]  — Highest grossing media franchise. [[Video Games & Interactive Media|Pokemon]].
 
 
 ### 3. [[Heng Liang]]  — DJ showcase & lesson at Swee Lee.
 
 
-### 4. [[Paul]]  — Children of the Light -> Music player - https://sky-music.github.io/
+### 4. [[Paul]]  — Children of the Light -> [[Music, Audio & Acoustics|Music]] player - https://sky-music.github.io/
 
 - Music Keyboard Simulator: https://sky-music.specy.app/
 - Easyplay Keyboard: https://www.cubyfun.com/products/easyplay-1s-full-package
@@ -45,7 +45,7 @@ tags:
 - <https://www.vam.ac.uk/collections/the-va-story https://www.rmg.co.uk/stories/topics/queen-victoria-prince-albert>
 - <https://blogs.getty.edu/iris/a-love-story-told-in-pictures/>
 
-### 6. [[Ka Ho]]  — Reading: Shinkansen at 60
+### 6. [[Ka Ho]]  — Reading: [[Japan & Japanese Culture|Shinkansen]] at 60
 
 - <https://www.channelnewsasia.com/east-asia/japan-shinkansen-60th-anniversary-bullet-tr   https://www.youtube.com/watch?v=Jyhzrc6cTtU>
 

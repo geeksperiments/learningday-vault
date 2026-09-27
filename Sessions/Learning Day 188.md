@@ -38,7 +38,7 @@ tags:
 - https://skybrary.aero/articles/runway-designators
 - https://youtu.be/HSRmfNDk87s?feature=shared
 
-### 4. [[Scarlett]]  — easy origami box, good for small trash like nut shells and candy wrappers
+### 4. [[Scarlett]]  — easy [[Crafts, Origami & Life Hacks|origami]] box, good for small trash like nut shells and candy wrappers
 
 
 ### 5. [[Hafeez]]  — pinpointing

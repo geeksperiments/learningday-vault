@@ -31,7 +31,7 @@ tags:
 
 - **Reaction:** `+++++`
 
-### 2. [[Ibrahim]]  — Contextualizing Numerology's Pertinence to Personal Identity Construction in Singapore - How I used Numerology to understand myself better - https://tinyurl.com/numerologypresentation
+### 2. [[Ibrahim]]  — Contextualizing Numerology's Pertinence to Personal Identity Construction in [[Singapore History & Culture|Singapore]] - How I used Numerology to understand myself better - https://tinyurl.com/numerologypresentation
 
 - DIY: https://ibrahimisramos.github.io/numerology
 - **Reaction:** `++++++`
@@ -45,12 +45,12 @@ tags:
 
 - **Reaction:** `+++++++`
 
-### 5. [[Darren]]  — Lateral Thinking (MIB)
+### 5. [[Darren]]  — [[Philosophy & Mental Models|Lateral Thinking]] (MIB)
 
 - <https://docs.google.com/presentation/d/1TnHhYUUjJSFS6FrzWrUwDsf1Ixr4YUdQZpPg7fmIXr4/edit?usp=sharing>
 - **Reaction:** `++++++++++`
 
-### 6. [[Ka Ho]]  — Taylorism illustrated by one comic graphic.
+### 6. [[Ka Ho]]  — [[Philosophy & Mental Models|Taylorism]] illustrated by one comic graphic.
 
 - <https://www.businessillustrator.com/taylorism-cartoons/>
 - <https://www.process.st/taylorism/>
@@ -58,17 +58,17 @@ tags:
 - <https://miro.medium.com/v2/1*3UmOCPgVGG_mpY2tmF2RYA.png>
 - **Reaction:** `+++`
 
-### 7. [[Ninghan]]  — Science Fiction & Fantasy. 2 Minute reading at the Portals exhibit at NLB. Sharing about the experience of pausing to read and the books we picked up. Scifi & fantasy, with some grounding in reality. Need to let go of "ego" or accuracy to reality to enjoy it.
+### 7. [[Ninghan]]  — [[Books & Literature|Science Fiction & Fantasy]]. 2 Minute reading at the Portals exhibit at NLB. Sharing about the experience of pausing to read and the books we picked up. Scifi & fantasy, with some grounding in reality. Need to let go of "[[Psychology & Human Behavior|ego]]" or accuracy to reality to enjoy it.
 
 - <https://en.wikipedia.org/wiki/Brave_New_World>
 - **Reaction:** `+++++`
 
-### 8. [[Abraham]]  — William Orbit: 1956 - 2026
+### 8. [[Abraham]]  — [[Music, Audio & Acoustics|William Orbit]]: 1956 - 2026
 
 - <https://canva.link/vymz4n98lhqvizn>
 - **Reaction:** `+++++++`
 
-### 9. [[Teo]]  — Experiences of Volunteering with Heartware Network for NDP 2026
+### 9. [[Teo]]  — Experiences of [[Community, Volunteering & Social Dynamics|Volunteering]] with [[Singapore History & Culture|Heartware Network]] for NDP 2026
 
 - Heartware Network: https://heartware.org/
 - Appreciation Video: https://youtu.be/qpJSRa1SKYg?si=dGoUE4WBbWMM9BnZ
@@ -77,7 +77,7 @@ tags:
 
 ### 10. [[Santosh]] 
 
-- Good Ancestor - https://www.canva.com/design/DAG_yjfmMCI/0qpGx6uLRyaxnuYwnCHo-g/view?utm_content=DAG_yjfmMCI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h222a67a8f1
+- [[Philosophy & Mental Models|Good Ancestor]] - https://www.canva.com/design/DAG_yjfmMCI/0qpGx6uLRyaxnuYwnCHo-g/view?utm_content=DAG_yjfmMCI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h222a67a8f1
 - https://docs.google.com/document/d/1_csNrFU6XrNrQjjiyXGm6dbdWjbKfKKpJ5pogqhOCMM/edit?tab=t.0#heading=h.7z2w1k93nxw6
 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxFdS1cN2H4cPnOB2aQ6UlApPNV47aRAohyGGxQmfe0g&s=10
 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBq2GisAep6WcrHj6xm_ayei_PcjyhKbgHOH8t4pyKGq4RurmOT8YVnE&s=10

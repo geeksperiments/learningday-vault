@@ -25,14 +25,14 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Sharon]]  — Myers–Briggs Type Indicator (MBTI) - The additional dimension of cognitive functions, and Enneagram
+### 1. [[Sharon]]  — Myers–Briggs Type Indicator (MBTI) - The additional dimension of [[Psychology & Human Behavior|cognitive]] functions, and Enneagram
 
 - An ENFP's cognitive functions: https://www.typeinmind.com/nefi
 - Making friends with any MBTI type: http://youtube.com/watch?v=77Dh_xO-XM8
 - Enneagram: http://enneagraminstitute.com/
 - Enneagram course: http://ourcommonground.com.sg/9-to-thrive
 
-### 2. [[Hijie]]  — Vibe Coding. VS Code Apps and Python
+### 2. [[Hijie]]  — [[Artificial Intelligence|Vibe Coding]]. VS Code Apps and [[Software & Web Development|Python]]
 
 
 ### 3. [[Joshua]]  — Kpop Demon Hunters
@@ -69,7 +69,7 @@ tags:
 ### 7. [[Irene]]  — ask me anything! Early childhood, phone use for children and living in New Zealand
 
 
-### 8. [[Anne]]  — Brain Bank Singapore - one may choose to donate one's brain for scientific research - each brain can contribute 200 samples!: https://www.brainbanksingapore.org/donate-now
+### 8. [[Anne]]  — Brain Bank [[Singapore History & Culture|Singapore]] - one may choose to donate one's brain for scientific research - each brain can contribute 200 samples!: https://www.brainbanksingapore.org/donate-now
 
 - Brain and bone marrow are not covered by Singapore's Human Organ Transplant Act (HOTA)
 - Medical (Therapy, Education and Research) Act (MTERA) is an opt-in scheme, where people can pledge their organs or any body parts for the purposes of transplant, education or research after they pass away.

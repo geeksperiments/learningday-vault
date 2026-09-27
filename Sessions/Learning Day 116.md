@@ -22,7 +22,7 @@ tags:
 
 ## Talks & Presentations
 
-### 2. [[Louis]]  — Adventure time and why its great. - https://www.youtube.com/watch?v=Ck_NgXBxs7A - https://www.youtube.com/watch?v=PA2PsADo11E
+### 2. [[Louis]]  — [[Films, Shows & Media|Adventure time]] and why its great. - https://www.youtube.com/watch?v=Ck_NgXBxs7A - https://www.youtube.com/watch?v=PA2PsADo11E
 
 
 ### 3. [[Ka Ho]]  — Origins of April Fools and a look at Google's jokes/pranks for past April Fool's
@@ -32,11 +32,11 @@ tags:
 - https://www.youtube.com/watch?v=SqU0w4Q0i7k
 - https://youtube.com/watch?v=nsPQvZm_rgM
 
-### 4. [[Jan]]  — Eurasianism & Russian propaganda
+### 4. [[Jan]]  — Eurasianism & [[World History & Geopolitics|Russian propaganda]]
 
 - Documentary of Russian life https://www.youtube.com/watch?v=48DaLYiO-yk&t=2589s
 
-### 5. [[Jin]]  — How the boomerang come back when thrown. Hunting boomerangs known as throw sticks and competitive boomerang trick athletes. https://youtu.be/4qVM9wLpqlk
+### 5. [[Jin]]  — How the boomerang come back when thrown. Hunting [[Urban Planning, Transport & Outdoors|boomerangs]] known as throw sticks and competitive boomerang trick athletes. https://youtu.be/4qVM9wLpqlk
 
 
 ### 6. [[Scarlett]]  — How carbon credits and carbon trading works. CIX as sg's attempt to be a carbon trading hub: https://www.sgx.com/climate-impact-x-cix

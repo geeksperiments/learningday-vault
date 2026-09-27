@@ -28,7 +28,7 @@ tags:
 ### 1. [[Louis]]  — Meritocracy, inheritance, privilege
 
 
-### 2. [[Melvin]]  — Project Hail Mary by Andy Weir
+### 2. [[Melvin]]  — [[Books & Literature|Project Hail Mary]] by Andy Weir
 
 
 ### 3. [[Darren]]  — End of Super Sentai
@@ -42,7 +42,7 @@ tags:
 - File an Employment Claim: https://www.judiciary.gov.sg/civil/file-employment-claim
 - Enforce an Order: https://www.judiciary.gov.sg/civil/civil-claims-(from-1-april-2022)/enforce-an-order-or-judgment-(from-1-april-2022)
 
-### 5. [[Paul]]  — Creating a Song with AI
+### 5. [[Paul]]  — Creating a Song with [[Artificial Intelligence|AI]]
 
 - suno.com
 
@@ -50,7 +50,7 @@ tags:
 
 - (Featuring picture of lady telephone operator.)
 
-### 7. [[Rhine]]  — The Linux boot process https://docs.google.com/presentation/d/1ArkCzu8hLYcESspeM88T76p9zaOd30aOTboZ8SoPXUo/edit?usp=drivesdk
+### 7. [[Rhine]]  — The [[Software & Web Development|Linux]] boot process https://docs.google.com/presentation/d/1ArkCzu8hLYcESspeM88T76p9zaOd30aOTboZ8SoPXUo/edit?usp=drivesdk
 
 
 ### 8. [[Lih Wei]]  — Modding a clock-in machine

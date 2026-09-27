@@ -24,7 +24,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Melvin]]  — Penney's game by Walter Penney in 1969. https://garden.melvinzhang.net/posts/penney_s_game/
+### 1. [[Melvin]]  — [[Puzzles, Magic & Strategy|Penney's game]] by Walter Penney in 1969. https://garden.melvinzhang.net/posts/penney_s_game/
 
 
 ### 2. [[Tony]]  — Visual Scribing

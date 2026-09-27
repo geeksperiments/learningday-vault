@@ -22,19 +22,19 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Melvin]]  — Time travel in media. 1) Back to the Future, 2) Primer, 3) Braid, 4) Chronotron, 5) 5D Chess With Multiverse Time Travel
+### 1. [[Melvin]]  — [[Astronomy, Physics & Mathematics|Time travel in media]]. 1) Back to the Future, 2) Primer, 3) Braid, 4) Chronotron, 5) 5D [[Puzzles, Magic & Strategy|Chess]] With Multiverse Time Travel
 
 
-### 2. [[Martin]]  — Comparative judgement for assessment. No More Marking, read two scripts and decide which one is better. Estimating the writing age. How can we use a continuum that places student by ranking help inform instruction? --- > Analysing qualities of high performers?
+### 2. [[Martin]]  — [[Education & Pedagogy|Comparative judgement]] for assessment. No More Marking, read two scripts and decide which one is better. Estimating the writing age. How can we use a continuum that places student by ranking help inform instruction? --- > Analysing qualities of high performers?
 
 
-### 3. [[Jin]]  — Game design concepts: third place, meaningful choice, learning loop, noob strategy, skinner's box and operant conditioning, ideal pacing.
+### 3. [[Jin]]  — Game [[Design, Art & Creative Tools|design]] concepts: third place, meaningful choice, learning loop, noob strategy, skinner's box and operant conditioning, ideal pacing.
 
 
 ### 4. [[Jan]]  — 1984
 
 
-### 5. [[Cass]]  — London opening is good for beginner, conquers the center. Chess puzzles for midgame.
+### 5. [[Cass]]  — London opening is good for beginner, conquers the center. Chess [[Puzzles, Magic & Strategy|puzzles]] for midgame.
 
 
 ---

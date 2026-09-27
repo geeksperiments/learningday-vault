@@ -27,7 +27,7 @@ tags:
 
 - Music - https://www.youtube.com/watch?v=Z4TjmnoOKfg
 
-### 2. [[Lih Wei]]  — Gaming on a big screen
+### 2. [[Lih Wei]]  — [[Video Games & Interactive Media|Gaming]] on a big screen
 
 
 ### 3. [[Martin]]  — Cats (https://docs.google.com/presentation/d/1CQPU2p1AD4kKM0lnKeLYqQEVdRTsTywQsevLXBx0VyU/edit)

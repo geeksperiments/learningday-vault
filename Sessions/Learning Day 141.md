@@ -34,7 +34,7 @@ tags:
 - Range: Why Generalists Triumph in a Specialized World by David Epstein https://www.goodreads.com/en/book/show/41795733
 - Farnam Street: Mental Models https://fs.blog/mental-models/
 
-### 3. [[Melvin]]  — how much would you pay to play this red/black card game?
+### 3. [[Melvin]]  — how much would you pay to play this red/black [[Board & Tabletop Games|card game]]?
 
 - Also: Look up 'The Chow & Robbins problem'
 

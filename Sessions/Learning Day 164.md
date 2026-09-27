@@ -24,7 +24,7 @@ tags:
 ### 1. [[Louis]]  — The Egg - A short story https://www.youtube.com/watch?v=h6fcK_fRYaI, https://www.galactanet.com/oneoff/theegg_mod.html
 
 
-### 2. [[Melvin]]  — Letter Jam, a coop word game https://letterjam.game/
+### 2. [[Melvin]]  — [[Board & Tabletop Games|Letter Jam]], a coop word game https://letterjam.game/
 
 
 ### 3. [[Ka Ho]]  — Snapshots from The Garfield show that leds to various derived jokes in China

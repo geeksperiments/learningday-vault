@@ -26,7 +26,7 @@ tags:
 ### 1. [[Louis]]  — Origin of "Praxium", Build-your-own-lightsaber + Special technique - https://www.youtube.com/watch?v=mYSg_mIEvmE
 
 
-### 2. [[Melvin]]  — DESI https://www.desi.lbl.gov/ A "telescope" of 5000 robots https://www.youtube.com/watch?v=g1LVMox0KNc
+### 2. [[Melvin]]  — [[Astronomy, Physics & Mathematics|DESI]] https://www.desi.lbl.gov/ A "telescope" of 5000 robots https://www.youtube.com/watch?v=g1LVMox0KNc
 
 
 ### 3. [[Teo]]  — Prisoner's Dilemma (Discussion)

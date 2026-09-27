@@ -37,7 +37,7 @@ tags:
 - StepnN www.stepn.com
 - From Janice, addon: https://www.youtube.com/watch?v=Ks_QkNTbGJY&feature=youtu.be
 
-### 4. [[Ka Ho]]  — AI - the sequel: https://www.todayonline.com/world/jay-chou-chatgpt-song-2131851
+### 4. [[Ka Ho]]  — [[Artificial Intelligence|AI]] - the sequel: https://www.todayonline.com/world/jay-chou-chatgpt-song-2131851
 
 
 ### 5. [[Janice]]  — Calm Circle from Calm Collective

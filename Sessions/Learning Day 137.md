@@ -30,10 +30,10 @@ tags:
 ### 2. [[Jin]]  — Miniature Painting and Diorama Making https://docs.google.com/presentation/d/1yXq9ClZSCYTf57HSZqSF11fMfyjkqqWLnxDc5qCk9PI/edit?usp=sharing
 
 
-### 3. [[Scarlett]]  — One of the best no-commitment movies ever - The Velocipastor. Trailer: https://youtu.be/7Nyb0GqAjKM Highlights: https://youtu.be/Ec4gVY4T3t8
+### 3. [[Scarlett]]  — One of the best no-commitment [[Films, Shows & Media|movies]] ever - The Velocipastor. Trailer: https://youtu.be/7Nyb0GqAjKM Highlights: https://youtu.be/Ec4gVY4T3t8
 
 
-### 4. [[Melvin]]  — Fitch Cheney's five card trick https://melvinzhang.github.io/fitchcheneytrick/
+### 4. [[Melvin]]  — [[Puzzles, Magic & Strategy|Fitch Cheney]]'s five card trick https://melvinzhang.github.io/fitchcheneytrick/
 
 
 ### 5. [[Ka Ho]]  — Bring your own bags. Next time pay 5 cents for plastic bags. PLASTIC BAGS ARE REUSABLE BAGS. https://omny.fm/shows/moneyfm-evening-show/weekly-wrap-up-most-supermarkets-in-sg-to-charge-5

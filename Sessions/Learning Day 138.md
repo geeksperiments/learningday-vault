@@ -28,7 +28,7 @@ tags:
 ### 1. [[Louis]]  — Innovation in Education
 
 
-### 2. [[Melvin]]  — Inflation and Consumer Price Index https://www.singstat.gov.sg/modules/infographics/consumer-price-index
+### 2. [[Melvin]]  — Inflation and [[Economics, Finance & Investing|Consumer Price Index]] https://www.singstat.gov.sg/modules/infographics/consumer-price-index
 
 
 ### 3. [[Ka Ho]]  — Engineering connections - HMS Illustrious (UK Aircraft Carrier)
@@ -43,13 +43,13 @@ tags:
 * https://looptogo.com/
 * sample loop demo during the sharing: https://voca.ro/1gGZpmpFU8Re
 
-### 5. [[Julian]]  — What is 'Design'?
+### 5. [[Julian]]  — What is '[[Design, Art & Creative Tools|Design]]'?
 
 - Design in a nutshell: https://censemaking.com/2023/01/16/what-do-we-mean-when-we-talk-design/
 - Norman Door, Design of Everyday Things: https://www.youtube.com/watch?v=yY96hTb8WgI
 - Good design - Singapore’s Crosswalk Button: https://www.youtube.com/watch?v=5SK8PHILE6s
 
-### 6. [[Yu Yang]]  — Developing a basic Java programming workshop as an introduction.
+### 6. [[Yu Yang]]  — Developing a basic Java [[Software & Web Development|programming]] workshop as an introduction.
 
 
 ### 7. [[Jessica]]  — PARA method for knowledge management. https://fortelabs.com/blog/para/

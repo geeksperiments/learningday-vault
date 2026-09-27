@@ -35,7 +35,7 @@ tags:
 ### 6. [[Julian]]  — Configuration Space / Arrangement Space
 
 
-### 7. [[Jia Le & Pei Ling]]  — explaining the finance sector (private equity & private banking)
+### 7. [[Jia Le & Pei Ling]]  — explaining the [[Economics, Finance & Investing|finance]] sector (private equity & private banking)
 
 - <https://docs.google.com/spreadsheets/d/1p2gUYQiVOiRGu4i7yKkg_qf8Bt01xucVpL-jFTyPrGo/edit#gid=0h>
 

@@ -24,7 +24,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — ChatGPT, AI, reading list to learn more:
+### 1. [[Louis]]  — [[Artificial Intelligence|ChatGPT]], AI, reading list to learn more:
 
 - Person of Interest: https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)
 - Ex Machina: https://en.wikipedia.org/wiki/Ex_Machina_(film)
@@ -42,13 +42,13 @@ tags:
 ### 3. [[Jin]]  — The Case Against Banquet Weddings https://docs.google.com/presentation/d/16L2UT4rYh226cZsGzql-Vqo1IWt1HVsj/edit?usp=drivesdk&ouid=115059009896167718397&rtpof=true&sd=true
 
 
-### 4. [[Melvin]]  — Introduction to Stoicism https://garden.melvinzhang.net/posts/stoicism/
+### 4. [[Melvin]]  — Introduction to [[Philosophy & Mental Models|Stoicism]] https://garden.melvinzhang.net/posts/stoicism/
 
 - 5.Huiling
 - Lost at sea exercise
 - <https://lemon-base-8b0.notion.site/Lost-at-sea-692d46f80bb54b658c901b0e227416aa>
 
-### 6. [[Sharon]]  — forming habits instead of goals to achieve what you want. How to create a good habit:
+### 6. [[Sharon]]  — forming [[Productivity & Time Management|habits]] instead of goals to achieve what you want. How to create a good habit:
 
 - The 1st law (Cue): Make it obvious.
 - The 2nd law (Craving): Make it attractive.

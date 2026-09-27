@@ -25,11 +25,11 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Scarlett]]  — Paripi Koumei anime. Source materials of the songs used in the show, and how it was adapted for a Japanese anime.
+### 1. [[Scarlett]]  — Paripi Koumei anime. Source materials of the [[Music, Audio & Acoustics|songs]] used in the show, and how it was adapted for a [[Japan & Japanese Culture|Japanese anime]].
 
 - <https://youtu.be/rvi0Um0KQgA, https://youtu.be/T23HA-f1cNA, https://youtu.be/g0Pb5CDhndk, https://youtu.be/gNn9NxZH2Vo, https://youtu.be/pbJ0ynnsgn0>
 
-### 2. [[Jin]]  — Learning Japanese as an English & Mandarin Speaker: https://docs.google.com/presentation/d/1yl3VNwySl9ZjvoyB90dEoEUuarTqnz8bzXyujyJ5Ces/edit?usp=drivesdk
+### 2. [[Jin]]  — Learning [[Japan & Japanese Culture|Japanese]] as an English & Mandarin Speaker: https://docs.google.com/presentation/d/1yl3VNwySl9ZjvoyB90dEoEUuarTqnz8bzXyujyJ5Ces/edit?usp=drivesdk
 
 
 ### 3. [[Louis]]  — PPT Karaoke - Making presentations more engaging by focusing on a coherent inner script and delivery, instead of a fixed script with 'good content'. Useful tool: https://huijing.github.io/ppt-karaoke/
@@ -47,7 +47,7 @@ tags:
 ### 7. [[Jan]]  — USA's governance system. Legislative (Congress, Senate, H.O Rep - Create/Amend Laws & Constitutions), Judiciary (Supreme Court - Interpret/Enforce the laws), Executive (President - Executive laws, Other government functions). Understanding this for context to Roe vs Wade overturn affected abortion laws in USA.
 
 
-### 8. [[Melvin]]  — Secret shares. Related to: https://doubleoctopus.com/security-wiki/encryption-and-cryptography/secret-sharing/ e.g Knowing average salary at a table, without knowing each other's salary. Split your salary into smaller parts, and share that info with someone else. Reconstruct sum and average out after.
+### 8. [[Melvin]]  — [[Cybersecurity & Cryptography|Secret shares]]. Related to: https://doubleoctopus.com/security-wiki/encryption-and-cryptography/secret-sharing/ e.g Knowing average salary at a table, without knowing each other's salary. Split your salary into smaller parts, and share that info with someone else. Reconstruct sum and average out after.
 
 
 ---

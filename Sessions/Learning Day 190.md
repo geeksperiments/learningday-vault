@@ -31,7 +31,7 @@ tags:
 - Four sample questions https://form.typeform.com/to/eof9vDnI
 - Responses https://form.typeform.com/report/eof9vDnI/5IClZwwI7qVjj0fq
 
-### 3. [[Tony]]  — Claude AI & Darren Guo (Acting)
+### 3. [[Tony]]  — Claude [[Artificial Intelligence|AI]] & Darren Guo (Acting)
 
 - A Conversation Between Marya and the Buddha
 - <https://claude.ai/share/d5c3587a-e016-4358-b730-b337f5cb8863>
@@ -45,7 +45,7 @@ tags:
 
 - <https://docs.google.com/presentation/d/1NiP-S3hMwtC0aDAFasRxI0-a5My2HvAINXS1lB5XPpo/edit?usp=sharing>
 
-### 6. [[Justin]]  — When the Music Stops: The Secret Personal Lives in Japanese Music
+### 6. [[Justin]]  — When the [[Music, Audio & Acoustics|Music]] Stops: The Secret Personal Lives in [[Japan & Japanese Culture|Japanese]] Music
 
 - Misc
 - Physics meet-up group run by a retired physicist: https://www.meetup.com/singapore-reading-meetup-group/

@@ -26,16 +26,16 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Introduction -> AMA, What is UX Design and why did I pursue it? Wanting to make more mundane things in life to be more fun and enjoyable.
+### 1. [[Louis]]  — Introduction -> AMA, What is UX [[Design, Art & Creative Tools|Design]] and why did I pursue it? Wanting to make more mundane things in life to be more fun and enjoyable.
 
 
-### 2. [[Julian]]  — Ecology -> https://www.instagram.com/vital.ecology/,  https://en.wikipedia.org/wiki/Wangari_Maathai
+### 2. [[Julian]]  — [[Science, Ecology & Environment|Ecology]] -> https://www.instagram.com/vital.ecology/,  https://en.wikipedia.org/wiki/Wangari_Maathai
 
 
 ### 3. [[Jan]]  — Evolution. Christmas island crabs migration, which primarily live in the forest, and only reproduce in the water: https://youtu.be/btr78w-BgKs
 
 
-### 4. [[Jess]]  — Human evolution. Evolution tree. DNA sequencing reveals that evolution tree theory might be wrong, due to possible intermingling of species.
+### 4. [[Jess]]  — Human evolution. Evolution tree. DNA sequencing reveals that evolution tree theory might be wrong, due to possible intermingling of [[Science, Ecology & Environment|species]].
 
 
 ### 5. [[Lih Wei]]  — lockpicking. https://youtu.be/WpH_t0u5Ybg
@@ -47,10 +47,10 @@ tags:
 ### 7. [[Jin Hoo]]  — Crash course on Food security and sources on earth https://docs.google.com/presentation/d/1ZA_k5HWZhMOy2pVXeNucgV6PV0c4b8yzHQ_jQUp4O30/edit?usp=drivesdk
 
 
-### 8. [[Melvin]]  — Mining on a blockchain. Blockchain is a system of records, similar to minutes of meetings. Bitcoin uses SHA256 to sign each block, result must start with a specified number of zeroes, more zeros means higher difficulty tinyurl.com/sha256calc
+### 8. [[Melvin]]  — Mining on a [[Cybersecurity & Cryptography|blockchain]]. Blockchain is a system of records, similar to minutes of meetings. Bitcoin uses SHA256 to sign each block, result must start with a specified number of zeroes, more zeros means higher difficulty tinyurl.com/sha256calc
 
 
-### 9. [[Rahul]]  — Genius design of alumnium drink cans - first/second glass lever of the tabs, shape of the cans: https://www.youtube.com/watch?v=hUhisi2FBuw
+### 9. [[Rahul]]  — Genius [[Design, Art & Creative Tools|design]] of alumnium drink cans - first/second glass lever of the tabs, shape of the cans: https://www.youtube.com/watch?v=hUhisi2FBuw
 
 
 ---

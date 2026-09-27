@@ -30,10 +30,10 @@ tags:
 - [Supplmentary link: https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki]
 - Video: https://www.tiktok.com/@se.na379/video/7390871702500134151?lang=en
 
-### 2. [[Melvin]]  — Untold story of Farquhar and Raffles https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/fnr-untold-story/
+### 2. [[Melvin]]  — Untold story of [[Singapore History & Culture|Farquhar and Raffles]] https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/fnr-untold-story/
 
 
-### 3. [[Lih Wei]]  — Wave Superposition. How it is used in Wi-Fi and concert audio. These principles are applied in line arrays and parametric arrays. With parametric arrays, very targeted and configurable sound systems can be made.
+### 3. [[Lih Wei]]  — Wave Superposition. How it is used in Wi-Fi and concert [[Music, Audio & Acoustics|audio]]. These principles are applied in line arrays and parametric arrays. With parametric arrays, very targeted and configurable sound systems can be made.
 
 - [Supplmentary link: https://www.youtube.com/watch?v=qs2QcycggWU]
 

@@ -60,17 +60,17 @@ tags:
 
 - <https://docs.google.com/presentation/d/1JkJ3Kyq2Z4VhbvyhHfbqVN5VtdCNBsY-pVbbhB1-wrk/edit?usp=sharing>
 
-### 5. [[Ka Ho]]  — When memes become brainrot content - case study of Chinese people creating too much similar contents by remixing contents from Japanese anime. (Featuring Umamusume - Pretty Derby)
+### 5. [[Ka Ho]]  — When memes become brainrot content - case study of Chinese people creating too much similar contents by remixing contents from [[Japan & Japanese Culture|Japanese anime]]. (Featuring Umamusume - Pretty Derby)
 
 - <https://youtu.be/dddEvqRdF2E?t=253>
 
-### 6. [[Hafeez]]  — Daily puzzles
+### 6. [[Hafeez]]  — Daily [[Puzzles, Magic & Strategy|puzzles]]
 
 - <https://dles.aukspot.com/>
 
 ### 7. [[Tony]] 
 
--community map with non-human beings
+-[[Community, Volunteering & Social Dynamics|community]] map with non-human beings
 -website to identify birds: https://ebird.org/home
 -app to identify plants:
 - <https://plantsnap.com/>

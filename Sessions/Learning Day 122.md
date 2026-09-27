@@ -25,16 +25,16 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Collecting NDP tickets.
+### 1. [[Louis]]  — Collecting [[Singapore History & Culture|NDP]] tickets.
 
 
 ### 2. [[Scarlett]]  — Walking around Marina Square. Tokidoki is from Italy. Turtle is a novelty gift shop, cheaper ones can be found on Taobao.
 
 
-### 3. [[Melvin]]  — Short intro to finance. Full version by Christine Parlor https://www.youtube.com/playlist?list=PLS01nW3RtgopkwJ5xwpgrspD87nqZggfx and slides https://berkeley-defi.github.io/assets/material/Lecture%204%20Slides.pdf
+### 3. [[Melvin]]  — Short intro to [[Economics, Finance & Investing|finance]]. Full version by Christine Parlor https://www.youtube.com/playlist?list=PLS01nW3RtgopkwJ5xwpgrspD87nqZggfx and slides https://berkeley-defi.github.io/assets/material/Lecture%204%20Slides.pdf
 
 
-### 4. [[Martin]]  — Variation theory, changing one thing at a time, when creating examples/setting problems. Figure out what you want the leaner to focus on first. Theory of disuse, retrival strength vs storage strength.
+### 4. [[Martin]]  — [[Education & Pedagogy|Variation theory]], changing one thing at a time, when creating examples/setting problems. Figure out what you want the leaner to focus on first. Theory of disuse, retrival strength vs storage strength.
 
 
 ### 5. [[Julian]]  — On Being Project. Six grounding virtues. https://onbeing.org/social-healing-at-on-being/the-six-grounding-virtues-of-the-on-being-project/
@@ -56,7 +56,7 @@ tags:
 - Low commitment: Getting to know me
 - High commitment: "Marry Me!"
 
-### 9. [[Yu Yang]]  — Kotoko - Internet Overdose (Japanese and English version) - Needy streamer overload
+### 9. [[Yu Yang]]  — Kotoko - Internet Overdose ([[Japan & Japanese Culture|Japanese]] and English version) - Needy streamer overload
 
 - <https://www.youtube.com/watch?v=BnkhBwzBqlQ&ab_channel=Aiobahn>
 - <https://www.youtube.com/watch?v=YBXnXguOzf8&ab_channel=StrawberrySana>

@@ -31,14 +31,14 @@ tags:
 ### 2. [[Melvin]]  — GO! How the game works. Capture GO at https://www.learn-go.net/lessons/01/
 
 
-### 3. [[Ka Ho]]  — Japanese comedy manzai https://youtu.be/z0XHWBIZmZQ. Asian style comedy - Oral comedy - crosstalk (相声) and manzai (慢才). Manzai is a traditional style of comedy in Japanese culture comparable to double act comedy or stand-up comedy. Manzai usually involves two performers —a straight man and a funny man —trading jokes at great speed. Most of the jokes revolve around mutual misunderstandings, double-talk, puns and other verbal gags.
+### 3. [[Ka Ho]]  — [[Japan & Japanese Culture|Japanese]] comedy manzai https://youtu.be/z0XHWBIZmZQ. Asian style comedy - Oral comedy - crosstalk (相声) and manzai (慢才). Manzai is a traditional style of comedy in Japanese culture comparable to double act comedy or stand-up comedy. Manzai usually involves two performers —a straight man and a funny man —trading jokes at great speed. Most of the jokes revolve around mutual misunderstandings, double-talk, puns and other verbal gags.
 
 
 ### 4. [[Jin]]  — Your Evolutionary Advantage
 
 - <https://docs.google.com/presentation/d/123H4nfsyd5uR4ACeYOqzepWq8Znkr-QMfB86uVEJKhM/edit?usp=drivesdk>
 
-### 5. [[Scarlett]]  — Tableau, an easy drama activity. "What is a tableau? In a tableau, participants make still images with their bodies to represent a scene. A tableau can be used to quickly establish a scene that involves a large number of characters. Because there is no movement, a tableau is easier to manage than a whole-group improvisation – yet can easily lead into extended drama activities." (source: https://dramaresource.com/tableaux/)
+### 5. [[Scarlett]]  — [[Data & Analytics|Tableau]], an easy drama activity. "What is a tableau? In a tableau, participants make still images with their bodies to represent a scene. A tableau can be used to quickly establish a scene that involves a large number of characters. Because there is no movement, a tableau is easier to manage than a whole-group improvisation – yet can easily lead into extended drama activities." (source: https://dramaresource.com/tableaux/)
 
 
 ### 6. [[Hilda]]  — Tattoos

@@ -25,14 +25,14 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Dexter]]  — TRULY UNDERSTANDING frontend development - via layering and kuey lapis
+### 1. [[Dexter]]  — TRULY UNDERSTANDING [[Software & Web Development|frontend development]] - via layering and kuey lapis
 
 
-### 2. [[Melvin]]  — Dominion by Donald X. Vaccarino defined the deckbuilding genre.
+### 2. [[Melvin]]  — Dominion by Donald X. Vaccarino defined the [[Board & Tabletop Games|deckbuilding]] genre.
 
 - Web at https://dominion.games/, PC/mobile with good AI by Temple Gate Games
 
-### 3. [[Louis]]  — Joel Haver's strange videos and how he makes them (https://www.youtube.com/channel/UCVIFCOJwv3emlVmBbPCZrvw)
+### 3. [[Louis]]  — [[Films, Shows & Media|Joel Haver]]'s strange videos and how he makes them (https://www.youtube.com/channel/UCVIFCOJwv3emlVmBbPCZrvw)
 
 
 ### 4. [[Lih Wei]]  — Real-time 3D re-construction from images https://nvlabs.github.io/instant-ngp/ , how most AIs in the past are trained with human labour https://medium.com/syncedreview/data-annotation-the-billion-dollar-business-behind-ai-breakthroughs-d929b0a50d23 (captchas are one of them)

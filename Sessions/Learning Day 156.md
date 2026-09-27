@@ -22,10 +22,10 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Aseprite pixel art stuff https://www.youtube.com/watch?v=3SAKAa_j_XE
+### 1. [[Louis]]  — Aseprite pixel [[Design, Art & Creative Tools|art]] stuff https://www.youtube.com/watch?v=3SAKAa_j_XE
 
 
-### 2. [[Melvin]]  — A story based MUD called Frandum, http://frandum.fr/
+### 2. [[Melvin]]  — A story based [[Video Games & Interactive Media|MUD]] called Frandum, http://frandum.fr/
 
 - <http://www.mudportal.com/play?host=frandum.fr&port=2001>
 
@@ -36,7 +36,7 @@ tags:
 
 - Despite the use of technology in libraries, visitorship in libraries in some country around the world has decreased, but not in Singapore (Details: https://www.todayonline.com/big-read/big-read-are-public-libraries-dying-not-singapore-far-it-2311941)
 
-### 5. [[Paul]]  — Some music visualisations as a continuation of sine wave sounds
+### 5. [[Paul]]  — Some [[Music, Audio & Acoustics|music]] visualisations as a continuation of sine wave sounds
 
 - https://stellartux.github.io/CC125/
 - https://thecodingtrain.com/challenges/125-fourier-series

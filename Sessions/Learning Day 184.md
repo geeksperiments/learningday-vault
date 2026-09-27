@@ -22,7 +22,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — 4 Pillars of trust within the School of Life curriculum, new programme
+### 1. [[Louis]]  — 4 Pillars of trust within the School of Life [[Education & Pedagogy|curriculum]], new programme
 
 - Shared by David: https://www.youtube.com/watch?v=FTWNnmymMc4&ab_channel=Insider
 

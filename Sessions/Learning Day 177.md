@@ -30,7 +30,7 @@ tags:
 - 2. https://iseej.github.io/CosmosPersona/
 - 3. https://www.cake.me/campaigns/what-cake-r-u/en?locale=en
 
-### 2. [[Melvin]]  — Learning how to play Marvel Champions on https://card-table.app
+### 2. [[Melvin]]  — Learning how to play [[Board & Tabletop Games|Marvel Champions]] on https://card-table.app
 
 
 ### 3. [[Ka Ho]]  — Kowloon Walled City
