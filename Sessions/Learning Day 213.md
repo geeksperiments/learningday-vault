@@ -27,7 +27,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Tayson]]  — AI predicts the next 400 years in 3 minutes https://www.youtube.com/watch?v=-UBaW1OIgTo&t=55s
+### 1. [[Tayson]]  — [[Artificial Intelligence|AI]] predicts the next 400 years in 3 minutes https://www.youtube.com/watch?v=-UBaW1OIgTo&t=55s
 
 - **Reaction:** `+++++`
 
@@ -36,7 +36,7 @@ tags:
 - DIY: https://ibrahimisramos.github.io/numerology
 - **Reaction:** `++++++`
 
-### 3. [[Amos]]  — TTRPGs and How to Start Playing
+### 3. [[Amos]]  — [[Board & Tabletop Games|TTRPGs]] and How to Start Playing
 
 - <https://canva.link/a4w6z4kj4bc2e51>
 - **Reaction:** `+++++++`
