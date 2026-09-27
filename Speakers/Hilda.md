@@ -3,6 +3,10 @@ speaker: "Hilda"
 talk_count: 3
 first_talk: "2022-08-27"
 last_talk: "2025-02-01"
+topics:
+  - "[[Design, Art & Creative Tools]]"
+  - "[[Books & Literature]]"
+  - "[[World History & Geopolitics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 3
 - **First Sharing:** 2022-08-27
 - **Latest Sharing:** 2025-02-01
+- **Primary Topics:** [[Design, Art & Creative Tools]] · [[Books & Literature]] · [[World History & Geopolitics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

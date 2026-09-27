@@ -3,6 +3,10 @@ speaker: "Teo"
 talk_count: 18
 first_talk: "2023-07-08"
 last_talk: "2026-09-05"
+topics:
+  - "[[World History & Geopolitics]]"
+  - "[[Singapore History & Culture]]"
+  - "[[Urban Planning, Transport & Outdoors]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 18
 - **First Sharing:** 2023-07-08
 - **Latest Sharing:** 2026-09-05
+- **Primary Topics:** [[World History & Geopolitics]] · [[Singapore History & Culture]] · [[Urban Planning, Transport & Outdoors]]
 - **Directory:** [[Learning Day Index]]
 
 ---

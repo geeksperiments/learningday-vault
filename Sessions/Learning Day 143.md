@@ -21,12 +21,12 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Eye accessing cues from NLP
+### 1. [[Louis]]  — Eye accessing cues from [[Artificial Intelligence|NLP]]
 
 - 2.Melvin: Estimating with confidence (intervals).
 - Instead of a providing an estimate as a single number, it is often better to given an interval/range. For example, confidence interval https://logarithmic.net/2017/dance/
 
-### 3. [[Jin]]  — Action cameras & GoPro https://youtu.be/_CEzHeMY-vE
+### 3. [[Jin]]  — Action [[Hardware & Devices|cameras]] & GoPro https://youtu.be/_CEzHeMY-vE
 
 - <https://drive.google.com/drive/folders/10tHYzagOo4Mz62B7gem-GtTsk_9aAdie>
 - 4.Ka Ho: Having more effective conversations. The values: openess, respect, collaboration.
@@ -38,11 +38,11 @@ tags:
 - 5.Paul: Spark GO - Ultra-portable Smart Guitar Amp & Bluetooth® Speaker
 - <https://www.positivegrid.com/products/spark-go>
 
-### 6. [[Yu Yang]]  — https://www.youtube.com/watch?v=LJwR4iHxKV0, https://www.youtube.com/watch?v=Yv6shy_9KVM, https://www.youtube.com/watch?v=GR-mLGV0X1I
+### 6. [[Yu Yang]]  — [[Puzzles, Magic & Strategy]] — https://www.youtube.com/watch?v=LJwR4iHxKV0, https://www.youtube.com/watch?v=Yv6shy_9KVM, https://www.youtube.com/watch?v=GR-mLGV0X1I
 
 - 7.Huizhen - Singapore bridge + telegram bot https://en.m.wikipedia.org/wiki/Singaporean_bridge @sg_bridge_bot (add to a group chat with at least 4 members)
 
-### 8. [[Scarlett]]  — Aggretsuko (https://www.youtube.com/watch?v=95c1ZtP-2z8)
+### 8. [[Scarlett]]  — [[Japan & Japanese Culture|Aggretsuko]] (https://www.youtube.com/watch?v=95c1ZtP-2z8)
 
 
 ---

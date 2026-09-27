@@ -3,6 +3,8 @@ speaker: "Aldrin"
 talk_count: 1
 first_talk: "2024-03-02"
 last_talk: "2024-03-02"
+topics:
+  - "[[Community, Volunteering & Social Dynamics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2024-03-02
 - **Latest Sharing:** 2024-03-02
+- **Primary Topics:** [[Community, Volunteering & Social Dynamics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

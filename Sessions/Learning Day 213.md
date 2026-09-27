@@ -41,7 +41,7 @@ tags:
 - <https://canva.link/a4w6z4kj4bc2e51>
 - **Reaction:** `+++++++`
 
-### 4. [[Bang]]  — https://canva.link/t61yhiyjpxedch1
+### 4. [[Bang]]  — [[Design, Art & Creative Tools]] — https://canva.link/t61yhiyjpxedch1
 
 - **Reaction:** `+++++++`
 

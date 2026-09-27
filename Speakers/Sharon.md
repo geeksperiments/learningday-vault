@@ -3,6 +3,10 @@ speaker: "Sharon"
 talk_count: 9
 first_talk: "2022-02-25"
 last_talk: "2026-01-16"
+topics:
+  - "[[Health, Fitness & Wellness]]"
+  - "[[Community, Volunteering & Social Dynamics]]"
+  - "[[Films, Shows & Media]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 9
 - **First Sharing:** 2022-02-25
 - **Latest Sharing:** 2026-01-16
+- **Primary Topics:** [[Health, Fitness & Wellness]] · [[Community, Volunteering & Social Dynamics]] · [[Films, Shows & Media]]
 - **Directory:** [[Learning Day Index]]
 
 ---

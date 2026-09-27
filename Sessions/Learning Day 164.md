@@ -21,13 +21,13 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — The Egg - A short story https://www.youtube.com/watch?v=h6fcK_fRYaI, https://www.galactanet.com/oneoff/theegg_mod.html
+### 1. [[Louis]]  — [[Books & Literature|The Egg]] - A short story https://www.youtube.com/watch?v=h6fcK_fRYaI, https://www.galactanet.com/oneoff/theegg_mod.html
 
 
 ### 2. [[Melvin]]  — [[Board & Tabletop Games|Letter Jam]], a coop word game https://letterjam.game/
 
 
-### 3. [[Ka Ho]]  — Snapshots from The Garfield show that leds to various derived jokes in China
+### 3. [[Ka Ho]]  — Snapshots from The Garfield [[Films, Shows & Media|show]] that leds to various derived jokes in China
 
 - a. The layer who mainly always sues people (from eposide - "Odie for sale"): https://www.youtube.com/watch?v=gfdrtjVQsVs
 - b. The king of taxes (from eposide - "Furry Tales" [part 1 of 4]): https://www.youtube.com/watch?v=6Y2Kpo7RQzk

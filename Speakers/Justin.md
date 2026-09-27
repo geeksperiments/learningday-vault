@@ -3,6 +3,10 @@ speaker: "Justin"
 talk_count: 5
 first_talk: "2024-02-03"
 last_talk: "2026-07-04"
+topics:
+  - "[[Music, Audio & Acoustics]]"
+  - "[[Community, Volunteering & Social Dynamics]]"
+  - "[[Urban Planning, Transport & Outdoors]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 5
 - **First Sharing:** 2024-02-03
 - **Latest Sharing:** 2026-07-04
+- **Primary Topics:** [[Music, Audio & Acoustics]] · [[Community, Volunteering & Social Dynamics]] · [[Urban Planning, Transport & Outdoors]]
 - **Directory:** [[Learning Day Index]]
 
 ---

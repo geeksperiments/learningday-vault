@@ -3,6 +3,9 @@ speaker: "Louis & Scarlett"
 talk_count: 4
 first_talk: "2022-02-11"
 last_talk: "2023-07-21"
+topics:
+  - "[[Japan & Japanese Culture]]"
+  - "[[Films, Shows & Media]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 4
 - **First Sharing:** 2022-02-11
 - **Latest Sharing:** 2023-07-21
+- **Primary Topics:** [[Japan & Japanese Culture]] · [[Films, Shows & Media]]
 - **Directory:** [[Learning Day Index]]
 
 ---

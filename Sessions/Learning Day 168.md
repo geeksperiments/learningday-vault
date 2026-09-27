@@ -22,19 +22,19 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Skillsfuture Skills Framework. What is that? https://www.skillsfuture.gov.sg/skills-framework
+### 1. [[Louis]]  — [[Singapore History & Culture]] — Skillsfuture Skills Framework. What is that? https://www.skillsfuture.gov.sg/skills-framework
 
 
-### 2. [[Paul]]  — https://jigsawpuzzles.io/ Our masterpiece: https://jigsawpuzzles.io/g/87620987-d1e2-47d2-8560-01788d8e4a15
+### 2. [[Paul]]  — [[Community, Volunteering & Social Dynamics]] — https://jigsawpuzzles.io/ Our masterpiece: https://jigsawpuzzles.io/g/87620987-d1e2-47d2-8560-01788d8e4a15
 
 
-### 3. [[Hafeez]]  — Meta hints for geoguessr at geohints.com
+### 3. [[Hafeez]]  — Meta hints for [[Video Games & Interactive Media|geoguessr]] at geohints.com
 
 - "It's learnable." Yes
 - Car Model: https://geohints.com/Cars
 - Camera Generation: https://geohints.com/Gens
 
-### 4. [[Ka Ho]]  — Vocaloid - Hair Swept Back by Gale Winds (
+### 4. [[Ka Ho]]  — [[Music, Audio & Acoustics|Vocaloid]] - Hair Swept Back by Gale Winds (
 
 - 強風オールバック) by Yukopi
 - Part of the tune is played with Soprano Recorder

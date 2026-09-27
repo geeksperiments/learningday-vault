@@ -20,7 +20,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Julian]]  — International auxiliary language & Constructed languages
+### 1. [[Julian]]  — International auxiliary language & [[Books & Literature|Constructed languages]]
 
 - <https://en.wikipedia.org/wiki/International_auxiliary_language>
 - <https://en.wikipedia.org/wiki/Esperanto>
@@ -28,11 +28,11 @@ tags:
 - <https://en.wikipedia.org/wiki/Toki_Pona>
 - <https://en.wikipedia.org/wiki/Ithkuil>
 
-### 2. [[Hafeez]]  — Color Hexcodes (with game)
+### 2. [[Hafeez]]  — [[Design, Art & Creative Tools|Color Hexcodes]] (with game)
 
 - <https://izzhafeez.com/games/color-guessr>
 
-### 3. [[Ka Ho]]  — Regalia of Malaysia (Appeared during the installation of King of Malaysia)
+### 3. [[Ka Ho]]  — Regalia of [[World History & Geopolitics|Malaysia]] (Appeared during the installation of King of Malaysia)
 
 - <https://en.wikipedia.org/wiki/Regalia_of_Malaysia>
 - <https://mothership.sg/2024/07/sm-lee-agong-kl/>

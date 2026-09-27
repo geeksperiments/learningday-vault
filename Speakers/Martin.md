@@ -3,6 +3,10 @@ speaker: "Martin"
 talk_count: 11
 first_talk: "2022-01-14"
 last_talk: "2024-07-19"
+topics:
+  - "[[Education & Pedagogy]]"
+  - "[[Astronomy, Physics & Mathematics]]"
+  - "[[Science, Ecology & Environment]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 11
 - **First Sharing:** 2022-01-14
 - **Latest Sharing:** 2024-07-19
+- **Primary Topics:** [[Education & Pedagogy]] · [[Astronomy, Physics & Mathematics]] · [[Science, Ecology & Environment]]
 - **Directory:** [[Learning Day Index]]
 
 ---

@@ -3,6 +3,10 @@ speaker: "Jan"
 talk_count: 25
 first_talk: "2022-03-04"
 last_talk: "2026-01-03"
+topics:
+  - "[[Music, Audio & Acoustics]]"
+  - "[[World History & Geopolitics]]"
+  - "[[Video Games & Interactive Media]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 25
 - **First Sharing:** 2022-03-04
 - **Latest Sharing:** 2026-01-03
+- **Primary Topics:** [[Music, Audio & Acoustics]] · [[World History & Geopolitics]] · [[Video Games & Interactive Media]]
 - **Directory:** [[Learning Day Index]]
 
 ---

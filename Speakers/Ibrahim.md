@@ -3,6 +3,8 @@ speaker: "Ibrahim"
 talk_count: 1
 first_talk: "2026-09-05"
 last_talk: "2026-09-05"
+topics:
+  - "[[Singapore History & Culture]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2026-09-05
 - **Latest Sharing:** 2026-09-05
+- **Primary Topics:** [[Singapore History & Culture]]
 - **Directory:** [[Learning Day Index]]
 
 ---

@@ -24,26 +24,26 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Sharon]]  — Manchester - cool city with arts, culture, history, alternative stuff like goth culture. Cheaper and more compact to visit than London. Message me for travel reccs!
+### 1. [[Sharon]]  — Manchester - cool city with arts, culture, [[World History & Geopolitics|history]], alternative stuff like goth culture. Cheaper and more compact to visit than London. Message me for travel reccs!
 
 
-### 2. [[Teo]]  — Introduction to F1 - https://youtu.be/Q-jjZMMxbZs?si=HdvjC_P3nKPTnbM0
+### 2. [[Teo]]  — Introduction to [[Urban Planning, Transport & Outdoors|F1]] - https://youtu.be/Q-jjZMMxbZs?si=HdvjC_P3nKPTnbM0
 
 - 3.Ka Ho: Damascus knives - why is it so expensive. https://www.youtube.com/watch?v=QIwpNKfy4sg
 
-### 4. [[Bing Wen]]  — Checking for scams and misinformation with CheckMate
+### 4. [[Bing Wen]]  — Checking for [[Cybersecurity & Cryptography|scams]] and misinformation with CheckMate
 
 - <https://checkmate.sg>
 - add the bot at > https://ref.checkmate.sg/add?utm_source=learningday&utm_medium=event
 - contact me at bingwentan@better.sg if you're keen to fact check!
 
-### 5. [[Heng Liang]]  — botanic gardens - https://saturdaysoccerdidyouknow.blogspot.com/2023/08/singapore-botanic-gardens-and-rubber.html?m=1
+### 5. [[Heng Liang]]  — [[Singapore History & Culture]] — botanic gardens - https://saturdaysoccerdidyouknow.blogspot.com/2023/08/singapore-botanic-gardens-and-rubber.html?m=1
 
 
 ### 6. [[Louis]]  — options: [[Urban Planning, Transport & Outdoors|Urban planning]] and maps
 
 
-### 7. [[Melvin]]  — From Lichtenberg to A4
+### 7. [[Melvin]]  — From [[Crafts, Origami & Life Hacks|Lichtenberg]] to A4
 
 - 8.Yu Yang: How to learn to use Blender software.
 - Setting a SMART goal.
@@ -52,7 +52,7 @@ tags:
 - Confrontation
 - <https://youtu.be/sDElYADYaSA>
 
-### 10. [[Jin]]  — Illusionary dance.
+### 10. [[Jin]]  — [[Puzzles, Magic & Strategy|Illusionary]] dance.
 
 
 ---

@@ -26,13 +26,13 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Posing for photos. Jojo pose: https://images.app.goo.gl/FBV24WVmbgSQ1rXi7
+### 1. [[Louis]]  — Posing for photos. [[Japan & Japanese Culture|Jojo]] pose: https://images.app.goo.gl/FBV24WVmbgSQ1rXi7
 
 
 ### 2. [[Melvin]]  — Highest grossing media franchise. [[Video Games & Interactive Media|Pokemon]].
 
 
-### 3. [[Heng Liang]]  — DJ showcase & lesson at Swee Lee.
+### 3. [[Heng Liang]]  — [[Music, Audio & Acoustics|DJ]] showcase & lesson at Swee Lee.
 
 
 ### 4. [[Paul]]  — Children of the Light -> [[Music, Audio & Acoustics|Music]] player - https://sky-music.github.io/
@@ -40,7 +40,7 @@ tags:
 - Music Keyboard Simulator: https://sky-music.specy.app/
 - Easyplay Keyboard: https://www.cubyfun.com/products/easyplay-1s-full-package
 
-### 5. [[Scarlett]]  — Queen Victoria & Prince Albert - A Love Story.
+### 5. [[Scarlett]]  — [[World History & Geopolitics|Queen Victoria]] & Prince Albert - A Love Story.
 
 - <https://www.vam.ac.uk/collections/the-va-story https://www.rmg.co.uk/stories/topics/queen-victoria-prince-albert>
 - <https://blogs.getty.edu/iris/a-love-story-told-in-pictures/>
@@ -49,17 +49,17 @@ tags:
 
 - <https://www.channelnewsasia.com/east-asia/japan-shinkansen-60th-anniversary-bullet-tr   https://www.youtube.com/watch?v=Jyhzrc6cTtU>
 
-### 7. [[Hafeez]]  — Relative Pitch
+### 7. [[Hafeez]]  — [[Music, Audio & Acoustics|Relative Pitch]]
 
 - <https://mixbutton.com/mixing-articles/music-note-to-frequency-chart/>
 - <https://izzhafeez.com/games/frequency-guessr>
 
-### 8. [[Darren]]  — Studio Trigger & Transformers
+### 8. [[Darren]]  — Studio Trigger & [[Films, Shows & Media|Transformers]]
 
 - <https://youtu.be/PDqfaOFGdMI?si=37UuwH8dIGvboHDl>
 - <https://youtu.be/YoeyfTGI7ik?si=B5vrbAIcPDRAop9g>
 
-### 9. [[Lih Wei]]  — Aerogels & Space tech e.g Mylar
+### 9. [[Lih Wei]]  — [[Astronomy, Physics & Mathematics|Aerogels]] & Space tech e.g Mylar
 
 
 ---

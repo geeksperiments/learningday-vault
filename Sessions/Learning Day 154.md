@@ -28,12 +28,12 @@ tags:
 ### 2. [[Melvin]]  — Passo, a new abstract [[Board & Tabletop Games|board game]]. https://steffen-spiele.com/products/passo
 
 
-### 3. [[Ka Ho]]  — Consuming Gossip
+### 3. [[Ka Ho]]  — Consuming [[Psychology & Human Behavior|Gossip]]
 
 - Malaysia politics reported by Mothership.and the involvement of Oriental Super Ring.
 - Chinese make-up brand live incident and joke.
 
-### 4. [[Jin Hoo]]  — Sharing cinematics from games in the 90s-00s
+### 4. [[Jin Hoo]]  — [[Community, Volunteering & Social Dynamics|Sharing cinematics from games in the 90s-00s]]
 
 - 5.
 - 6.

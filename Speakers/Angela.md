@@ -3,6 +3,10 @@ speaker: "Angela"
 talk_count: 3
 first_talk: "2022-01-28"
 last_talk: "2024-07-06"
+topics:
+  - "[[Video Games & Interactive Media]]"
+  - "[[Music, Audio & Acoustics]]"
+  - "[[Food, Cooking & Beverage]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 3
 - **First Sharing:** 2022-01-28
 - **Latest Sharing:** 2024-07-06
+- **Primary Topics:** [[Video Games & Interactive Media]] · [[Music, Audio & Acoustics]] · [[Food, Cooking & Beverage]]
 - **Directory:** [[Learning Day Index]]
 
 ---

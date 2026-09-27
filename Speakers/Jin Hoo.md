@@ -3,6 +3,10 @@ speaker: "Jin Hoo"
 talk_count: 7
 first_talk: "2022-01-28"
 last_talk: "2023-11-17"
+topics:
+  - "[[Design, Art & Creative Tools]]"
+  - "[[Astronomy, Physics & Mathematics]]"
+  - "[[Economics, Finance & Investing]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 7
 - **First Sharing:** 2022-01-28
 - **Latest Sharing:** 2023-11-17
+- **Primary Topics:** [[Design, Art & Creative Tools]] · [[Astronomy, Physics & Mathematics]] · [[Economics, Finance & Investing]]
 - **Directory:** [[Learning Day Index]]
 
 ---

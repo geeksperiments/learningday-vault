@@ -24,13 +24,13 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Creativity - How to teach/learn? https://www.onedaydesignchallenge.net/images/59466/default.png
+### 1. [[Louis]]  — Creativity - How to [[Education & Pedagogy|teach]]/learn? https://www.onedaydesignchallenge.net/images/59466/default.png
 
 
-### 2. [[Melvin]]  — https://www.skull-and-roses.com/
+### 2. [[Melvin]]  — [[Board & Tabletop Games]] — https://www.skull-and-roses.com/
 
 
-### 3. [[Ka Ho]]  — Notes of Education Paradigms
+### 3. [[Ka Ho]]  — Notes of [[Education & Pedagogy|Education]] Paradigms
 
 - 1. The effective student - Handbook by NUS. The guide to learning in undergraduate with objective of being independent learner. Learning does not equate to getting somebody to teach you a subject.
 - 2. Academic (Knowledge), Technical (Tools/Techniques), Vocational (Operation)
@@ -41,7 +41,7 @@ tags:
 - 7. Technological Advancement means that copy & paste and pure recall is not enough.
 - Background Music (in Chinese, titled "We have the ocean"): https://www.youtube.com/watch?v=CkU7t1fGq4U (Note: "Farewell to standard answer.")
 
-### 4. [[Jan]]  — What makes a good musical OP https://youtu.be/twRIdbAZlw0?si=lutXv14Kcdgk-rik
+### 4. [[Jan]]  — What makes a good [[Music, Audio & Acoustics|musical]] OP https://youtu.be/twRIdbAZlw0?si=lutXv14Kcdgk-rik
 
 
 ### 5. [[Sharon]]  — local [[Music, Audio & Acoustics|music]] including underground bands:
@@ -50,10 +50,10 @@ tags:
 -ska band: https://instagram.com/cesspit_sg?igshid=MzRlODBiNWFlZA==
 -older local bands: West Grand Boulevard, Giants Must Die
 
-### 6. [[Teo]]  — (a) The SAF 8 Core Values from my experience of an overseas exercise; (b) Practices I learned in Thailand - National Anthem and the 'Wai'
+### 6. [[Teo]]  — (a) The SAF 8 Core Values from my experience of an overseas [[Health, Fitness & Wellness|exercise]]; (b) Practices I learned in Thailand - National Anthem and the 'Wai'
 
 
-### 7. [[Jin]]  — Things "I" have been picking up recently
+### 7. [[Jin]]  — [[Philosophy & Mental Models|Things "I" have been picking up recently]]
 
 - Tennis classes from UFIT
 - Surf skating from The Ride Side

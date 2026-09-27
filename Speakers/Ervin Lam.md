@@ -3,6 +3,8 @@ speaker: "Ervin Lam"
 talk_count: 1
 first_talk: "2022-02-04"
 last_talk: "2022-02-04"
+topics:
+  - "[[Economics, Finance & Investing]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2022-02-04
 - **Latest Sharing:** 2022-02-04
+- **Primary Topics:** [[Economics, Finance & Investing]]
 - **Directory:** [[Learning Day Index]]
 
 ---

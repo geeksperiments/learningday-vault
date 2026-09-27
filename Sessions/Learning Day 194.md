@@ -21,18 +21,18 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Melvin]]  — Squava (Game)
+### 1. [[Melvin]]  — [[Board & Tabletop Games|Squava]] (Game)
 
 
-### 2. [[Ka Ho]]  — Causeway is not a bridge
+### 2. [[Ka Ho]]  — [[Singapore History & Culture|Causeway]] is not a bridge
 
 - Related story-documentary:
 - <https://youtu.be/S-N9syYYKa0>
 
-### 3. [[Kai Ming]]  — Algorithmic bias, HKU Critical thinking web (https://philosophy.hku.hk/think/)
+### 3. [[Kai Ming]]  — [[Philosophy & Mental Models]] — Algorithmic bias, HKU Critical thinking web (https://philosophy.hku.hk/think/)
 
 
-### 4. [[Darren]]  — How much YouTube pays to content creators (by rate).
+### 4. [[Darren]]  — How much [[Economics, Finance & Investing|YouTube pays]] to content creators (by rate).
 
 
 ---

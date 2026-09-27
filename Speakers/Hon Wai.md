@@ -3,6 +3,8 @@ speaker: "Hon Wai"
 talk_count: 1
 first_talk: "2023-01-14"
 last_talk: "2023-01-14"
+topics:
+  - "[[Books & Literature]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2023-01-14
 - **Latest Sharing:** 2023-01-14
+- **Primary Topics:** [[Books & Literature]]
 - **Directory:** [[Learning Day Index]]
 
 ---

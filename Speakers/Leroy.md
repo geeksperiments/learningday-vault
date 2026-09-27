@@ -3,6 +3,8 @@ speaker: "Leroy"
 talk_count: 1
 first_talk: "2024-09-07"
 last_talk: "2024-09-07"
+topics:
+  - "[[Board & Tabletop Games]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2024-09-07
 - **Latest Sharing:** 2024-09-07
+- **Primary Topics:** [[Board & Tabletop Games]]
 - **Directory:** [[Learning Day Index]]
 
 ---

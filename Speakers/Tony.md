@@ -3,6 +3,9 @@ speaker: "Tony"
 talk_count: 4
 first_talk: "2025-05-10"
 last_talk: "2026-04-04"
+topics:
+  - "[[Design, Art & Creative Tools]]"
+  - "[[Artificial Intelligence]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 4
 - **First Sharing:** 2025-05-10
 - **Latest Sharing:** 2026-04-04
+- **Primary Topics:** [[Design, Art & Creative Tools]] · [[Artificial Intelligence]]
 - **Directory:** [[Learning Day Index]]
 
 ---

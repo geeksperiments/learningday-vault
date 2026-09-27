@@ -34,11 +34,11 @@ tags:
 - <https://www.youtube.com/watch?v=r3sDhgR2SYI>
 - 3.Gursharon: movement puzzle
 
-### 4. [[Abraham]]  — How Did This Get Made?: Bad Movie Theatre
+### 4. [[Abraham]]  — How Did This Get Made?: Bad [[Films, Shows & Media|Movie]] Theatre
 
 - <https://canva.link/no03ylarbupbxes>
 
-### 5. [[Darren]]  — Godzilla - The 5 Eras
+### 5. [[Darren]]  — [[Films, Shows & Media|Godzilla]] - The 5 Eras
 
 - <https://docs.google.com/presentation/d/1zxEoEHsw_RLwUQU4btQ6WEIikNwCSoTbbR8eCh6Hj-I/edit?usp=sharing>
 - 6.Jin: how to start a fire, e.g. for BBQ, and with a Swedish firesteel
@@ -47,7 +47,7 @@ tags:
 
 - <https://wiki-race.com/?lobbyCode=E5A20>
 
-### 8. [[June]]  — Man's search for meaning by Viktor Frankl
+### 8. [[June]]  — [[Books & Literature|Man's search for meaning]] by Viktor Frankl
 
 
 ### 9. [[Rhine]] 

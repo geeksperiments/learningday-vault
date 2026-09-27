@@ -24,13 +24,13 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Ken Robinson Education Paradigms: https://www.youtube.com/watch?v=zDZFcDGpL4U
+### 1. [[Louis]]  — Ken Robinson [[Education & Pedagogy|Education]] Paradigms: https://www.youtube.com/watch?v=zDZFcDGpL4U
 
 
-### 2. [[Melvin]]  — SET game https://setwithfriends.com/
+### 2. [[Melvin]]  — [[Board & Tabletop Games|SET game]] https://setwithfriends.com/
 
 
-### 3. [[Jan]]  — "God is a woman"
+### 3. [[Jan]]  — [[Philosophy & Mental Models|"God is a woman"]]
 
 - Singapore theatre scene https://www.wildrice.com.sg/event/137859-g-d-is-a-woman/
 
@@ -39,17 +39,17 @@ tags:
 - https://www.plogue.com/products/alter-ego.html
 - https://www.youtube.com/watch?v=c2564V5_ND8
 
-### 5. [[Ka Ho]]  — YOASOBI - Idol (Not Vocaloid!)
+### 5. [[Ka Ho]]  — YOASOBI - Idol (Not [[Music, Audio & Acoustics|Vocaloid]]!)
 
 - Japanese version: https://www.youtube.com/watch?v=ZRtdQ81jPUQ
 - English version: https://youtube.com/watch?v=RkjSfZ30GM4
 - Story of Hoshino Ai: https://oshinoko.fandom.com/wiki/Ai_Hoshino
 
-### 6. [[Julian]]  — The History of Technology
+### 6. [[Julian]]  — The [[World History & Geopolitics|History]] of Technology
 
 - <https://en.wikipedia.org/wiki/History_of_technology>
 
-### 7. [[Fari]]  — The idea of being Chinese
+### 7. [[Fari]]  — [[Community, Volunteering & Social Dynamics|The idea of being Chinese]]
 
 
 ---

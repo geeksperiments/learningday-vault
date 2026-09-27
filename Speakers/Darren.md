@@ -3,6 +3,10 @@ speaker: "Darren"
 talk_count: 26
 first_talk: "2022-09-24"
 last_talk: "2026-09-05"
+topics:
+  - "[[Films, Shows & Media]]"
+  - "[[Japan & Japanese Culture]]"
+  - "[[Video Games & Interactive Media]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 26
 - **First Sharing:** 2022-09-24
 - **Latest Sharing:** 2026-09-05
+- **Primary Topics:** [[Films, Shows & Media]] · [[Japan & Japanese Culture]] · [[Video Games & Interactive Media]]
 - **Directory:** [[Learning Day Index]]
 
 ---

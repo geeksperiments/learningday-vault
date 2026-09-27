@@ -3,6 +3,10 @@ speaker: "Julian"
 talk_count: 30
 first_talk: "2022-04-23"
 last_talk: "2025-07-05"
+topics:
+  - "[[Books & Literature]]"
+  - "[[Science, Ecology & Environment]]"
+  - "[[Community, Volunteering & Social Dynamics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 30
 - **First Sharing:** 2022-04-23
 - **Latest Sharing:** 2025-07-05
+- **Primary Topics:** [[Books & Literature]] · [[Science, Ecology & Environment]] · [[Community, Volunteering & Social Dynamics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

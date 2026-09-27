@@ -24,10 +24,10 @@ tags:
 ### 1. [[Louis]]  — TV show [[Community, Volunteering & Social Dynamics|Community]] episode with the characters playing DnD
 
 
-### 2. [[Melvin]]  — Beginners guide to text-based roleplaying https://writing-games.com/beginners-guide-to-roleplaying/
+### 2. [[Melvin]]  — Beginners guide to text-based [[Video Games & Interactive Media|roleplaying]] https://writing-games.com/beginners-guide-to-roleplaying/
 
 
-### 3. [[Ka Ho]]  — The technical differences between SimplyGo (Account-Based Ticketing) and Card-based ticketing https://www.channelnewsasia.com/podcasts/simplygo-mrt-bus-lta-card-payment-heart-matter-podcast-4056106
+### 3. [[Ka Ho]]  — [[Singapore History & Culture]] — The technical differences between SimplyGo (Account-Based Ticketing) and Card-based ticketing https://www.channelnewsasia.com/podcasts/simplygo-mrt-bus-lta-card-payment-heart-matter-podcast-4056106
 
 
 ### 4. [[Paul]]  — [[Music, Audio & Acoustics|Vocaloid Alternatives]]

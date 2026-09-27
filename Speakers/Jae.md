@@ -3,6 +3,8 @@ speaker: "Jae"
 talk_count: 1
 first_talk: "2025-07-18"
 last_talk: "2025-07-18"
+topics:
+  - "[[Video Games & Interactive Media]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2025-07-18
 - **Latest Sharing:** 2025-07-18
+- **Primary Topics:** [[Video Games & Interactive Media]]
 - **Directory:** [[Learning Day Index]]
 
 ---

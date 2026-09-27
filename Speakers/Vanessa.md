@@ -3,6 +3,8 @@ speaker: "Vanessa"
 talk_count: 1
 first_talk: "2022-06-25"
 last_talk: "2022-06-25"
+topics:
+  - "[[Science, Ecology & Environment]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2022-06-25
 - **Latest Sharing:** 2022-06-25
+- **Primary Topics:** [[Science, Ecology & Environment]]
 - **Directory:** [[Learning Day Index]]
 
 ---

@@ -22,18 +22,18 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Affinity mapping exercise https://miro.com/app/board/uXjVNgHey2o=/?share_link_id=216300103435
+### 1. [[Louis]]  — Affinity mapping [[Health, Fitness & Wellness|exercise]] https://miro.com/app/board/uXjVNgHey2o=/?share_link_id=216300103435
 
 
-### 2. [[Ka Ho]]  — Variants in food and ingredients.
+### 2. [[Ka Ho]]  — Variants in [[Food, Cooking & Beverage|food]] and ingredients.
 
 - Story of Ketchup: https://www.youtube.com/watch?v=mAxFB3vbt7c
 - Katong Laska: https://www.youtube.com/watch?v=bcKf4sfP4nY
 
-### 3. [[Afzal]]  — Guitar chord shapes. CeFG
+### 3. [[Afzal]]  — [[Music, Audio & Acoustics|Guitar]] chord shapes. CeFG
 
 
-### 4. [[Li Jen]]  — Personal Hiking Experience in Malaysia:
+### 4. [[Li Jen]]  — Personal [[Urban Planning, Transport & Outdoors|Hiking]] Experience in Malaysia:
 
 - Slides: (removed in 2026)
 - [Page 7 Intermediate hike]
@@ -41,7 +41,7 @@ tags:
 - <https://skywalk.frim.gov.my/intro.cfm>
 - <https://tamantugu.my/about-taman-tugu/>
 
-### 5. [[Scarlett]]  — Balenciaga and their bizzare haute couture of everyday items, e.g. tape bracelet, towel skirt, trash bag. See also: https://www.youtube.com/watch?v=iE39q-IKOzA
+### 5. [[Scarlett]]  — [[Design, Art & Creative Tools|Balenciaga]] and their bizzare haute couture of everyday items, e.g. tape bracelet, towel skirt, trash bag. See also: https://www.youtube.com/watch?v=iE39q-IKOzA
 
 
 ---

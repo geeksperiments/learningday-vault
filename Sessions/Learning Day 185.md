@@ -25,17 +25,17 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Prototyping - What it is, how does it work?
+### 1. [[Louis]]  — [[Productivity & Time Management|Prototyping]] - What it is, how does it work?
 
 
 ### 2. [[Melvin]]  — [[Cybersecurity & Cryptography|Lazarus Group]]'s 1.5B hack
 
 
-### 3. [[Ka Ho]]  — Reading - ‘Done in a flash’: Malaysians laud quick border checkpoint clearance with new app but want glitches fixed
+### 3. [[Ka Ho]]  — [[Books & Literature|Reading]] - ‘Done in a flash’: Malaysians laud quick border checkpoint clearance with new app but want glitches fixed
 
 - (https://www.channelnewsasia.com/asia/malaysia-myborderpass-app-passport-less-clearance-border-checkpoints-johor-klia-4921166)
 
-### 4. [[Darren]]  — Spider-man influenced Power Rangers?
+### 4. [[Darren]]  — Spider-man influenced [[Films, Shows & Media|Power Rangers]]?
 
 - <https://docs.google.com/presentation/d/1m95v67_-ks2JBad8f_zg8CJOU0fqgL7Nsb1QLQIvJ00/edit?usp=sharing>
 
@@ -45,7 +45,7 @@ tags:
 - APC Key 25 mk2: https://www.akaipro.com/apc-key-25-mkii.html
 - Example of songs using Tresillo Rhythm: https://www.youtube.com/watch?v=JGwWNGJdvx8
 
-### 6. [[Hafeez]]  — An Underrated Game Engine
+### 6. [[Hafeez]]  — An Underrated [[Software & Web Development|Game Engine]]
 
 - Terminus: https://www.youtube.com/watch?v=FaJEumLQgaI&t=900
 - Hexagos: https://www.youtube.com/watch?v=-Jg-gDGK5Jg&t=240
@@ -59,7 +59,7 @@ tags:
 ### 7. [[JC]]  — Bunch of Mental [[Puzzles, Magic & Strategy|puzzles]]
 
 
-### 8. [[Jin]]  — Rectangle, weight of front vs back, Kind of drifting
+### 8. [[Jin]]  — Rectangle, weight of front vs back, Kind of [[Astronomy, Physics & Mathematics|drifting]]
 
 
 ---

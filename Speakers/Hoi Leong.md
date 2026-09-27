@@ -3,6 +3,8 @@ speaker: "Hoi Leong"
 talk_count: 1
 first_talk: "2023-04-21"
 last_talk: "2023-04-21"
+topics:
+  - "[[World History & Geopolitics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2023-04-21
 - **Latest Sharing:** 2023-04-21
+- **Primary Topics:** [[World History & Geopolitics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

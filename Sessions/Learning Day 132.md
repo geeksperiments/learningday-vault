@@ -34,7 +34,7 @@ tags:
 ### 4. [[Yu Yang]]  — Studying [[Cybersecurity & Cryptography|Cybersecurity]] and Computer Science in Uni. One of the assignment is to determine the grades from the scores of the students.
 
 
-### 5. [[Julian]]  — The 7 Types of Plastic
+### 5. [[Julian]]  — The 7 Types of [[Science, Ecology & Environment|Plastic]]
 
 - <https://plasticoceans.org/7-types-of-plastic/>
 

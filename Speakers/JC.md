@@ -3,6 +3,10 @@ speaker: "JC"
 talk_count: 3
 first_talk: "2023-12-02"
 last_talk: "2025-03-01"
+topics:
+  - "[[Singapore History & Culture]]"
+  - "[[Crafts, Origami & Life Hacks]]"
+  - "[[Puzzles, Magic & Strategy]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 3
 - **First Sharing:** 2023-12-02
 - **Latest Sharing:** 2025-03-01
+- **Primary Topics:** [[Singapore History & Culture]] · [[Crafts, Origami & Life Hacks]] · [[Puzzles, Magic & Strategy]]
 - **Directory:** [[Learning Day Index]]
 
 ---

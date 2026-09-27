@@ -28,7 +28,7 @@ tags:
 ### 1. [[Louis]]  — Collecting [[Singapore History & Culture|NDP]] tickets.
 
 
-### 2. [[Scarlett]]  — Walking around Marina Square. Tokidoki is from Italy. Turtle is a novelty gift shop, cheaper ones can be found on Taobao.
+### 2. [[Scarlett]]  — Walking around [[Singapore History & Culture|Marina Square]]. Tokidoki is from Italy. Turtle is a novelty gift shop, cheaper ones can be found on Taobao.
 
 
 ### 3. [[Melvin]]  — Short intro to [[Economics, Finance & Investing|finance]]. Full version by Christine Parlor https://www.youtube.com/playlist?list=PLS01nW3RtgopkwJ5xwpgrspD87nqZggfx and slides https://berkeley-defi.github.io/assets/material/Lecture%204%20Slides.pdf
@@ -37,10 +37,10 @@ tags:
 ### 4. [[Martin]]  — [[Education & Pedagogy|Variation theory]], changing one thing at a time, when creating examples/setting problems. Figure out what you want the leaner to focus on first. Theory of disuse, retrival strength vs storage strength.
 
 
-### 5. [[Julian]]  — On Being Project. Six grounding virtues. https://onbeing.org/social-healing-at-on-being/the-six-grounding-virtues-of-the-on-being-project/
+### 5. [[Julian]]  — On Being Project. [[Philosophy & Mental Models|Six grounding virtues]]. https://onbeing.org/social-healing-at-on-being/the-six-grounding-virtues-of-the-on-being-project/
 
 
-### 6. [[Ka Ho]]  — Traditional fermentation of Soy Sauce.
+### 6. [[Ka Ho]]  — Traditional [[Food, Cooking & Beverage|fermentation]] of Soy Sauce.
 
 - <https://www.youtube.com/watch?v=sUi3RmkIee8>
 - <https://www.youtube.com/watch?v=-Ecgdf9YDeI>
@@ -48,7 +48,7 @@ tags:
 - ADDICT (Music Video) - HAZBIN HOTEL - YouTube https://www.youtube.com/watch?v=ulfeM8JGq7s
 - DEAL MAKER ▶ Hazbin Hotel - Alastor Song // TytoCat - YouTube https://www.youtube.com/watch?v=Eb3YAKzLcFY
 
-### 8. [[Anna]]  — What big brain means to me? The impression of "chim". Workshop from common ground
+### 8. [[Anna]]  — What big brain means to me? The impression of "chim". [[Education & Pedagogy|Workshop]] from common ground
 
 - speaking up in the event of profound knowledge
 - Slow down when talking so as to leave a deeper impression. Take your own time when talking and don't be scared.

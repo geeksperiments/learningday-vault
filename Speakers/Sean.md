@@ -3,6 +3,9 @@ speaker: "Sean"
 talk_count: 1
 first_talk: "2022-03-18"
 last_talk: "2022-03-18"
+topics:
+  - "[[Community, Volunteering & Social Dynamics]]"
+  - "[[Economics, Finance & Investing]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2022-03-18
 - **Latest Sharing:** 2022-03-18
+- **Primary Topics:** [[Community, Volunteering & Social Dynamics]] · [[Economics, Finance & Investing]]
 - **Directory:** [[Learning Day Index]]
 
 ---

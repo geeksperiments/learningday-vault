@@ -3,6 +3,8 @@ speaker: "Kate"
 talk_count: 1
 first_talk: "2026-02-07"
 last_talk: "2026-02-07"
+topics:
+  - "[[World History & Geopolitics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2026-02-07
 - **Latest Sharing:** 2026-02-07
+- **Primary Topics:** [[World History & Geopolitics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

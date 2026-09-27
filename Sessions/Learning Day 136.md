@@ -27,7 +27,7 @@ tags:
 ### 1. [[Melvin]]  — Play LotR Living [[Board & Tabletop Games|Card Game]] with https://dragncards.com/, [[Software & Web Development|open source]] website to play the game online with others or solo.
 
 
-### 2. [[Louis]]  — Netflix shows + Reflections: Neon Genesis Evangelion, summarising 24 episodes into 15 minutes.
+### 2. [[Louis]]  — [[Films, Shows & Media|Netflix]] shows + Reflections: Neon Genesis Evangelion, summarising 24 episodes into 15 minutes.
 
 
 ### 3. [[Ka Ho]] 
@@ -49,7 +49,7 @@ tags:
 ### 5. [[Yu Yang]]  — [[Food, Cooking & Beverage|Cooking]] experiments. Jiak kan tang.
 
 
-### 6. [[Jan]]  — Maintaining contact in sales
+### 6. [[Jan]]  — [[Productivity & Time Management|Maintaining contact in sales]]
 
 
 ### 7. [[Scarlett]]  — Netflix series "The Makanai" (in [[Japan & Japanese Culture|Japanese]]: maikosan-chi no makanai-san") or anime "Kiyo in Kyoto". The life of trainee geiko (geisha), aka maiko, living together in a boarding house and the food they eat.

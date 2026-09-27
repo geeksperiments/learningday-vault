@@ -3,6 +3,9 @@ speaker: "Yuxuan"
 talk_count: 2
 first_talk: "2025-01-04"
 last_talk: "2026-01-03"
+topics:
+  - "[[Tools for Thought & PKM]]"
+  - "[[Education & Pedagogy]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 2
 - **First Sharing:** 2025-01-04
 - **Latest Sharing:** 2026-01-03
+- **Primary Topics:** [[Tools for Thought & PKM]] · [[Education & Pedagogy]]
 - **Directory:** [[Learning Day Index]]
 
 ---

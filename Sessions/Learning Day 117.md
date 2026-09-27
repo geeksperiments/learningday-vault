@@ -32,19 +32,19 @@ tags:
 ### 2. [[Julian]]  — [[Science, Ecology & Environment|Ecology]] -> https://www.instagram.com/vital.ecology/,  https://en.wikipedia.org/wiki/Wangari_Maathai
 
 
-### 3. [[Jan]]  — Evolution. Christmas island crabs migration, which primarily live in the forest, and only reproduce in the water: https://youtu.be/btr78w-BgKs
+### 3. [[Jan]]  — [[Science, Ecology & Environment|Evolution]]. Christmas island crabs migration, which primarily live in the forest, and only reproduce in the water: https://youtu.be/btr78w-BgKs
 
 
 ### 4. [[Jess]]  — Human evolution. Evolution tree. DNA sequencing reveals that evolution tree theory might be wrong, due to possible intermingling of [[Science, Ecology & Environment|species]].
 
 
-### 5. [[Lih Wei]]  — lockpicking. https://youtu.be/WpH_t0u5Ybg
+### 5. [[Lih Wei]]  — [[Crafts, Origami & Life Hacks|lockpicking]]. https://youtu.be/WpH_t0u5Ybg
 
 
-### 6. [[Ka Ho]]  — Visual methods of multiplication. Breaking down big multiplication problems to smaller ones. 2814 x 679 = 1,910,706
+### 6. [[Ka Ho]]  — Visual methods of [[Astronomy, Physics & Mathematics|multiplication]]. Breaking down big multiplication problems to smaller ones. 2814 x 679 = 1,910,706
 
 
-### 7. [[Jin Hoo]]  — Crash course on Food security and sources on earth https://docs.google.com/presentation/d/1ZA_k5HWZhMOy2pVXeNucgV6PV0c4b8yzHQ_jQUp4O30/edit?usp=drivesdk
+### 7. [[Jin Hoo]]  — Crash course on Food [[Cybersecurity & Cryptography|security]] and sources on earth https://docs.google.com/presentation/d/1ZA_k5HWZhMOy2pVXeNucgV6PV0c4b8yzHQ_jQUp4O30/edit?usp=drivesdk
 
 
 ### 8. [[Melvin]]  — Mining on a [[Cybersecurity & Cryptography|blockchain]]. Blockchain is a system of records, similar to minutes of meetings. Bitcoin uses SHA256 to sign each block, result must start with a specified number of zeroes, more zeros means higher difficulty tinyurl.com/sha256calc

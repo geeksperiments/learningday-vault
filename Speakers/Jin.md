@@ -3,6 +3,10 @@ speaker: "Jin"
 talk_count: 30
 first_talk: "2022-01-14"
 last_talk: "2025-06-14"
+topics:
+  - "[[Design, Art & Creative Tools]]"
+  - "[[Films, Shows & Media]]"
+  - "[[Crafts, Origami & Life Hacks]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 30
 - **First Sharing:** 2022-01-14
 - **Latest Sharing:** 2025-06-14
+- **Primary Topics:** [[Design, Art & Creative Tools]] · [[Films, Shows & Media]] · [[Crafts, Origami & Life Hacks]]
 - **Directory:** [[Learning Day Index]]
 
 ---

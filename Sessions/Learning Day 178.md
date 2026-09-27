@@ -20,17 +20,17 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Julian]]  — Antifragile - Book/concept by Nassim Nicholas Taleb
+### 1. [[Julian]]  — Antifragile - [[Books & Literature|Book]]/concept by Nassim Nicholas Taleb
 
 - <https://www.kobo.com/sg/en/ebook/antifragile>
 - <https://fs.blog/antifragile-a-definition/>
 - <https://fs.blog/an-antifragile-way-of-life/>
 
-### 2. [[RJ]]  — How to not present! https://docs.google.com/presentation/d/1bk1Tz_5aHlr3D_sdM7OfODvYv7H9oz3eYqwl4nLvsyA/edit?usp=drive_link
+### 2. [[RJ]]  — [[Education & Pedagogy|How to not present]]! https://docs.google.com/presentation/d/1bk1Tz_5aHlr3D_sdM7OfODvYv7H9oz3eYqwl4nLvsyA/edit?usp=drive_link
 
 - <https://www.youtube.com/watch?v=KbSPPFYxx3o>
 
-### 3. [[Hafeez]]  — More Hike Sharing
+### 3. [[Hafeez]]  — More [[Urban Planning, Transport & Outdoors|Hike]] Sharing
 
 - <https://izzhafeez.com/blog/hikes>
 

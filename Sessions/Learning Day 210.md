@@ -25,16 +25,16 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — (1) Somewhat brainy, (2) Somewhat frivolous, (3) AMA
+### 1. [[Louis]]  — (1) [[Philosophy & Mental Models|Somewhat brainy]], (2) Somewhat frivolous, (3) AMA
 
 - Frivolous topic - Wardrobe Colour Analysis of a person
 - <https://photos.app.goo.gl/rnpqurJAQ57UGgCS7>
 
-### 2. [[Lionel]]  — Peranakan Stuff
+### 2. [[Lionel]]  — [[Singapore History & Culture|Peranakan]] Stuff
 
 - <https://www.canva.com/design/DAHLwwZ4wFk/q17lausCvS7MYMgFzsyT5g/edit?utm_content=DAHLwwZ4wFk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
 
-### 3. [[Abraham]]  — Madame Tussauds, How to Build a Wax Figure & Some Backstage Tea.
+### 3. [[Abraham]]  — Madame Tussauds, How to Build a Wax Figure & Some Backstage [[Food, Cooking & Beverage|Tea]].
 
 
 ### 4. [[Ka Ho]] 
@@ -46,11 +46,11 @@ tags:
 - (1) AMA: https://www.uriage.com/SG/en (Thermal water, Indian market looking for more premium skincare), Thermal water is natural groundwater that has been heated geothermally deep within the earth and absorbs a rich concentration of minerals and trace elements. It is prized in wellness and dermatology for its anti-inflammatory, calming, and skin-barrier repairing properties, adjusting to sg food (Vegetarian, Vegan food link: https://www.instagram.com/chenxily_/), North vs South Indian differences
 - (2) Meditation
 
-### 6. [[Darren]]  — Gundam: Road to 50th Anniversary
+### 6. [[Darren]]  — [[Films, Shows & Media|Gundam]]: Road to 50th Anniversary
 
 - <https://docs.google.com/presentation/d/1wDXNU-zXR4w8hYytDg-447qsf2kdij1zaJu_cy74kbQ/edit?usp=sharing>
 
-### 7. [[Rhine]]  — rambling about hypertext
+### 7. [[Rhine]]  — rambling about [[Data & Analytics|hypertext]]
 
 - <https://youtu.be/dP1xVpMPn8M?si=bhv7m6Mq7bt6RGet&t=368>
 - <https://youtu.be/MquoGuU8sHM?si=_-fiONFIqR6UgGtG&t=645>

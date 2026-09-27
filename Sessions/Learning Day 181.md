@@ -25,10 +25,10 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Julian]]  — Ask Me Anything (AMA)
+### 1. [[Julian]]  — [[Community, Volunteering & Social Dynamics|Ask Me Anything]] (AMA)
 
 
-### 2. [[Hijie]]  — Using Co-pilot for work/personal purposes
+### 2. [[Hijie]]  — Using [[Artificial Intelligence|Co-pilot]] for work/personal purposes
 
 - Writing Emails
 - Summarizing pages and creating content
@@ -42,25 +42,25 @@ tags:
 - Gemini
 - ChatGPT
 
-### 3. [[Melvin]]  — Is the past and future real?
+### 3. [[Melvin]]  — Is the [[Philosophy & Mental Models|past and future]] real?
 
 - <https://dudarion.github.io/Interactive-Minkowski-diagram/>
 
-### 4. [[Darren]]  — A Brief Intro to Armored Core
+### 4. [[Darren]]  — A Brief Intro to [[Video Games & Interactive Media|Armored Core]]
 
 - <https://docs.google.com/presentation/d/1Lz-vUEyH7I1_ZmwLSGSyS_0l1og0hMiwKQcSrtOW1EU/edit?usp=sharing>
 - 5.Ka Ho: Story of National Library
 
-### 6. [[Teo]]  — What's Behind the NRIC: Identifier NOT Authenticator
+### 6. [[Teo]]  — What's Behind the [[Cybersecurity & Cryptography|NRIC]]: Identifier NOT Authenticator
 
 
-### 7. [[Yuxuan]]  — links that I always share:
+### 7. [[Yuxuan]]  — [[Tools for Thought & PKM|links that I always share]]:
 
 - <https://hpb.gov.sg/healthy-living/digicoach>
 - <https://blog.nus.edu.sg/sphs/for-participants/mec3-volunteers/?fbclid=IwY2xjawF-tapleHRuA2FlbQIxMQABHcy5AoFlxW1K_Z7OtXiyBYgrQvPiIM5-QZ0eqvItQXl19waiQvodGTD-FQ_aem_WHY4do0qhjJE2dPDGL5ToQhttps://www.eventbrite.com/o/26735252849>
 - <https://www.eventbrite.com/o/26735252849>
 
-### 8. [[JC]]  — Home hacks
+### 8. [[JC]]  — [[Crafts, Origami & Life Hacks|Home hacks]]
 
 - 1. Pill Crushers Crushed my Hopes.
 - 2. Clearing dust from wall edges.
@@ -68,7 +68,7 @@ tags:
 ### 9. [[Alan]]  — [[Philosophy & Mental Models|Stoicism]]
 
 
-### 10. [[Teo]]  — Communicating Using NATO Phonetic Alphabet and Number
+### 10. [[Teo]]  — Communicating Using [[Education & Pedagogy|NATO Phonetic Alphabet]] and Number
 
 - Alternative Resources:
 - https://youtu.be/f28fAVRL5Jg?si=vP3LerXkI3zZ

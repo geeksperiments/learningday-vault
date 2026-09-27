@@ -31,7 +31,7 @@ tags:
 ### 3. [[Jin]]  — Game [[Design, Art & Creative Tools|design]] concepts: third place, meaningful choice, learning loop, noob strategy, skinner's box and operant conditioning, ideal pacing.
 
 
-### 4. [[Jan]]  — 1984
+### 4. [[Jan]]  — [[Books & Literature|1984]]
 
 
 ### 5. [[Cass]]  — London opening is good for beginner, conquers the center. Chess [[Puzzles, Magic & Strategy|puzzles]] for midgame.

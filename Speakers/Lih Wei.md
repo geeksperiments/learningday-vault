@@ -3,6 +3,10 @@ speaker: "Lih Wei"
 talk_count: 19
 first_talk: "2022-03-11"
 last_talk: "2026-03-07"
+topics:
+  - "[[Hardware & Devices]]"
+  - "[[Music, Audio & Acoustics]]"
+  - "[[Software & Web Development]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 19
 - **First Sharing:** 2022-03-11
 - **Latest Sharing:** 2026-03-07
+- **Primary Topics:** [[Hardware & Devices]] · [[Music, Audio & Acoustics]] · [[Software & Web Development]]
 - **Directory:** [[Learning Day Index]]
 
 ---

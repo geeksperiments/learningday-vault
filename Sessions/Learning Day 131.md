@@ -32,7 +32,7 @@ tags:
 
 - Book Reference: Magical Mathematics by Persi Diaconis and Graham
 
-### 3. [[Anna]]  — Locking Dance Style. Core fundamental  movements repeated creatively.
+### 3. [[Anna]]  — [[Health, Fitness & Wellness|Locking Dance]] Style. Core fundamental  movements repeated creatively.
 
 - <https://www.youtube.com/watch?v=d4jXQmXnvzo>
 - <https://www.youtube.com/watch?v=TPUQEpPOxdY>
@@ -47,10 +47,10 @@ tags:
 ### 5. [[Ka Ho]]  — Camera Phone versus SLR or mirrorless camera. Photography as an [[Design, Art & Creative Tools|art]].
 
 
-### 6. [[Sharon]]  — "How to Do Nothing: Resisting the Attention Economy" book by Jenny Odell (available on NLB Libby app). Summary from addictive tech angle: https://youtu.be/LnpPd5sqaPE
+### 6. [[Sharon]]  — "How to Do Nothing: Resisting the Attention Economy" [[Books & Literature|book]] by Jenny Odell (available on NLB Libby app). Summary from addictive tech angle: https://youtu.be/LnpPd5sqaPE
 
 
-### 7. [[Kathleen]]  — The Book Fairies. Share books. Book fairies leave books in spe
+### 7. [[Kathleen]]  — The [[Books & Literature|Book]] Fairies. Share books. Book fairies leave books in spe
 
 - cific places.
 - <https://ibelieveinbookfairies.com/>

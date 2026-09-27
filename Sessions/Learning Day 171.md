@@ -24,13 +24,13 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Janice]]  — Mindful Eating
+### 1. [[Janice]]  — Mindful [[Food, Cooking & Beverage|Eating]]
 
 
-### 2. [[Jin]]  — Instagram picture splitting and editing app hacks
+### 2. [[Jin]]  — Instagram [[Design, Art & Creative Tools|picture splitting]] and editing app hacks
 
 
-### 3. [[Wei Shen]]  — How to take stunning firework photos e.g equipments, preparation (4.30pm is the best timing to get a good spot), camera settings (bulb mode) and post editing trick
+### 3. [[Wei Shen]]  — How to take stunning firework photos e.g equipments, preparation (4.30pm is the best timing to get a good spot), [[Design, Art & Creative Tools|camera]] settings (bulb mode) and post editing trick
 
 
 ### 4. [[Ka Ho]]  — [[Music, Audio & Acoustics|Music]] Day [Featuring Instrument - Recorder & Melodica & Song - The Road Ahead]

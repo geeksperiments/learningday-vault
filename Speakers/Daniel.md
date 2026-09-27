@@ -3,6 +3,8 @@ speaker: "Daniel"
 talk_count: 1
 first_talk: "2024-07-19"
 last_talk: "2024-07-19"
+topics:
+  - "[[Economics, Finance & Investing]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2024-07-19
 - **Latest Sharing:** 2024-07-19
+- **Primary Topics:** [[Economics, Finance & Investing]]
 - **Directory:** [[Learning Day Index]]
 
 ---

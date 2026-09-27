@@ -3,6 +3,10 @@ speaker: "Scarlett"
 talk_count: 29
 first_talk: "2022-02-25"
 last_talk: "2026-01-03"
+topics:
+  - "[[Japan & Japanese Culture]]"
+  - "[[Food, Cooking & Beverage]]"
+  - "[[Crafts, Origami & Life Hacks]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 29
 - **First Sharing:** 2022-02-25
 - **Latest Sharing:** 2026-01-03
+- **Primary Topics:** [[Japan & Japanese Culture]] · [[Food, Cooking & Beverage]] · [[Crafts, Origami & Life Hacks]]
 - **Directory:** [[Learning Day Index]]
 
 ---

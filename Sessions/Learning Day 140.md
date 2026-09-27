@@ -23,13 +23,13 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — LinkedIn basics from a beginner
+### 1. [[Louis]]  — [[Community, Volunteering & Social Dynamics|LinkedIn]] basics from a beginner
 
 
-### 2. [[Melvin]]  — https://ghostgame.io/
+### 2. [[Melvin]]  — [[Video Games & Interactive Media]] — https://ghostgame.io/
 
 
-### 3. [[Hoi Leong]]  — History of Internet - Web 1.0, 2.0 to 3.0
+### 3. [[Hoi Leong]]  — [[World History & Geopolitics|History]] of Internet - Web 1.0, 2.0 to 3.0
 
 - Global commons, to rise of big tech, back to democratisation
 - Blockchain and NFT
@@ -40,11 +40,11 @@ tags:
 ### 4. [[Ka Ho]]  — [[Artificial Intelligence|AI]] - the sequel: https://www.todayonline.com/world/jay-chou-chatgpt-song-2131851
 
 
-### 5. [[Janice]]  — Calm Circle from Calm Collective
+### 5. [[Janice]]  — [[Health, Fitness & Wellness|Calm Circle]] from Calm Collective
 
 - Rules of peer sharing
 
-### 6. [[Yu Yang]]  — Skipping as a way to do cardio
+### 6. [[Yu Yang]]  — Skipping as a way to do [[Health, Fitness & Wellness|cardio]]
 
 
 ---

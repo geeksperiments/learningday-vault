@@ -3,6 +3,8 @@ speaker: "Jannson"
 talk_count: 1
 first_talk: "2023-10-20"
 last_talk: "2023-10-20"
+topics:
+  - "[[Design, Art & Creative Tools]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2023-10-20
 - **Latest Sharing:** 2023-10-20
+- **Primary Topics:** [[Design, Art & Creative Tools]]
 - **Directory:** [[Learning Day Index]]
 
 ---

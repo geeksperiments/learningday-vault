@@ -23,24 +23,24 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Julian]]  — Job search process and reflections.
+### 1. [[Julian]]  — Job search process and [[Philosophy & Mental Models|reflections]].
 
 - "Begin with the end in mind." & 'Visiting your dying self' Meditation: https://karthik-suresh.com/2017/11/15/how-to-avoid-a-life-full-of-regret/
 - Should you do what you like to do for your job? Cal Newport says otherwise: https://www.calnewport.com/blog/2008/05/21/the-most-important-piece-of-career-advice-you-probably-never-heard/
 
-### 2. [[Melvin]]  — Chicken quinoa, soup, and low carb snacks https://garden.melvinzhang.net/posts/groceries/
+### 2. [[Melvin]]  — Chicken [[Food, Cooking & Beverage|quinoa]], soup, and low carb snacks https://garden.melvinzhang.net/posts/groceries/
 
 
-### 3. [[Ka Ho]]  — Notes from the podcast - The Daily Ketchup Series - Quiet Quitters are the worst type of employee in the year 2022.
+### 3. [[Ka Ho]]  — Notes from the podcast - The Daily Ketchup Series - [[Community, Volunteering & Social Dynamics|Quiet Quitters]] are the worst type of employee in the year 2022.
 
 - China Landscape: "Tang Ping" and "Bai Lan" movement due to the idea of meritocracy not being well respected, where one's attribute of working hard does not guarantee success.
 - How quiet quitters can be a problem to the company/team.
 - Link: https://www.youtube.com/watch?v=J1erYtQZm6w
 
-### 4. [[Louis & Scarlett]]  — Star wars @ Disneyland: https://www.youtube.com/watch?v=TWs_-UA51QE
+### 4. [[Louis & Scarlett]]  — [[Films, Shows & Media|Star wars]] @ Disneyland: https://www.youtube.com/watch?v=TWs_-UA51QE
 
 
-### 5. [[Jin]]  — How QR codes work https://typefully.com/DanHollick/qr-codes-T7tLlNi
+### 5. [[Jin]]  — How [[Cybersecurity & Cryptography|QR codes]] work https://typefully.com/DanHollick/qr-codes-T7tLlNi
 
 
 ### 6. [[Martin]]  — Take-aways from Sharing Best Practice seminar: Importance of an aligned [[Education & Pedagogy|curriculum]] in schools and how a stream-lined curriculum allows teachers to focus on imrpoving practice instead of creating materials.

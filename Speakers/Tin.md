@@ -3,6 +3,9 @@ speaker: "Tin"
 talk_count: 2
 first_talk: "2024-01-06"
 last_talk: "2024-02-03"
+topics:
+  - "[[Board & Tabletop Games]]"
+  - "[[Health, Fitness & Wellness]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 2
 - **First Sharing:** 2024-01-06
 - **Latest Sharing:** 2024-02-03
+- **Primary Topics:** [[Board & Tabletop Games]] · [[Health, Fitness & Wellness]]
 - **Directory:** [[Learning Day Index]]
 
 ---

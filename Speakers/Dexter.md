@@ -3,6 +3,9 @@ speaker: "Dexter"
 talk_count: 3
 first_talk: "2022-02-18"
 last_talk: "2022-03-11"
+topics:
+  - "[[Software & Web Development]]"
+  - "[[World History & Geopolitics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 3
 - **First Sharing:** 2022-02-18
 - **Latest Sharing:** 2022-03-11
+- **Primary Topics:** [[Software & Web Development]] · [[World History & Geopolitics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

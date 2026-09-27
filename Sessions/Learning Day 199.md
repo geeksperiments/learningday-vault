@@ -19,10 +19,10 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Origin of Melinoe from Greek Mythology and Hades 2: https://www.youtube.com/watch?v=KeBpo-En448
+### 1. [[Louis]]  — Origin of Melinoe from Greek Mythology and [[Video Games & Interactive Media|Hades]] 2: https://www.youtube.com/watch?v=KeBpo-En448
 
 
-### 2. [[Hafeez]]  — Chatguessr and practising identifying location
+### 2. [[Hafeez]]  — [[Video Games & Interactive Media|Chatguessr]] and practising identifying location
 
 - <https://chatguessr.com/map/PlonkIt>
 

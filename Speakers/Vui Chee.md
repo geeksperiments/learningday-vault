@@ -3,6 +3,8 @@ speaker: "Vui Chee"
 talk_count: 1
 first_talk: "2023-05-06"
 last_talk: "2023-05-06"
+topics:
+  - "[[Philosophy & Mental Models]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2023-05-06
 - **Latest Sharing:** 2023-05-06
+- **Primary Topics:** [[Philosophy & Mental Models]]
 - **Directory:** [[Learning Day Index]]
 
 ---

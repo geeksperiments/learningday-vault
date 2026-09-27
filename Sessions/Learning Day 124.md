@@ -18,7 +18,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Jin]]  — what he appreciates about living in Sg (after living in the US): https://docs.google.com/presentation/d/1hpq0cx_ZU-S71u8FGVjnmheaQPa07kwM/edit?usp=sharing&ouid=115059009896167718397&rtpof=true&sd=true
+### 1. [[Jin]]  — what he appreciates about living in [[Singapore History & Culture|Sg]] (after living in the US): https://docs.google.com/presentation/d/1hpq0cx_ZU-S71u8FGVjnmheaQPa07kwM/edit?usp=sharing&ouid=115059009896167718397&rtpof=true&sd=true
 
 
 ---

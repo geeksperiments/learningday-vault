@@ -26,16 +26,16 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Interview about the topic - "Cost of living in SG". Interview skills for open and closed qns. How to build rapport to get better data.
+### 1. [[Louis]]  — [[Community, Volunteering & Social Dynamics|Interview]] about the topic - "Cost of living in SG". Interview skills for open and closed qns. How to build rapport to get better data.
 
 
-### 2. [[Hilda]]  — Sak Yant tattoos: https://www.federationofkhmersakyantra.com/about-sak-yant/
+### 2. [[Hilda]]  — Sak Yant [[Design, Art & Creative Tools|tattoos]]: https://www.federationofkhmersakyantra.com/about-sak-yant/
 
 
 ### 3. [[Scarlett]]  — Folding an [[Crafts, Origami & Life Hacks|origami]] fish using angbao - step-by-step guide here: http://www.dinomama.com/2013/02/cny-craft-red-packet-fish.html?m=1
 
 
-### 4. [[Ka Ho]]  — Eeveelution (Eevee and its evolved forms) and the story of life lessons related to it.
+### 4. [[Ka Ho]]  — [[Japan & Japanese Culture|Eeveelution]] (Eevee and its evolved forms) and the story of life lessons related to it.
 
 - 1. Serena and Eevee -> Sylveon
 - 2. Chloe and Eevee
@@ -44,14 +44,14 @@ tags:
 - 2. https://pokemon.fandom.com/wiki/Eeveelution]
 - [Additional material: Eevee & Friends - https://archive.org/details/pokemon-eevee-friends-2013-english-dub ]
 
-### 5. [[Darren]]  — Gundam - An Adaptive Franchise
+### 5. [[Darren]]  — [[Films, Shows & Media|Gundam]] - An Adaptive Franchise
 
 - <https://docs.google.com/presentation/d/1Sy89KZcNeR6ouUfTpbEYFmQtgv8UiBiyeZ1UN5CVD4o/edit?usp=sharing>
 
 ### 6. [[Lih Wei]]  — Novation Launchpad Pro and live [[Music, Audio & Acoustics|music]] performances in Ableton
 
 
-### 7. [[Hafeez]]  — How to spot a cheater in Geoguessr
+### 7. [[Hafeez]]  — How to spot a cheater in [[Video Games & Interactive Media|Geoguessr]]
 
 - <https://youtu.be/UFlwPrxTPis?si=uPs7zlkgoLNvnaUK>
 - 26:11 - not cheating, knowledge check
@@ -70,7 +70,7 @@ tags:
 - https://mixxx.org/
 - https://www.numark.com/product/dj2go2-touch
 
-### 9. [[Teo]]  — What you need to know about ERP 2.0
+### 9. [[Teo]]  — What you need to know about [[Singapore History & Culture|ERP]] 2.0
 
 - Read More: https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/ERP/erp-2-0.html
 

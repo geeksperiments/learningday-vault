@@ -3,6 +3,10 @@ speaker: "Rhine"
 talk_count: 4
 first_talk: "2026-03-07"
 last_talk: "2026-07-04"
+topics:
+  - "[[Software & Web Development]]"
+  - "[[Japan & Japanese Culture]]"
+  - "[[Video Games & Interactive Media]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 4
 - **First Sharing:** 2026-03-07
 - **Latest Sharing:** 2026-07-04
+- **Primary Topics:** [[Software & Web Development]] · [[Japan & Japanese Culture]] · [[Video Games & Interactive Media]]
 - **Directory:** [[Learning Day Index]]
 
 ---

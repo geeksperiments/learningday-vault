@@ -20,14 +20,14 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Teo]]  — AMA: Hong Kong
+### 1. [[Teo]]  — [[Community, Volunteering & Social Dynamics|AMA]]: Hong Kong
 
 - Scenic Hill (the hill I hiked today, near Airport) - https://maps.app.goo.gl/f9t2oF3uspC84KWW6 (Google Maps)
 - Peng Chau - https://maps.app.goo.gl/GqbvkvVGCi9Ffh5p6 (Google Maps)
 - Differences between public transport in Hong Kong vs Singapore
 - Downsides about Hong Kong - e.g. Housing in HK is ex + even smaller than SG
 
-### 2. [[Darren]]  — 3D Animated Martial Arts Fights By AsaToshi
+### 2. [[Darren]]  — 3D Animated [[Health, Fitness & Wellness|Martial Arts]] Fights By AsaToshi
 
 - <https://docs.google.com/presentation/d/1BJtU_ykBybLIteyzXpCVGKShXsSvKUNskUYxND7uzmI/edit?usp=sharing>
 - <https://www.youtube.com/watch?v=G6amQUnOPss>
@@ -37,7 +37,7 @@ tags:
 - <https://www.youtube.com/watch?v=KxSlViPZ8k0>
 - <https://www.youtube.com/watch?v=YBDJzJrpxtg>
 
-### 3. [[Sharon]]  — expressing appreciation for 5 years of online LDs!
+### 3. [[Sharon]]  — expressing [[Community, Volunteering & Social Dynamics|appreciation]] for 5 years of online LDs!
 
 -Online LDs started on 3 Apr 2020 (LD 67), as a way to stay connected and learn together during difficult Covid times:https://www.facebook.com/events/682393985829651/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D
 -We increased the frequency of LD from once in two weeks to once per week, with additional ".5" sessions, e.g. LD 68.5

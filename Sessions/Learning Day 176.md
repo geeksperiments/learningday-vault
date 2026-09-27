@@ -23,10 +23,10 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — St Isidore Center and sharing that with primary school students to talk about service learning: https://www.youtube.com/watch?v=tlAaa7LXmQE&ab_channel=OGS
+### 1. [[Louis]]  — St Isidore Center and sharing that with primary [[Education & Pedagogy|school]] students to talk about service learning: https://www.youtube.com/watch?v=tlAaa7LXmQE&ab_channel=OGS
 
 
-### 2. [[Hafeez]]  — Utility Poles
+### 2. [[Hafeez]]  — [[Hardware & Devices|Utility Poles]]
 
 - Pole Plates - https://docs.google.com/document/d/16lVvh3sLCnHLh_itpEsvXrHHCR_EPzArBmb4bg6TUTU/edit?tab=t.0#heading=h.nf8f2k247j6q
 - GeoGuessr Finals - https://www.youtube.com/watch?v=9rkvIYE90-Y
@@ -35,16 +35,16 @@ tags:
 - Guy Wires - https://imgur.com/a/zKakDPQ
 - Pole Tops - https://imgur.com/a/VX4AqYq
 
-### 3. [[Yu Yang]]  — Digital Business Card - https://www.hihello.com/
+### 3. [[Yu Yang]]  — [[Productivity & Time Management|Digital Business Card]] - https://www.hihello.com/
 
 - HK Lion Rock Hike - 500m above sealevel, very nice. https://www.hkmemory.hk/MHK/collections/kong_kai_ming/kwong_kai_ming_items/Images/201106/t20110614_38692.html
 
-### 4. [[Julian]]  — What is an algorithm? Examples of Algorithms from Everyday Life https://www.learning.com/blog/7-examples-of-algorithms-in-everyday-life-for-students/
+### 4. [[Julian]]  — [[Education & Pedagogy]] — What is an algorithm? Examples of Algorithms from Everyday Life https://www.learning.com/blog/7-examples-of-algorithms-in-everyday-life-for-students/
 
 - <https://www.havi.co/blogs/algorithm-in-everyday-life>
 - <https://algorithmstoliveby.com/>
 
-### 5. [[Hijie]]  — Insights from Seneca on Time and Existence
+### 5. [[Hijie]]  — Insights from [[Philosophy & Mental Models|Seneca]] on Time and Existence
 
 
 ### 6. [[Paul]]  — Humble Bundle, [[Music, Audio & Acoustics|ACID Pro 10]] DAW, and [[Artificial Intelligence|NotebookLM]]

@@ -3,6 +3,9 @@ speaker: "Saffiyah"
 talk_count: 2
 first_talk: "2022-06-10"
 last_talk: "2023-07-08"
+topics:
+  - "[[Health, Fitness & Wellness]]"
+  - "[[Software & Web Development]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 2
 - **First Sharing:** 2022-06-10
 - **Latest Sharing:** 2023-07-08
+- **Primary Topics:** [[Health, Fitness & Wellness]] · [[Software & Web Development]]
 - **Directory:** [[Learning Day Index]]
 
 ---

@@ -25,7 +25,7 @@ tags:
 ### 2. [[Louis]]  — [[Films, Shows & Media|Adventure time]] and why its great. - https://www.youtube.com/watch?v=Ck_NgXBxs7A - https://www.youtube.com/watch?v=PA2PsADo11E
 
 
-### 3. [[Ka Ho]]  — Origins of April Fools and a look at Google's jokes/pranks for past April Fool's
+### 3. [[Ka Ho]]  — Origins of [[World History & Geopolitics|April Fools]] and a look at Google's jokes/pranks for past April Fool's
 
 - https://www.youtube.com/watch?v=LSZPNwZex9s
 - https://youtube.com/watch?v=QAwL0O5nXe0
@@ -39,7 +39,7 @@ tags:
 ### 5. [[Jin]]  — How the boomerang come back when thrown. Hunting [[Urban Planning, Transport & Outdoors|boomerangs]] known as throw sticks and competitive boomerang trick athletes. https://youtu.be/4qVM9wLpqlk
 
 
-### 6. [[Scarlett]]  — How carbon credits and carbon trading works. CIX as sg's attempt to be a carbon trading hub: https://www.sgx.com/climate-impact-x-cix
+### 6. [[Scarlett]]  — How carbon credits and carbon [[Economics, Finance & Investing|trading]] works. CIX as sg's attempt to be a carbon trading hub: https://www.sgx.com/climate-impact-x-cix
 
 - 7.
 

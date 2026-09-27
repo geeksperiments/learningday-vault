@@ -3,6 +3,10 @@ speaker: "Janice"
 talk_count: 9
 first_talk: "2022-01-21"
 last_talk: "2024-08-04"
+topics:
+  - "[[Science, Ecology & Environment]]"
+  - "[[Health, Fitness & Wellness]]"
+  - "[[Design, Art & Creative Tools]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 9
 - **First Sharing:** 2022-01-21
 - **Latest Sharing:** 2024-08-04
+- **Primary Topics:** [[Science, Ecology & Environment]] · [[Health, Fitness & Wellness]] · [[Design, Art & Creative Tools]]
 - **Directory:** [[Learning Day Index]]
 
 ---

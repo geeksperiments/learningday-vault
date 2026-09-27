@@ -3,6 +3,9 @@ speaker: "Jessica"
 talk_count: 2
 first_talk: "2023-03-17"
 last_talk: "2023-04-01"
+topics:
+  - "[[Tools for Thought & PKM]]"
+  - "[[Productivity & Time Management]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 2
 - **First Sharing:** 2023-03-17
 - **Latest Sharing:** 2023-04-01
+- **Primary Topics:** [[Tools for Thought & PKM]] · [[Productivity & Time Management]]
 - **Directory:** [[Learning Day Index]]
 
 ---

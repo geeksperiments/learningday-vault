@@ -3,6 +3,10 @@ speaker: "Shu En"
 talk_count: 6
 first_talk: "2022-02-04"
 last_talk: "2022-05-13"
+topics:
+  - "[[Health, Fitness & Wellness]]"
+  - "[[Singapore History & Culture]]"
+  - "[[Books & Literature]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 6
 - **First Sharing:** 2022-02-04
 - **Latest Sharing:** 2022-05-13
+- **Primary Topics:** [[Health, Fitness & Wellness]] · [[Singapore History & Culture]] · [[Books & Literature]]
 - **Directory:** [[Learning Day Index]]
 
 ---

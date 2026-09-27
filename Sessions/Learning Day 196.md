@@ -26,20 +26,20 @@ tags:
 
 - see https://wumountaintea.com/a-masterclass-on-tea/ chapter 3
 
-### 2. [[Hijie]]  — strength training. https://play.google.com/store/apps/details?id=air.com.musclemotion.strength.mobile
+### 2. [[Hijie]]  — [[Health, Fitness & Wellness|strength training]]. https://play.google.com/store/apps/details?id=air.com.musclemotion.strength.mobile
 
 - Intermittent fasting.
 - <https://play.google.com/store/apps/details?id=life.simple>
 - Body by Science, Dough McGuff and John Little
 
-### 3. [[Darren]]  — Hulk: The Death Battle Curse
+### 3. [[Darren]]  — Hulk: The [[Films, Shows & Media|Death Battle]] Curse
 
 - <https://docs.google.com/presentation/d/15S-6poi-DPpRnuoo-XmQCFXUm_1xloRzFvMZfwtQPH8/edit?usp=sharing>
 
 ### 4. [[Anne]]  — Toastmasters and [[Design, Art & Creative Tools|Art]] therapy
 
 
-### 5. [[Justin]]  — Guess the Song (World Edition)
+### 5. [[Justin]]  — Guess the [[Music, Audio & Acoustics|Song]] (World Edition)
 
 
 ---

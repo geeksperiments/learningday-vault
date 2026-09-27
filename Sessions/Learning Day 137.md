@@ -24,10 +24,10 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Vikings. What is this? Vinland Saga.
+### 1. [[Louis]]  — Vikings. What is this? [[Films, Shows & Media|Vinland Saga]].
 
 
-### 2. [[Jin]]  — Miniature Painting and Diorama Making https://docs.google.com/presentation/d/1yXq9ClZSCYTf57HSZqSF11fMfyjkqqWLnxDc5qCk9PI/edit?usp=sharing
+### 2. [[Jin]]  — [[Crafts, Origami & Life Hacks|Miniature Painting]] and Diorama Making https://docs.google.com/presentation/d/1yXq9ClZSCYTf57HSZqSF11fMfyjkqqWLnxDc5qCk9PI/edit?usp=sharing
 
 
 ### 3. [[Scarlett]]  — One of the best no-commitment [[Films, Shows & Media|movies]] ever - The Velocipastor. Trailer: https://youtu.be/7Nyb0GqAjKM Highlights: https://youtu.be/Ec4gVY4T3t8
@@ -36,13 +36,13 @@ tags:
 ### 4. [[Melvin]]  — [[Puzzles, Magic & Strategy|Fitch Cheney]]'s five card trick https://melvinzhang.github.io/fitchcheneytrick/
 
 
-### 5. [[Ka Ho]]  — Bring your own bags. Next time pay 5 cents for plastic bags. PLASTIC BAGS ARE REUSABLE BAGS. https://omny.fm/shows/moneyfm-evening-show/weekly-wrap-up-most-supermarkets-in-sg-to-charge-5
+### 5. [[Ka Ho]]  — [[Films, Shows & Media]] — Bring your own bags. Next time pay 5 cents for plastic bags. PLASTIC BAGS ARE REUSABLE BAGS. https://omny.fm/shows/moneyfm-evening-show/weekly-wrap-up-most-supermarkets-in-sg-to-charge-5
 
 
-### 6. [[Yu Xiang]]  — Felt sewing and craft. Sewing techniques. Running stich, blanket stitch, and invisible stitch.
+### 6. [[Yu Xiang]]  — Felt [[Crafts, Origami & Life Hacks|sewing]] and craft. Sewing techniques. Running stich, blanket stitch, and invisible stitch.
 
 
-### 7. [[Jan]]  — The plot and ideas behind Frankenstein ('s Monster). The fascinating intersection between Arts & Science. https://www.youtube.com/watch?v=FqlEczhNK0A
+### 7. [[Jan]]  — The plot and ideas behind Frankenstein ('s Monster). The fascinating intersection between Arts & [[Science, Ecology & Environment|Science]]. https://www.youtube.com/watch?v=FqlEczhNK0A
 
 - <https://www.youtube.com/watch?v=yH4KCt5rFnA>
 

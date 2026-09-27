@@ -36,10 +36,10 @@ tags:
 - Horizon Zero Dawn: https://www.youtube.com/watch?v=XA1JX6r2c44
 - Bicentennial Man: http://playpen.meraka.csir.co.za/~acdc/education/Dr_Anvind_Gupa/Learners_Library_7_March_2007/Resources/books/asimov%20ebook.pdf
 
-### 2. [[Ka Ho]]  — Dissertation - Look into origins of a CNY song (恭喜恭喜 Singers: 姚敏 姚莉) https://www.youtube.com/watch?v=qXAWaKiXe0M
+### 2. [[Ka Ho]]  — Dissertation - Look into origins of a CNY [[Music, Audio & Acoustics|song]] (恭喜恭喜 Singers: 姚敏 姚莉) https://www.youtube.com/watch?v=qXAWaKiXe0M
 
 
-### 3. [[Jin]]  — The Case Against Banquet Weddings https://docs.google.com/presentation/d/16L2UT4rYh226cZsGzql-Vqo1IWt1HVsj/edit?usp=drivesdk&ouid=115059009896167718397&rtpof=true&sd=true
+### 3. [[Jin]]  — The Case Against [[Community, Volunteering & Social Dynamics|Banquet Weddings]] https://docs.google.com/presentation/d/16L2UT4rYh226cZsGzql-Vqo1IWt1HVsj/edit?usp=drivesdk&ouid=115059009896167718397&rtpof=true&sd=true
 
 
 ### 4. [[Melvin]]  — Introduction to [[Philosophy & Mental Models|Stoicism]] https://garden.melvinzhang.net/posts/stoicism/
@@ -57,11 +57,11 @@ tags:
 - <https://jamesclear.com/three-steps-habit-change>
 - <https://youtu.be/YT7tQzmGRLA>
 
-### 7. [[Hon Wai]]  — Reading your mind - MatheMAGIC
+### 7. [[Hon Wai]]  — [[Books & Literature|Reading]] your mind - MatheMAGIC
 
 - Using binary system.
 
-### 8. [[Rahul]]  — What's left of the railways in South-East Asia. How a train stays on track: https://www.youtube.com/watch?v=XzgryPhtc1Y
+### 8. [[Rahul]]  — What's left of the [[Urban Planning, Transport & Outdoors|railways]] in South-East Asia. How a train stays on track: https://www.youtube.com/watch?v=XzgryPhtc1Y
 
 
 ---

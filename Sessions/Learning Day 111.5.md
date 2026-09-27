@@ -45,7 +45,7 @@ tags:
 
 - <https://www.youtube.com/watch?v=rZfAsbhfL_Y>
 
-### 5. [[Angela]]  — 2048 (Game) https://play2048.co/. Quick tip to win the game.
+### 5. [[Angela]]  — [[Video Games & Interactive Media|2048]] (Game) https://play2048.co/. Quick tip to win the game.
 
 
 ### 6. [[Joey]]  — [[Science, Ecology & Environment|Sustainable Development Goals]] (SDGs) in a rap. https://www.youtube.com/watch?v=kGcrYkHwE80

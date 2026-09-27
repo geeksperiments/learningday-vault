@@ -3,6 +3,10 @@ speaker: "Rahul"
 talk_count: 9
 first_talk: "2022-01-14"
 last_talk: "2023-05-19"
+topics:
+  - "[[Urban Planning, Transport & Outdoors]]"
+  - "[[Cybersecurity & Cryptography]]"
+  - "[[Singapore History & Culture]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 9
 - **First Sharing:** 2022-01-14
 - **Latest Sharing:** 2023-05-19
+- **Primary Topics:** [[Urban Planning, Transport & Outdoors]] · [[Cybersecurity & Cryptography]] · [[Singapore History & Culture]]
 - **Directory:** [[Learning Day Index]]
 
 ---

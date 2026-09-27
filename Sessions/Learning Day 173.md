@@ -57,7 +57,7 @@ tags:
 - Temple of Leah
 - <https://www.tripadvisor.com.sg/Attraction_Review-g298460-d7396423-Reviews-Temple_of_Leah-Cebu_City_Cebu_Island_Visayas.html>
 
-### 5. [[Teo]]  — Embossed Cards and Credit Card Imprinters
+### 5. [[Teo]]  — Embossed Cards and [[Hardware & Devices|Credit Card Imprinters]]
 
 - How to Use
 - https://youtu.be/a7wutgAlNHk?si=jVIPqnBnkc7sfdcx
@@ -67,16 +67,16 @@ tags:
 - New Innovations in Credit Cards, 1985
 - https://youtu.be/_TBD8HTssRA?si=ynaJYPBx-FDl6K0B
 
-### 6. [[Ka Ho]]  — Hai Yorokode
+### 6. [[Ka Ho]]  — [[Japan & Japanese Culture|Hai Yorokode]]
 
 - <https://www.youtube.com/watch?v=jzi6RNVEOtA>
 - [English version: https://www.youtube.com/watch?v=WurwBthIO6g]
 - English lyrics: https://genius.com/Genius-english-translations-kocchi-no-kento-hai-yorokonde-english-translation-lyrics
 
-### 7. [[Leroy]]  — Spinning top game - Beyblade - "If you want to start, you can start no matter what age..."
+### 7. [[Leroy]]  — Spinning top game - [[Board & Tabletop Games|Beyblade]] - "If you want to start, you can start no matter what age..."
 
 
-### 8. [[Louis]]  — Wellbeing
+### 8. [[Louis]]  — [[Health, Fitness & Wellness|Wellbeing]]
 
 
 ---

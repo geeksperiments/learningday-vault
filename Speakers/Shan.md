@@ -3,6 +3,9 @@ speaker: "Shan"
 talk_count: 2
 first_talk: "2022-02-11"
 last_talk: "2023-07-21"
+topics:
+  - "[[Hardware & Devices]]"
+  - "[[Psychology & Human Behavior]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 2
 - **First Sharing:** 2022-02-11
 - **Latest Sharing:** 2023-07-21
+- **Primary Topics:** [[Hardware & Devices]] · [[Psychology & Human Behavior]]
 - **Directory:** [[Learning Day Index]]
 
 ---

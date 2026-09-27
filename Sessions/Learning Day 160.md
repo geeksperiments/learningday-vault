@@ -30,7 +30,7 @@ tags:
 ### 2. [[Melvin]]  — [[Health, Fitness & Wellness|Xylitol]] for cavity prevention https://prezi.com/uurpd5a8ddul/xylitol-presentation/
 
 
-### 3. [[Ka Ho]]  — Test of a king (https://www.malaymail.com/news/malaysia/2024/01/28/test-of-a-king-tells-of-al-sultan-abdullahs-wisdom-in-steering-malaysia/115072)
+### 3. [[Ka Ho]]  — [[Philosophy & Mental Models]] — Test of a king (https://www.malaymail.com/news/malaysia/2024/01/28/test-of-a-king-tells-of-al-sultan-abdullahs-wisdom-in-steering-malaysia/115072)
 
 
 ### 4. [[Julian]]  — Data [[Data & Analytics|Analytics]] for Dummies
@@ -47,7 +47,7 @@ tags:
 - Track Submissions Playlist: https://soundcloud.com/melodicshq/sets/melodics-beatmaker-bootcamp
 - Paul's track submission: https://soundcloud.com/whatevergeek/recollections
 
-### 6. [[Jan]]  — Confronting with a ponzi investment scheme
+### 6. [[Jan]]  — Confronting with a ponzi [[Economics, Finance & Investing|investment]] scheme
 
 
 ### 7. [[Li Jen]]  — [[Japan & Japanese Culture|Japanese]] personality types. https://www.tofugu.com/japan/japanese-blood-type/

@@ -3,6 +3,10 @@ speaker: "Hafeez"
 talk_count: 24
 first_talk: "2022-04-29"
 last_talk: "2026-07-04"
+topics:
+  - "[[Video Games & Interactive Media]]"
+  - "[[Software & Web Development]]"
+  - "[[Community, Volunteering & Social Dynamics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 24
 - **First Sharing:** 2022-04-29
 - **Latest Sharing:** 2026-07-04
+- **Primary Topics:** [[Video Games & Interactive Media]] · [[Software & Web Development]] · [[Community, Volunteering & Social Dynamics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

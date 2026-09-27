@@ -25,12 +25,12 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Aaron]]  — Leah Price- "What We Talk About When We Talk About Books"- Book about the multiple moral crises surrounding books and what it tells us about reading.
+### 1. [[Aaron]]  — Leah Price- "What We Talk About When We Talk About [[Books & Literature|Books]]"- Book about the multiple moral crises surrounding books and what it tells us about reading.
 
 - Read for Books. In July, for every 10 people who reads for 15mins, one book or equivalent will be donated to select beneficiaries.
 - Join a Read Together session: go.gov.sg/rfb24-programmes
 
-### 2. [[Julian]]  — How to make a Zine
+### 2. [[Julian]]  — How to make a [[Crafts, Origami & Life Hacks|Zine]]
 
 
 ### 3. [[Melvin]]  — The [[Puzzles, Magic & Strategy|secretary problem]]
@@ -42,7 +42,7 @@ tags:
 
 - <https://itdp.org/wp-content/uploads/2021/12/CCSE_Infographic-1024x663.jpg>
 
-### 5. [[Hafeez]]  — ChitChatChampion - Prompt Engineering (GPT)
+### 5. [[Hafeez]]  — ChitChatChampion - [[Artificial Intelligence|Prompt Engineering]] (GPT)
 
 - tells lies (hallucination)
 - biased, inappropriate, censored
@@ -50,7 +50,7 @@ tags:
 - <https://izzhafeez.com/games/>
 - <https://chitchatchampion.netlify.app/browse>
 
-### 6. [[Tracy]]  — How I discovered Learning Day
+### 6. [[Tracy]]  — [[Community, Volunteering & Social Dynamics|How I discovered Learning Day]]
 
 
 ### 7. [[Angela]]  — Floppy disks, Liu Thai Ker, [[Food, Cooking & Beverage|Cooking]] tips, Air fryers, etc.

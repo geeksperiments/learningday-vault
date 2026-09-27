@@ -22,21 +22,21 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Jin]]  — data warehouse, data lake -> data lakehouse -> data mesh. Snowflake, Databricks, and Amazon Redshift.
+### 1. [[Jin]]  — [[Data & Analytics|data warehouse]], data lake -> data lakehouse -> data mesh. Snowflake, Databricks, and Amazon Redshift.
 
 
 ### 2. [[Melvin]]  — [[Economics, Finance & Investing|Algorithmic [[Cybersecurity & Cryptography|stablecoins]]]] make use of economic incentives instead of requiring collateral. Most have not managed to maintain their value. See https://medium.com/dragonfly-research/a-visual-explanation-of-algorithmic-stablecoins-9a0c1f0f51a0
 
 
-### 3. [[Shu En]]  — May is ALS awareness month, Jap drama: 1 litre of tears
+### 3. [[Shu En]]  — May is [[Health, Fitness & Wellness|ALS awareness]] month, Jap drama: 1 litre of tears
 
 
-### 4. [[Janice]]  — Pet therapy (Animal Assisted Therapy), Service Animal, Emotional Support Animal, Therapy Animal
+### 4. [[Janice]]  — Pet therapy ([[Science, Ecology & Environment|Animal]] Assisted Therapy), Service Animal, Emotional Support Animal, Therapy Animal
 
 - <https://www.youtube.com/watch?v=4C459sQwrAo>
 - <https://www.youtube.com/watch?v=ODuRBPjoPrs>
 
-### 5. [[Louis]]  — Why is One Piece so long? Many characters in the crew with their own intro.
+### 5. [[Louis]]  — Why is [[Films, Shows & Media|One Piece]] so long? Many characters in the crew with their own intro.
 
 
 ---

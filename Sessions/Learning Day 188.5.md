@@ -31,7 +31,7 @@ tags:
 
 - <https://docs.google.com/presentation/d/1iQ6L-CjBo4Dzzo14Qb_KE67725Cm38RalAWg1J5LPgo/edit?usp=sharing>
 
-### 4. [[Scarlett]]  — Okonomiyaki: https://www.dailymotion.com/video/x7w2yoa
+### 4. [[Scarlett]]  — [[Food, Cooking & Beverage|Okonomiyaki]]: https://www.dailymotion.com/video/x7w2yoa
 
 
 ---

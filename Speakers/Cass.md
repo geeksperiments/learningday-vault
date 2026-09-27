@@ -3,6 +3,10 @@ speaker: "Cass"
 talk_count: 2
 first_talk: "2022-02-25"
 last_talk: "2022-03-25"
+topics:
+  - "[[Health, Fitness & Wellness]]"
+  - "[[Philosophy & Mental Models]]"
+  - "[[Puzzles, Magic & Strategy]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 2
 - **First Sharing:** 2022-02-25
 - **Latest Sharing:** 2022-03-25
+- **Primary Topics:** [[Health, Fitness & Wellness]] · [[Philosophy & Mental Models]] · [[Puzzles, Magic & Strategy]]
 - **Directory:** [[Learning Day Index]]
 
 ---

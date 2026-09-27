@@ -3,6 +3,8 @@ speaker: "Bang"
 talk_count: 1
 first_talk: "2026-09-05"
 last_talk: "2026-09-05"
+topics:
+  - "[[Design, Art & Creative Tools]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2026-09-05
 - **Latest Sharing:** 2026-09-05
+- **Primary Topics:** [[Design, Art & Creative Tools]]
 - **Directory:** [[Learning Day Index]]
 
 ---

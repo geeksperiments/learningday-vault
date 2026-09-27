@@ -22,10 +22,10 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Devy]]  — Every student is a changemaker, my own journey
+### 1. [[Devy]]  — Every [[Education & Pedagogy|student]] is a changemaker, my own journey
 
 
-### 2. [[Khoa]]  — Flow Theory by Mihaly Csikszentmihalyi
+### 2. [[Khoa]]  — [[Philosophy & Mental Models|Flow Theory]] by Mihaly Csikszentmihalyi
 
 
 ### 3. [[Naqiba]] 
@@ -33,7 +33,7 @@ tags:
 - Game 1 - Words we carry with us. Writing affirmations in a ball and throwing it to each other, building on with more affirmations.
 - Game 2 - "The world is round", 8 + 8 = 4, 10 + 10 = 2, 8 + 6 = 3, 7 + 1 = 0, 2 + 2 = 0, 0 + 0 = 2
 
-### 4. [[Bipana]]  — Introvert/Extrovert/Ambivert
+### 4. [[Bipana]]  — [[Psychology & Human Behavior|Introvert]]/Extrovert/Ambivert
 
 
 ### 5a. [[Louis]]  — Posing for photos. Jojo pose: https://images.app.goo.gl/FBV24WVmbgSQ1rXi7

@@ -24,10 +24,10 @@ tags:
 ### 1. [[Teo]]  — Evolution of postal codes in [[Singapore History & Culture|Singapore]] and some unusual cases
 
 
-### 2. [[Scarlett]]  — How to make clay accessories
+### 2. [[Scarlett]]  — How to make [[Crafts, Origami & Life Hacks|clay accessories]]
 
 
-### 3. [[Q]]  — How to learn to play drums
+### 3. [[Q]]  — How to learn to play [[Music, Audio & Acoustics|drums]]
 
 
 ### 4. [[Melvin]]  — [[Singapore History & Culture|National day]] rituals and what they signify for you

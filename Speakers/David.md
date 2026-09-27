@@ -3,6 +3,9 @@ speaker: "David"
 talk_count: 1
 first_talk: "2025-02-21"
 last_talk: "2025-02-21"
+topics:
+  - "[[Board & Tabletop Games]]"
+  - "[[Design, Art & Creative Tools]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2025-02-21
 - **Latest Sharing:** 2025-02-21
+- **Primary Topics:** [[Board & Tabletop Games]] · [[Design, Art & Creative Tools]]
 - **Directory:** [[Learning Day Index]]
 
 ---

@@ -39,10 +39,10 @@ tags:
 ### 5. [[Ka Ho]]  — [[Data & Analytics|Burndown Chart]]
 
 
-### 6. [[Sharon]]  — Meditation referencing app called "10% Happier". Explanation of mindful self-compassion: https://self-compassion.org/the-three-elements-of-self-compassion-2/#definition. Clip from Ted Lasso movie. Guided meditation: https://www.youtube.com/watch?v=T_80y_CT32c
+### 6. [[Sharon]]  — Meditation referencing app called "10% Happier". Explanation of mindful self-compassion: https://self-compassion.org/the-three-elements-of-self-compassion-2/#definition. Clip from Ted Lasso [[Films, Shows & Media|movie]]. Guided meditation: https://www.youtube.com/watch?v=T_80y_CT32c
 
 
-### 7. [[Cass]]  — mindsets and thoughts can affect the outcome even if two groups do the same thing. Study of 2 groups who did exercise. Group A believed it was beneficial vs Group B believed it wasn't. Group A had better physical outcomes. The value of play in improving neuroplasticity. Huberman Lab podcast.
+### 7. [[Cass]]  — mindsets and thoughts can affect the outcome even if two groups do the same thing. Study of 2 groups who did [[Health, Fitness & Wellness|exercise]]. Group A believed it was beneficial vs Group B believed it wasn't. Group A had better physical outcomes. The value of play in improving neuroplasticity. Huberman Lab podcast.
 
 
 ---

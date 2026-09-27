@@ -21,14 +21,14 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Melvin]]  — Look back on one of owns' sharing
+### 1. [[Melvin]]  — [[Philosophy & Mental Models|Look back on one of owns' sharing]]
 
 - Reviewing the National Day rituals in Singapore (LD 147)
 
-### 2. [[Hafeez]]  — Geogussr
+### 2. [[Hafeez]]  — [[Community, Volunteering & Social Dynamics|Geogussr]]
 
 
-### 3. [[Ka Ho]]  — Comics from ZaoBao - Deepfakes vs Sun Wokong
+### 3. [[Ka Ho]]  — Comics from ZaoBao - [[Artificial Intelligence|Deepfakes]] vs Sun Wokong
 
 
 ### 4. [[Scarlett]] 

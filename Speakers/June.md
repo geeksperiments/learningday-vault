@@ -3,6 +3,8 @@ speaker: "June"
 talk_count: 1
 first_talk: "2026-07-04"
 last_talk: "2026-07-04"
+topics:
+  - "[[Books & Literature]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2026-07-04
 - **Latest Sharing:** 2026-07-04
+- **Primary Topics:** [[Books & Literature]]
 - **Directory:** [[Learning Day Index]]
 
 ---

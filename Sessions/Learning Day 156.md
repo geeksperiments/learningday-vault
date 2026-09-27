@@ -29,10 +29,10 @@ tags:
 
 - <http://www.mudportal.com/play?host=frandum.fr&port=2001>
 
-### 3. [[Jan]]  — Tensions expressed within the anime Attack on Titan - https://www.youtube.com/watch?v=H6GmVCD7cxk (Character analysis on why Eren is a slave of freedom and why he did the things he did in the last season)
+### 3. [[Jan]]  — Tensions expressed within the [[Japan & Japanese Culture|anime]] Attack on Titan - https://www.youtube.com/watch?v=H6GmVCD7cxk (Character analysis on why Eren is a slave of freedom and why he did the things he did in the last season)
 
 
-### 4. [[Ka Ho]]  — NLB and RFID tech for library (https://www.youtube.com/watch?v=tzNdtDEVIAc)
+### 4. [[Ka Ho]]  — NLB and RFID tech for [[Books & Literature|library]] (https://www.youtube.com/watch?v=tzNdtDEVIAc)
 
 - Despite the use of technology in libraries, visitorship in libraries in some country around the world has decreased, but not in Singapore (Details: https://www.todayonline.com/big-read/big-read-are-public-libraries-dying-not-singapore-far-it-2311941)
 

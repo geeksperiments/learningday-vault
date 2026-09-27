@@ -24,7 +24,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Math?
+### 1. [[Louis]]  — [[Astronomy, Physics & Mathematics|Math]]?
 
 - The SAT Question Everyone Got Wrong
 - <https://www.youtube.com/watch?v=FUHkTs-Ipfg>
@@ -48,7 +48,7 @@ tags:
 - https://www.bespokesynth.com/
 - https://www.meldaproduction.com/MFreeFXBundle
 
-### 7. [[JY]]  — Zoom Earth - Hurricanes/Typhoons
+### 7. [[JY]]  — Zoom Earth - [[Science, Ecology & Environment|Hurricanes]]/Typhoons
 
 - https://zoom.earth/storms/95b-2023/#map=wind-speed/model=icon
 - flightradar24

@@ -3,6 +3,9 @@ speaker: "Ninghan"
 talk_count: 1
 first_talk: "2026-09-05"
 last_talk: "2026-09-05"
+topics:
+  - "[[Books & Literature]]"
+  - "[[Psychology & Human Behavior]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2026-09-05
 - **Latest Sharing:** 2026-09-05
+- **Primary Topics:** [[Books & Literature]] · [[Psychology & Human Behavior]]
 - **Directory:** [[Learning Day Index]]
 
 ---

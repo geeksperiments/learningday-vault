@@ -25,7 +25,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Systems Thinking: https://www.canva.com/design/DAGGZ_4H2nw/0kLnYxom-kFEj7KB2jJWpw/edit
+### 1. [[Louis]]  — [[Design, Art & Creative Tools]] — Systems Thinking: https://www.canva.com/design/DAGGZ_4H2nw/0kLnYxom-kFEj7KB2jJWpw/edit
 
 
 ### 2. [[Melvin]]  — Today is International [[Board & Tabletop Games|Tabletop]] Day! https://nationaltoday.com/international-tabletop-day/
@@ -45,19 +45,19 @@ tags:
 - <https://www.yamaha.com/en/musical_instrument_guide/recorder/>
 - <https://www.youtube.com/watch?v=D2oHI1qYPTs>
 
-### 4. [[Yu Xiang]]  — Making sock puppets
+### 4. [[Yu Xiang]]  — Making [[Crafts, Origami & Life Hacks|sock puppets]]
 
 - Online event: https://www.eventbrite.sg/e/fabulously-felted-sock-puppets-artseen-registration-908682492797
 
-### 5. [[Hafeez]]  — Road Hiking
+### 5. [[Hafeez]]  — Road [[Urban Planning, Transport & Outdoors|Hiking]]
 
 - <https://izzhafeez.com/blog/hikes/>
 - <https://v6-izzhafeez.netlify.app/blog/hikes>
 
-### 6. [[Fari]]  — Experiences in acting and auditioning: https://www.youtube.com/@FariWu
+### 6. [[Fari]]  — Experiences in [[Films, Shows & Media|acting and auditioning]]: https://www.youtube.com/@FariWu
 
 
-### 7. [[Scarlett]]  — Shoebill Stork! Definitely descended from dinosaurs - https://youtu.be/ukTUG2Okqi4?si=gwoySrrpW0K5KuGa
+### 7. [[Scarlett]]  — [[Science, Ecology & Environment|Shoebill]] Stork! Definitely descended from dinosaurs - https://youtu.be/ukTUG2Okqi4?si=gwoySrrpW0K5KuGa
 
 - <https://youtu.be/4ArjlPAU_X4?si=B3WxartC8lYwCjM_>
 

@@ -35,19 +35,19 @@ tags:
 ### 3. [[Louis]]  — [[Films, Shows & Media|Joel Haver]]'s strange videos and how he makes them (https://www.youtube.com/channel/UCVIFCOJwv3emlVmBbPCZrvw)
 
 
-### 4. [[Lih Wei]]  — Real-time 3D re-construction from images https://nvlabs.github.io/instant-ngp/ , how most AIs in the past are trained with human labour https://medium.com/syncedreview/data-annotation-the-billion-dollar-business-behind-ai-breakthroughs-d929b0a50d23 (captchas are one of them)
+### 4. [[Lih Wei]]  — [[Artificial Intelligence]] — Real-time 3D re-construction from images https://nvlabs.github.io/instant-ngp/ , how most AIs in the past are trained with human labour https://medium.com/syncedreview/data-annotation-the-billion-dollar-business-behind-ai-breakthroughs-d929b0a50d23 (captchas are one of them)
 
 
-### 5. [[Anna]]  — AMA - Anna likes to impersonate people.
+### 5. [[Anna]]  — [[Community, Volunteering & Social Dynamics|AMA]] - Anna likes to impersonate people.
 
 
-### 6. [[Ka Ho]]  — Vitamin D - Professional Guidance Advised
+### 6. [[Ka Ho]]  — [[Health, Fitness & Wellness|Vitamin]] D - Professional Guidance Advised
 
 
-### 7. [[Jin]]  — Song - Fortunate Son - sung in (1) War Dogs (2) family guy (3) Forrest Gump; Context of Vietnam War
+### 7. [[Jin]]  — [[Music, Audio & Acoustics|Song]] - Fortunate Son - sung in (1) War Dogs (2) family guy (3) Forrest Gump; Context of Vietnam War
 
 
-### 8. [[Nurul]]  — AMA. Musical theatre as a background.
+### 8. [[Nurul]]  — [[Community, Volunteering & Social Dynamics|AMA]]. Musical theatre as a background.
 
 - Request: NFTs, how are people actually creating NFTs?
 

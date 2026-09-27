@@ -3,6 +3,10 @@ speaker: "Anna"
 talk_count: 6
 first_talk: "2022-01-21"
 last_talk: "2024-06-01"
+topics:
+  - "[[Community, Volunteering & Social Dynamics]]"
+  - "[[Singapore History & Culture]]"
+  - "[[Books & Literature]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 6
 - **First Sharing:** 2022-01-21
 - **Latest Sharing:** 2024-06-01
+- **Primary Topics:** [[Community, Volunteering & Social Dynamics]] · [[Singapore History & Culture]] · [[Books & Literature]]
 - **Directory:** [[Learning Day Index]]
 
 ---

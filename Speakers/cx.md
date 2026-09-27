@@ -3,6 +3,8 @@ speaker: "cx"
 talk_count: 1
 first_talk: "2023-06-23"
 last_talk: "2023-06-23"
+topics:
+  - "[[Urban Planning, Transport & Outdoors]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2023-06-23
 - **Latest Sharing:** 2023-06-23
+- **Primary Topics:** [[Urban Planning, Transport & Outdoors]]
 - **Directory:** [[Learning Day Index]]
 
 ---

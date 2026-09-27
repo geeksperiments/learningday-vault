@@ -23,23 +23,23 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Origin of "Praxium", Build-your-own-lightsaber + Special technique - https://www.youtube.com/watch?v=mYSg_mIEvmE
+### 1. [[Louis]]  — Origin of "Praxium", Build-your-own-[[Films, Shows & Media|lightsaber]] + Special technique - https://www.youtube.com/watch?v=mYSg_mIEvmE
 
 
 ### 2. [[Melvin]]  — [[Astronomy, Physics & Mathematics|DESI]] https://www.desi.lbl.gov/ A "telescope" of 5000 robots https://www.youtube.com/watch?v=g1LVMox0KNc
 
 
-### 3. [[Teo]]  — Prisoner's Dilemma (Discussion)
+### 3. [[Teo]]  — [[Philosophy & Mental Models|Prisoner's Dilemma]] (Discussion)
 
 - https://en.wikipedia.org/wiki/Prisoner%27s_dilemma
 - https://www.youtube.com/watch?v=TJCGTNIwmv8
 - Golden Ball: https://www.youtube.com/watch?v=S0qjK3TWZE8
 
-### 4. [[Darren]]  — Michael Jackson worked with George Lucas (Star Wars Creator)
+### 4. [[Darren]]  — Michael Jackson worked with George Lucas ([[Films, Shows & Media|Star Wars]] Creator)
 
 - <https://docs.google.com/presentation/d/1TKvODh8kVVUBmARVuHa6G5ie7cX7ytPm77Vjs1oxWrI/edit?usp=sharing>
 
-### 5. [[Ka Ho]]  — Determining how big the universe is. The cosmic distance ladder
+### 5. [[Ka Ho]]  — Determining how big the universe is. The [[Astronomy, Physics & Mathematics|cosmic distance ladder]]
 
 - <https://youtu.be/R451yqCHoc0?si=Wtj4xIqViA760FUw>
 - 6a) 5 mins - Julian: Are Jedis actually different from the Sith? On Moral Relativism
@@ -51,7 +51,7 @@ tags:
 - <https://youtu.be/FaOSCASqLsE?si=0YV3ic916HlJnyqN>
 - <https://youtu.be/Brbrdnh74yA?si=5Ax2kgkYDv43ZFR9>
 
-### 7. [[Hafeez]]  — Constellations (Kahoot)
+### 7. [[Hafeez]]  — [[Astronomy, Physics & Mathematics|Constellations]] (Kahoot)
 
 - 8. [if nobody takes up this slot, light sabre demonstration at level 1]
 

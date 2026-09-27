@@ -25,7 +25,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Scarlett]]  — the original Kodak Fling and the Kodak Charmera (https://share.google/LmGEouV0bx9m8BwFN; https://share.google/bpEOOOdn8fhxyhoUm; https://youtu.be/sXG3apjIqig)
+### 1. [[Scarlett]]  — the original [[Design, Art & Creative Tools|Kodak]] Fling and the Kodak Charmera (https://share.google/LmGEouV0bx9m8BwFN; https://share.google/bpEOOOdn8fhxyhoUm; https://youtu.be/sXG3apjIqig)
 
 - <https://thesmartlocal.com/read/kodak-charmera-keychain-blind-box/>
 
@@ -35,14 +35,14 @@ tags:
 - <https://www.instagram.com/reel/DSwAxLjEsfG/>
 - <https://www.pricecharting.com/game/pokemon-japanese-promo/pikachu-105s-p>
 
-### 3. [[Darren]]  — JoJo: Contrasting Main Protagonists
+### 3. [[Darren]]  — [[Japan & Japanese Culture|JoJo]]: Contrasting Main Protagonists
 
 - <https://docs.google.com/presentation/d/1aIZEECp_Y1637WMXB-OfEarRXl7OfszV_ZFMsW1l1m0/edit?usp=sharing>
 
-### 4. [[Louis]]  — Utilitarianism, trolley problem, Haydn and oyster https://youtu.be/DtRhrfhP5b4?si=IvjgmGxY_LR8Wyam
+### 4. [[Louis]]  — [[Philosophy & Mental Models|Utilitarianism]], trolley problem, Haydn and oyster https://youtu.be/DtRhrfhP5b4?si=IvjgmGxY_LR8Wyam
 
 
-### 5. [[Yuxuan]]  — My learning journey in 2025
+### 5. [[Yuxuan]]  — My [[Education & Pedagogy|learning journey]] in 2025
 
 - <https://www.facebook.com/share/1GLPoY8KLu/?mibextid=wwXIfr>
 - Kristin Neff Self Compassion
@@ -55,10 +55,10 @@ tags:
 - <https://www.nlb.gov.sg/main/services/MakeIT-at-Libraries>
 - <https://www.instagram.com/reel/DTCBqCJkvSA/?igsh=MW1xcWc5MnVxOXZscg==>
 
-### 6. [[Cayla]]  — Language and privilege. English Language and Linguistics as an A Levels subject. Sapir whorf theory/Arrival movie
+### 6. [[Cayla]]  — Language and privilege. English Language and Linguistics as an A Levels subject. Sapir whorf theory/Arrival [[Films, Shows & Media|movie]]
 
 
-### 7. [[Ka Ho]]  — How you understand History, eg. Albatross Files https://share.google/9VpjKeC1rQSOV79nN
+### 7. [[Ka Ho]]  — How you understand [[World History & Geopolitics|History]], eg. Albatross Files https://share.google/9VpjKeC1rQSOV79nN
 
 - <https://exhibitions.nlb.gov.sg/thealbatrossfile/about/?utm_campaign=albatross&utm_source=google&utm_medium=sem&utm_content=thealbatrossfile&gad_source=1>
 - 8a. (5 minutes): Shock Hiang's unique name which can be used as an English name!
@@ -67,7 +67,7 @@ tags:
 - 8c. (5 minutes) Julian: Baby Sea Turtles
 - <https://youtu.be/elCIWoa_2vM?si=-1Tspch_ijXQHK5s>
 
-### 9. [[Jan]]  — Disney Hades' Villain Song
+### 9. [[Jan]]  — [[Films, Shows & Media|Disney]] Hades' Villain Song
 
 - <https://youtu.be/08_T0k7sPZw?si=745ITa5GtpzZpYzz>
 

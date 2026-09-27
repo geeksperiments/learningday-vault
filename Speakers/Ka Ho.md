@@ -3,6 +3,10 @@ speaker: "Ka Ho"
 talk_count: 74
 first_talk: "2022-01-21"
 last_talk: "2026-09-05"
+topics:
+  - "[[Singapore History & Culture]]"
+  - "[[Japan & Japanese Culture]]"
+  - "[[Music, Audio & Acoustics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 74
 - **First Sharing:** 2022-01-21
 - **Latest Sharing:** 2026-09-05
+- **Primary Topics:** [[Singapore History & Culture]] · [[Japan & Japanese Culture]] · [[Music, Audio & Acoustics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

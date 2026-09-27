@@ -3,6 +3,8 @@ speaker: "Tan"
 talk_count: 1
 first_talk: "2025-07-18"
 last_talk: "2025-07-18"
+topics:
+  - "[[Singapore History & Culture]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2025-07-18
 - **Latest Sharing:** 2025-07-18
+- **Primary Topics:** [[Singapore History & Culture]]
 - **Directory:** [[Learning Day Index]]
 
 ---

@@ -3,6 +3,9 @@ speaker: "Florence"
 talk_count: 2
 first_talk: "2024-01-06"
 last_talk: "2026-02-07"
+topics:
+  - "[[Urban Planning, Transport & Outdoors]]"
+  - "[[Economics, Finance & Investing]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 2
 - **First Sharing:** 2024-01-06
 - **Latest Sharing:** 2026-02-07
+- **Primary Topics:** [[Urban Planning, Transport & Outdoors]] · [[Economics, Finance & Investing]]
 - **Directory:** [[Learning Day Index]]
 
 ---

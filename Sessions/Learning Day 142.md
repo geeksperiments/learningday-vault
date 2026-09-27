@@ -26,7 +26,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Julian]]  — Why Eroticism Should Be Part of your Self-Care Plan
+### 1. [[Julian]]  — Why Eroticism Should Be Part of your [[Health, Fitness & Wellness|Self-Care]] Plan
 
 - <https://www.estherperel.com/blog/eroticism-self-care-plan>
 - **Reaction:** `+ the 4 Greek words for love https://healthcare.utah.edu/the-scope/health-library/all/2020/02/four-types-of-love-some-are-healthy-some-are-not`
@@ -48,7 +48,7 @@ tags:
 ### 6. [[Martin]]  — Math instruction --> Deeply rooted in language as [[Astronomy, Physics & Mathematics|mathematics]] is  a "language". Children move from additive --> multiplicative --> fractional understanding, but are best supported when algorithms are accompanied by the reasoning
 
 
-### 7. [[Rahul]]  — Vipassana Retreat in Malaysia https://malaya.dhamma.org/
+### 7. [[Rahul]]  — Vipassana Retreat in [[World History & Geopolitics|Malaysia]] https://malaya.dhamma.org/
 
 
 ### 8. [[Paul]]  — [[Music, Audio & Acoustics|PlugData]]
@@ -57,7 +57,7 @@ tags:
 * https://plugdata.org/
 * Demo using Bespoke and Pure Data to create synth
 
-### 9. [[Jin Hoo]]  — Airforce plane maintenance. Working from heights.
+### 9. [[Jin Hoo]]  — [[Hardware & Devices|Airforce plane maintenance]]. Working from heights.
 
 
 ---

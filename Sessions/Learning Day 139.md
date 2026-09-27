@@ -31,7 +31,7 @@ tags:
 ### 2. [[Melvin]]  — Folding a [[Crafts, Origami & Life Hacks|Hexa-tetra-flexagon]]
 
 
-### 3. [[Ka Ho]]  — Mathematical trick
+### 3. [[Ka Ho]]  — [[Astronomy, Physics & Mathematics|Mathematical trick]]
 
 
 ### 4. [[Paul]]  — Recreating an EDM Song on digital [[Music, Audio & Acoustics|audio]] workstation (DAW) - FL Studio software
@@ -44,21 +44,21 @@ tags:
 - Reaper (not really free... just nags you after 60days of evaluation) https://www.reaper.fm/
 - just in case anyone is keen to dig further through the music production rabbit hole... was browsing through NLB's udemy courses (yes, thank you @publiclibrarysg @NationalLibrarySG for Udemy access) and found this  https://nlbsg.udemy.com/course/edm-production/
 
-### 5. [[Evon]]  — Rug Tufting - "think before you shoot". https://youtu.be/h9o21cVcG74
+### 5. [[Evon]]  — Rug [[Crafts, Origami & Life Hacks|Tufting]] - "think before you shoot". https://youtu.be/h9o21cVcG74
 
 - <https://we.tl/t-ICoRP6beIe go to: https://www.aboutyousg.com/>
 
-### 6. [[Fari]]  — How the sun and moon affects Ramadan (fasting month)
+### 6. [[Fari]]  — [[Community, Volunteering & Social Dynamics|How the sun and moon affects Ramadan (fasting month)]]
 
 
-### 7. [[Hijie]]  — StoneHenge. "Smaller than advertised."
+### 7. [[Hijie]]  — [[World History & Geopolitics|StoneHenge]]. "Smaller than advertised."
 
 - What's the meaning of Stonehenge?
 - Stonehenge is a prehistoric monument on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones.(Wikipedia)
 - Ancient Aliens:Mysterious History of Stonehenge
 - <https://youtu.be/eCA9ldgIIcY>
 
-### 8. [[Jessica]]  — Hyper performance.
+### 8. [[Jessica]]  — [[Productivity & Time Management|Hyper performance]].
 
 - Sara Milne Rowe - Performance coach
 - Her book: The SHED Method: The New Mind Management Technique for Achieving Confidence, Calm and Success

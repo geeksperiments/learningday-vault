@@ -3,6 +3,9 @@ speaker: "Irene"
 talk_count: 1
 first_talk: "2025-10-04"
 last_talk: "2025-10-04"
+topics:
+  - "[[Community, Volunteering & Social Dynamics]]"
+  - "[[Education & Pedagogy]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2025-10-04
 - **Latest Sharing:** 2025-10-04
+- **Primary Topics:** [[Community, Volunteering & Social Dynamics]] · [[Education & Pedagogy]]
 - **Directory:** [[Learning Day Index]]
 
 ---

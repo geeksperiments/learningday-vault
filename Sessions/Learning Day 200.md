@@ -25,35 +25,35 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Fari]]  — 101 bracelet-making?
+### 1. [[Fari]]  — 101 [[Crafts, Origami & Life Hacks|bracelet-making]]?
 
 
-### 2. [[Lih Wei]]  — Acoustic Cameras?! Nani?!
+### 2. [[Lih Wei]]  — Acoustic [[Hardware & Devices|Cameras]]?! Nani?!
 
 
-### 3. [[Charmaine]]  — Sharing the sky
+### 3. [[Charmaine]]  — [[Astronomy, Physics & Mathematics|Sharing the sky]]
 
 - The three birds that co-exist in urban Singapore.
 
-### 4. [[Louis]]  — Surpriseee....
+### 4. [[Louis]]  — [[Community, Volunteering & Social Dynamics|Surpriseee]]....
 
 - (AI generated video using SORA)
 - <https://photos.app.goo.gl/b3pupNeRbukfUwY88>
 - <https://chatgpt.com/share/6905a079-4ec8-800d-a2b0-72cf7c5eabc8>
 - Tshirt design
 
-### 5. [[Darren]]  — Marvel 4? - Capcom VS ArcSystemWorks
+### 5. [[Darren]]  — [[Films, Shows & Media|Marvel]] 4? - Capcom VS ArcSystemWorks
 
 - <https://docs.google.com/presentation/d/1eZ0247rW-0nSrEQ_3cVHiyQ1HQ4C-bMq-6Nu-aGzpRw/edit?usp=sharing>
 
-### 6. [[Scarlett]]  — Things are not what they seem 👀 - https://tinyurl.com/3pk47d7a; https://tinyurl.com/yshb8d6b; https://tinyurl.com/4pfu2yz9
+### 6. [[Scarlett]]  — [[Philosophy & Mental Models|Things are not what they seem]] 👀 - https://tinyurl.com/3pk47d7a; https://tinyurl.com/yshb8d6b; https://tinyurl.com/4pfu2yz9
 
 
-### 7. [[Hafeez]]  — Pop quiz - who shared this?
+### 7. [[Hafeez]]  — [[Community, Volunteering & Social Dynamics|Pop quiz]] - who shared this?
 
 - (Administered  using Kahoot!)
 
-### 8. [[Teo]]  — Improve Your Photos using Composition
+### 8. [[Teo]]  — Improve Your Photos using [[Design, Art & Creative Tools|Composition]]
 
 - Reading Resource: https://petapixel.com/photography-composition-techniques/
 - (We'll move outdoors!)

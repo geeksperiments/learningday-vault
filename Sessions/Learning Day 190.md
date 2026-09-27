@@ -23,10 +23,10 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Jin]]  — Video taking hack using phones
+### 1. [[Jin]]  — Video taking [[Cybersecurity & Cryptography|hack]] using phones
 
 
-### 2. [[Melvin]]  — https://tribeofmentors.com/
+### 2. [[Melvin]]  — [[Community, Volunteering & Social Dynamics]] — https://tribeofmentors.com/
 
 - Four sample questions https://form.typeform.com/to/eof9vDnI
 - Responses https://form.typeform.com/report/eof9vDnI/5IClZwwI7qVjj0fq
@@ -36,12 +36,12 @@ tags:
 - A Conversation Between Marya and the Buddha
 - <https://claude.ai/share/d5c3587a-e016-4358-b730-b337f5cb8863>
 
-### 4. [[Ka Ho]]  — Situation of bad communication [Featuring Google Gemini ]
+### 4. [[Ka Ho]]  — Situation of bad communication [Featuring Google [[Artificial Intelligence|Gemini]] ]
 
 - a. The case of "Mr Zhang" in old FedEx ad.
 - Recommended search keyword: "Stochastic Parrot"
 
-### 5. [[Darren]]  — Daicon - Revolutionizing Anime
+### 5. [[Darren]]  — Daicon - Revolutionizing [[Japan & Japanese Culture|Anime]]
 
 - <https://docs.google.com/presentation/d/1NiP-S3hMwtC0aDAFasRxI0-a5My2HvAINXS1lB5XPpo/edit?usp=sharing>
 

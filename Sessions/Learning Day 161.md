@@ -25,7 +25,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Janice]]  — Mindful Meditation
+### 1. [[Janice]]  — Mindful [[Health, Fitness & Wellness|Meditation]]
 
 
 ### 2. [[Melvin]]  — Folding a [[Crafts, Origami & Life Hacks|seamless cube]] https://www.youtube.com/watch?v=Pn9ROEqK0r4
@@ -37,7 +37,7 @@ tags:
 - https://github.com/intel/openvino-plugins-ai-audacity
 - https://www.audacityteam.org/
 
-### 4. [[Jan]]  — Fullmetal Alchemist Brotherhood final opening song "Rain"
+### 4. [[Jan]]  — Fullmetal Alchemist Brotherhood final opening [[Music, Audio & Acoustics|song]] "Rain"
 
 - A journey of personal redemption
 - <https://youtu.be/i1UNSTXQhCA?si=edLg0TYfzOV1MUvz>
@@ -50,15 +50,15 @@ tags:
 - Lyrics: https://vocaloidlyrics.fandom.com/wiki/%E5%8D%83%E5%B9%B4%E9%A3%9F%E8%B0%B1%E9%A2%82_(Qi%C4%81nni%C3%A1n_Sh%C3%ADp%C7%94_S%C3%B2ng)
 - )
 
-### 6. [[Aldrin]]  — Social spaces https://dagupan.socialspac.es/home
+### 6. [[Aldrin]]  — [[Community, Volunteering & Social Dynamics|Social spaces]] https://dagupan.socialspac.es/home
 
 
-### 7. [[Bing Wen]]  — Scamming scammers
+### 7. [[Bing Wen]]  — Scamming [[Cybersecurity & Cryptography|scammers]]
 
 - <https://docs.google.com/presentation/d/1fVCox7ZQyd8lvAa9eH1Kure5Gy7jqPBo/edit?usp=sharing&ouid=102412456142328150288&rtpof=true&sd=true>
 - try out https://checkmate.sg/ !
 
-### 8. [[Hijie]]  — Building No Code Apps with SAP Build Apps
+### 8. [[Hijie]]  — Building [[Software & Web Development|No Code]] Apps with SAP Build Apps
 
 - <https://developers.sap.com/tutorials/hcp-create-trial-account.html>
 - <https://developers.sap.com/mission.appgyver-low-code.html>

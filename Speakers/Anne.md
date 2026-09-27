@@ -3,6 +3,9 @@ speaker: "Anne"
 talk_count: 2
 first_talk: "2025-09-13"
 last_talk: "2025-10-04"
+topics:
+  - "[[Design, Art & Creative Tools]]"
+  - "[[Singapore History & Culture]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 2
 - **First Sharing:** 2025-09-13
 - **Latest Sharing:** 2025-10-04
+- **Primary Topics:** [[Design, Art & Creative Tools]] · [[Singapore History & Culture]]
 - **Directory:** [[Learning Day Index]]
 
 ---

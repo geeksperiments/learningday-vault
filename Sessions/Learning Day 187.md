@@ -24,21 +24,21 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Silicon Valley - Lessons from a comedy: https://www.canva.com/design/DAGjCGHsaIo/sYxZaBFD7yxDPrhXePtyCw/edit?utm_content=DAGjCGHsaIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+### 1. [[Louis]]  — [[Design, Art & Creative Tools]] — Silicon Valley - Lessons from a comedy: https://www.canva.com/design/DAGjCGHsaIo/sYxZaBFD7yxDPrhXePtyCw/edit?utm_content=DAGjCGHsaIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
-### 2. [[Melvin]]  — https://maggieappleton.com/tools-for-thought/
+### 2. [[Melvin]]  — [[Community, Volunteering & Social Dynamics]] — https://maggieappleton.com/tools-for-thought/
 
 
-### 3. [[Julian]]  — My Favourite Quotes from the book Antifragile so far
+### 3. [[Julian]]  — My Favourite Quotes from the [[Books & Literature|book]] Antifragile so far
 
 - <https://docs.google.com/document/d/12XXj2ryNrobYIc0FlUjdHI081Zmbph3Ce1kOgShzKDY/edit>
 
-### 4. [[Darren]]  — Kamen Rider - The Odagiri Effect
+### 4. [[Darren]]  — [[Films, Shows & Media|Kamen Rider]] - The Odagiri Effect
 
 - <https://docs.google.com/presentation/d/13atiQnYn41IWd17ChMRwtucN02NVP4FA7QcETjt0zxc/edit?usp=sharing>
 
-### 5. [[Teo]]  — Sha Tau Kok - The town in a Closed Area
+### 5. [[Teo]]  — [[World History & Geopolitics|Sha Tau Kok]] - The town in a Closed Area
 
 - https://www.discoverhongkong.com/eng/explore/discover-sha-tau-kok.html
 - Application for Permit: https://www.es.police.gov.hk/eserv-online-portal-ui/#/pages/e-services-application-forms/10?locale=en_US
@@ -48,7 +48,7 @@ tags:
 - Riddle - more cryptic than [[Puzzles, Magic & Strategy|puzzles]].
 - Louis - Puzzle hunt https://www.instagram.com/reel/DHzuXXos40Z/?igsh=MTJhcXZ3NGRpMHdidw==
 
-### 7. [[Justin]]  — A Trip of a Lifetime: 1 Trip, 2 Months, 9 Countries (imma_travel). For Instagram photos/stories:
+### 7. [[Justin]]  — A [[Urban Planning, Transport & Outdoors|Trip of a Lifetime]]: 1 Trip, 2 Months, 9 Countries (imma_travel). For Instagram photos/stories:
 
 - <https://www.instagram.com/imma_travel?igsh=MXc4eGEyN3B5dnBheA==>
 

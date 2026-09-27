@@ -3,6 +3,9 @@ speaker: "WP"
 talk_count: 1
 first_talk: "2026-06-06"
 last_talk: "2026-06-06"
+topics:
+  - "[[World History & Geopolitics]]"
+  - "[[Singapore History & Culture]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2026-06-06
 - **Latest Sharing:** 2026-06-06
+- **Primary Topics:** [[World History & Geopolitics]] · [[Singapore History & Culture]]
 - **Directory:** [[Learning Day Index]]
 
 ---

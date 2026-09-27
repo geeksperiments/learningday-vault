@@ -21,22 +21,22 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Julian]]  — Gen Z Slang
+### 1. [[Julian]]  — [[Community, Volunteering & Social Dynamics|Gen Z Slang]]
 
 - <https://963kklz.com/listicle/millennial-slang-vs-gen-z-slang-word-for-word/>
 - <https://www.straitstimes.com/life/a-z-of-gen-z-slang>
 
-### 2. [[Janice]]  — Coping with Pet Grief
+### 2. [[Janice]]  — Coping with [[Health, Fitness & Wellness|Pet Grief]]
 
 
-### 3. [[Velda]]  — Poisoned: The Dirty Truth About Your Food
+### 3. [[Velda]]  — Poisoned: The Dirty Truth About Your [[Food, Cooking & Beverage|Food]]
 
 - <https://youtu.be/YZcyMgdWmPg>
 
-### 4. [[Yu Yang]]  — A Gamer Drank 12 Energy Drinks In 10 Minutes. This Is What Happened To His Organs. https://youtu.be/tAtaIZD0Ebs
+### 4. [[Yu Yang]]  — A Gamer Drank 12 Energy [[Food, Cooking & Beverage|Drinks]] In 10 Minutes. This Is What Happened To His Organs. https://youtu.be/tAtaIZD0Ebs
 
 
-### 5. [[Yu Yang]]  — Learning how to use blender
+### 5. [[Yu Yang]]  — Learning how to use [[Design, Art & Creative Tools|blender]]
 
 - Choose a specific area you want to learn. One that you find most rewarding and would use most often
 - Have a SMART GOAL

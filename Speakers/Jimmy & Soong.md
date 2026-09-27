@@ -3,6 +3,8 @@ speaker: "Jimmy & Soong"
 talk_count: 1
 first_talk: "2024-08-04"
 last_talk: "2024-08-04"
+topics:
+  - "[[Board & Tabletop Games]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2024-08-04
 - **Latest Sharing:** 2024-08-04
+- **Primary Topics:** [[Board & Tabletop Games]]
 - **Directory:** [[Learning Day Index]]
 
 ---

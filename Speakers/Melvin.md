@@ -3,6 +3,10 @@ speaker: "Melvin"
 talk_count: 74
 first_talk: "2022-01-14"
 last_talk: "2026-07-04"
+topics:
+  - "[[Board & Tabletop Games]]"
+  - "[[Puzzles, Magic & Strategy]]"
+  - "[[Software & Web Development]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 74
 - **First Sharing:** 2022-01-14
 - **Latest Sharing:** 2026-07-04
+- **Primary Topics:** [[Board & Tabletop Games]] · [[Puzzles, Magic & Strategy]] · [[Software & Web Development]]
 - **Directory:** [[Learning Day Index]]
 
 ---

@@ -25,11 +25,11 @@ tags:
 ### 1. [[Melvin]]  — Interactive exploration of the [[Science, Ecology & Environment|Tree of Life]] https://www.onezoom.org/ Additional links on https://garden.melvinzhang.net/posts/tree_of_life/
 
 
-### 2. [[Lih Wei]]  — Item response theory to make sure exams are of comparable difficulty
+### 2. [[Lih Wei]]  — [[Education & Pedagogy|Item response theory]] to make sure exams are of comparable difficulty
 
 - <https://en.wikipedia.org/wiki/Item_response_theory>
 
-### 3. [[Julian]]  — What is Cloud Computing?
+### 3. [[Julian]]  — What is [[Software & Web Development|Cloud]] Computing?
 
 - Cloud Computing in 6 Minutes: https://youtu.be/M988_fsOSWo
 - Why the Cloud is (mostly) more eco-friendly: https://www.missioncloud.com/blog/5-reasons-why-the-cloud-is-environmentally-friendly
@@ -37,7 +37,7 @@ tags:
 ### 4. [[Louis]]  — Designing a simulation game. Workflow of using spreadsheet -> indesign, supported by AI-generated [[Design, Art & Creative Tools|art]] from [[Artificial Intelligence|Midjourney]].
 
 
-### 5. [[Ka Ho]]  — Notes from tips in using account-based ticketing
+### 5. [[Ka Ho]]  — Notes from tips in using [[Urban Planning, Transport & Outdoors|account-based ticketing]]
 
 - <https://mothership.sg/2022/10/simply-go-different-device/>
 - Discussion: Alternative to Zoom for online LD that does depend on one person. Maybe https://meet.jit.si/?

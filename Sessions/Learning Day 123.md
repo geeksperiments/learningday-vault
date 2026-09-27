@@ -25,7 +25,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — City planning inspired by dungeons and dragons city maps
+### 1. [[Louis]]  — [[Urban Planning, Transport & Outdoors|City planning]] inspired by dungeons and dragons city maps
 
 
 ### 2. [[Melvin]]  — The [[Books & Literature|Dark Forest]] by Liu Cixin. The idea of cosmic sociology.
@@ -34,7 +34,7 @@ tags:
 ### 3. [[Ka Ho]]  — Continuation of "Overworked in a good way" from "How Google Works" by Eric Schmidt & Jonathan Rosenberg - An insight into [[Community, Volunteering & Social Dynamics|burnout]]. Symptoms: Exhaustion, cynicism, inefficiency.
 
 
-### 4. [[Fari]]  — Ask me about being a mermaid. Doing a mermaid as a hobby. @fariwu on Instagram, unicorn mermaid Fari
+### 4. [[Fari]]  — Ask me about being a [[Health, Fitness & Wellness|mermaid]]. Doing a mermaid as a hobby. @fariwu on Instagram, unicorn mermaid Fari
 
 
 ### 5. [[Julian]]  — Coursera course on Religion and [[Science, Ecology & Environment|Ecology]]. Coursera Plus gives you unlimited access to as many courses as you want for a monthly fee. NLB HAS PARTNERSHIP WITH UDEMY, CAN ACCESS MANY FREE COURSES THERE TOO!
@@ -42,11 +42,11 @@ tags:
 - <https://www.coursera.org/specializations/religion-ecology>
 - <https://eresources.nlb.gov.sg/main/Browse?browseBy=type&filter=18>
 
-### 6. [[Sharon]]  — Benefits of yoga: https://youtu.be/E4wB1waOE8E
+### 6. [[Sharon]]  — Benefits of [[Health, Fitness & Wellness|yoga]]: https://youtu.be/E4wB1waOE8E
 
 - 10min shoulder yoga, no mat needed: https://youtu.be/X3-gKPNyrTA
 
-### 7. [[Jin]]  — Parallax effect with the Viewmaster
+### 7. [[Jin]]  — Parallax effect with the [[Hardware & Devices|Viewmaster]]
 
 - <https://youtu.be/ik5OjbAk-og>
 - 2:30 https://youtu.be/YyNs-IOLiVw

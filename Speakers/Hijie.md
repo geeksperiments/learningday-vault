@@ -3,6 +3,10 @@ speaker: "Hijie"
 talk_count: 13
 first_talk: "2022-01-21"
 last_talk: "2025-10-04"
+topics:
+  - "[[Cybersecurity & Cryptography]]"
+  - "[[Singapore History & Culture]]"
+  - "[[World History & Geopolitics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 13
 - **First Sharing:** 2022-01-21
 - **Latest Sharing:** 2025-10-04
+- **Primary Topics:** [[Cybersecurity & Cryptography]] · [[Singapore History & Culture]] · [[World History & Geopolitics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

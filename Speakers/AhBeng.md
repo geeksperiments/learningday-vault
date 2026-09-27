@@ -3,6 +3,8 @@ speaker: "AhBeng"
 talk_count: 1
 first_talk: "2025-07-05"
 last_talk: "2025-07-05"
+topics:
+  - "[[Food, Cooking & Beverage]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2025-07-05
 - **Latest Sharing:** 2025-07-05
+- **Primary Topics:** [[Food, Cooking & Beverage]]
 - **Directory:** [[Learning Day Index]]
 
 ---

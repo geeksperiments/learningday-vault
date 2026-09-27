@@ -3,6 +3,10 @@ speaker: "Fari"
 talk_count: 10
 first_talk: "2022-07-23"
 last_talk: "2025-11-01"
+topics:
+  - "[[Community, Volunteering & Social Dynamics]]"
+  - "[[Science, Ecology & Environment]]"
+  - "[[Health, Fitness & Wellness]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 10
 - **First Sharing:** 2022-07-23
 - **Latest Sharing:** 2025-11-01
+- **Primary Topics:** [[Community, Volunteering & Social Dynamics]] · [[Science, Ecology & Environment]] · [[Health, Fitness & Wellness]]
 - **Directory:** [[Learning Day Index]]
 
 ---

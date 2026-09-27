@@ -3,6 +3,10 @@ speaker: "Velda"
 talk_count: 4
 first_talk: "2022-02-18"
 last_talk: "2023-08-18"
+topics:
+  - "[[Health, Fitness & Wellness]]"
+  - "[[Productivity & Time Management]]"
+  - "[[Food, Cooking & Beverage]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 4
 - **First Sharing:** 2022-02-18
 - **Latest Sharing:** 2023-08-18
+- **Primary Topics:** [[Health, Fitness & Wellness]] · [[Productivity & Time Management]] · [[Food, Cooking & Beverage]]
 - **Directory:** [[Learning Day Index]]
 
 ---

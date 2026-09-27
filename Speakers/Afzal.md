@@ -3,6 +3,8 @@ speaker: "Afzal"
 talk_count: 1
 first_talk: "2024-03-15"
 last_talk: "2024-03-15"
+topics:
+  - "[[Music, Audio & Acoustics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2024-03-15
 - **Latest Sharing:** 2024-03-15
+- **Primary Topics:** [[Music, Audio & Acoustics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

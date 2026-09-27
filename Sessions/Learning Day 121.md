@@ -32,19 +32,19 @@ tags:
 ### 2. [[Jin]]  — Learning [[Japan & Japanese Culture|Japanese]] as an English & Mandarin Speaker: https://docs.google.com/presentation/d/1yl3VNwySl9ZjvoyB90dEoEUuarTqnz8bzXyujyJ5Ces/edit?usp=drivesdk
 
 
-### 3. [[Louis]]  — PPT Karaoke - Making presentations more engaging by focusing on a coherent inner script and delivery, instead of a fixed script with 'good content'. Useful tool: https://huijing.github.io/ppt-karaoke/
+### 3. [[Louis]]  — PPT Karaoke - Making presentations more engaging by [[Productivity & Time Management|focusing]] on a coherent inner script and delivery, instead of a fixed script with 'good content'. Useful tool: https://huijing.github.io/ppt-karaoke/
 
 
-### 4. [[Ka Ho]]  — Learning technologies like Blackboard, whiteboard, OHP, Slide Carousel, Tablet, Touchscreen, Powerpoint, Projector, Smartboards
+### 4. [[Ka Ho]]  — Learning technologies like [[Education & Pedagogy|Blackboard]], whiteboard, OHP, Slide Carousel, Tablet, Touchscreen, Powerpoint, Projector, Smartboards
 
 
-### 5. [[Lih Wei]]  — Slide film negatives. OG polaroid cameras and film technology.
+### 5. [[Lih Wei]]  — Slide [[Films, Shows & Media|film]] negatives. OG polaroid cameras and film technology.
 
 
-### 6. [[Vanessa]]  — Sunscreen. Use reef-safe sunscreen so they don't bleach corals and kill them. Reef-safe ones generally mineral based. https://www.saltinourhair.com/tips/reef-safe-sunscreen/
+### 6. [[Vanessa]]  — [[Science, Ecology & Environment|Sunscreen]]. Use reef-safe sunscreen so they don't bleach corals and kill them. Reef-safe ones generally mineral based. https://www.saltinourhair.com/tips/reef-safe-sunscreen/
 
 
-### 7. [[Jan]]  — USA's governance system. Legislative (Congress, Senate, H.O Rep - Create/Amend Laws & Constitutions), Judiciary (Supreme Court - Interpret/Enforce the laws), Executive (President - Executive laws, Other government functions). Understanding this for context to Roe vs Wade overturn affected abortion laws in USA.
+### 7. [[Jan]]  — USA's [[World History & Geopolitics|governance system]]. Legislative (Congress, Senate, H.O Rep - Create/Amend Laws & Constitutions), Judiciary (Supreme Court - Interpret/Enforce the laws), Executive (President - Executive laws, Other government functions). Understanding this for context to Roe vs Wade overturn affected abortion laws in USA.
 
 
 ### 8. [[Melvin]]  — [[Cybersecurity & Cryptography|Secret shares]]. Related to: https://doubleoctopus.com/security-wiki/encryption-and-cryptography/secret-sharing/ e.g Knowing average salary at a table, without knowing each other's salary. Split your salary into smaller parts, and share that info with someone else. Reconstruct sum and average out after.

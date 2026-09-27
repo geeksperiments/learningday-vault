@@ -19,32 +19,18 @@ Music composition, audio engineering, acoustic physics, instruments, songwriting
 - [[Ka Ho]] — Musical instruments, recorder, and music theory
 
 ## Notable Sharings
-- [[Learning Day 111]]: [[Paul]] — MODO BASS (physically modeled electric bass guitar)
-- [[Learning Day 112]]: [[Angela]] — Improving Optical Music Recognition Prediction Results for Camera
-- [[Learning Day 113]]: [[Jin]] — Playing guitar cover of Fast Cars ft. Jin Hoo
-- [[Learning Day 118]]: [[Jan]] — Character Development/Maturity during teenage years through music
-- [[Learning Day 119]]: [[Paul]] — Soundfont and FluidSynth (soundfont player)
-- [[Learning Day 119]]: [[Jan]] — Character Development/Growing Distance in Songs (Rapunzel's Tangled Adventures)
-- [[Learning Day 121]]: [[Scarlett]] — Paripi Koumei anime and soundtrack adaptation
-- [[Learning Day 126]]: [[Paul]] — Creating Sounds for Electronic Music
-- [[Learning Day 134]]: [[Paul]] — Music Live Coding with Sonic Pi
-- [[Learning Day 138]]: [[Paul]] — Free Amp and Looper
-- [[Learning Day 139]]: [[Paul]] — Recreating an EDM Song in FL Studio DAW
-- [[Learning Day 142]]: [[Paul]] — PlugData (Pure Data visual programming for audio)
-- [[Learning Day 150]]: [[Paul]] — Alter/Ego: Real-Time Singing Synthesizer
-- [[Learning Day 153]]: [[Paul]] — Every sound is sine (Additive synthesis fundamentals)
-- [[Learning Day 155]]: [[Paul]] — Bespoke modular synth demo: additive synthesis in songwriting
-- [[Learning Day 156]]: [[Paul]] — Music visualisations of sine wave sounds
-- [[Learning Day 157]]: [[Paul]] — Looper Pedal
-- [[Learning Day 158]]: [[Paul]] — Vocaloid Alternatives
-- [[Learning Day 160]]: [[Paul]] — Melodics Beatmaking Workshop
-- [[Learning Day 161]]: [[Paul]] — AI Sound/Music Processing
-- [[Learning Day 164]]: [[Paul]] — Learning Synths (Synthesizers)
-- [[Learning Day 165]]: [[Paul]] — One Synth Challenge
-- [[Learning Day 175]]: [[Paul]] — Children of the Light -> Music player
-- [[Learning Day 176]]: [[Paul]] — ACID Pro 10 DAW
-- [[Learning Day 183]]: [[Paul]] — MIXXX DJ software
-- [[Learning Day 185]]: [[Paul]] — Tresillo Rhythm with APC Key 25 mk2 (Live Demo)
-- [[Learning Day 202]]: [[Paul]] — Physical Modeling Synthesis
-- [[Learning Day 206]]: [[Paul]] — Grooveboxes (hardware electronic music instruments)
-- [[Learning Day 207]]: [[Paul]] — Creating a Song with AI (Suno)
+- [[Learning Day 111]]: [[Paul]] — Music, Audio & Acoustics - a physically modeled electric bass guitar; delivers the rich and nuanced sound of a real instrument played by a real musician. Useful when synth bass or samples aren't good enough and you can't get a talented bass player to cut a perfect track on short notice.
+- [[Learning Day 112]]: [[Angela]] — Improving Music, Audio & Acoustics Prediction Results for Camera
+- [[Learning Day 113]]: [[Jin]] — Playing Music, Audio & Acoustics of Fast Cars ft. Jin Hoo (
+- [[Learning Day 114.5]]: [[Nurul]] — AMA. Musical theatre as a background.
+- [[Learning Day 118]]: [[Jan]] — Character Development/Maturity during teenage years through Music, Audio & Acoustics
+- [[Learning Day 121]]: [[Scarlett]] — Paripi Koumei anime. Source materials of the Music, Audio & Acoustics used in the show, and how it was adapted for a Japan & Japanese Culture.
+- [[Learning Day 133]]: [[Ka Ho]] — Dissertation - Look into origins of a CNY song (恭喜恭喜 Singers: 姚敏 姚莉)
+- [[Learning Day 134]]: [[Louis]] — Rap Music, Audio & Acoustics Video on Capitalism
+- [[Learning Day 147]]: [[Q]] — How to learn to play drums
+- [[Learning Day 151]]: [[Sharon]] — local Music, Audio & Acoustics including underground bands
+- [[Learning Day 153]]: [[Lih Wei]] — Talking Piano, Adobe Audition, Cropping out sounds
+- [[Learning Day 153]]: [[Fari]] — Singing bowls and sound healing (
+- [[Learning Day 162]]: [[Afzal]] — Guitar chord shapes. CeFG
+- [[Learning Day 168]]: [[Julian]] — Coldplay's latest single from their new album (Moon Music, Audio & Acoustics)
+- [[Learning Day 175]]: [[Heng Liang]] — DJ showcase & lesson at Swee Lee.

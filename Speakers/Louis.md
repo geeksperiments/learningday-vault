@@ -3,6 +3,10 @@ speaker: "Louis"
 talk_count: 75
 first_talk: "2022-01-14"
 last_talk: "2026-06-06"
+topics:
+  - "[[Design, Art & Creative Tools]]"
+  - "[[Singapore History & Culture]]"
+  - "[[Films, Shows & Media]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 75
 - **First Sharing:** 2022-01-14
 - **Latest Sharing:** 2026-06-06
+- **Primary Topics:** [[Design, Art & Creative Tools]] · [[Singapore History & Culture]] · [[Films, Shows & Media]]
 - **Directory:** [[Learning Day Index]]
 
 ---

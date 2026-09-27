@@ -3,6 +3,8 @@ speaker: "Bing Wen"
 talk_count: 2
 first_talk: "2023-09-02"
 last_talk: "2024-03-02"
+topics:
+  - "[[Cybersecurity & Cryptography]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 2
 - **First Sharing:** 2023-09-02
 - **Latest Sharing:** 2024-03-02
+- **Primary Topics:** [[Cybersecurity & Cryptography]]
 - **Directory:** [[Learning Day Index]]
 
 ---

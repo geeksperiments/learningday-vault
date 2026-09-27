@@ -25,13 +25,13 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Innovation in Education
+### 1. [[Louis]]  — Innovation in [[Education & Pedagogy|Education]]
 
 
 ### 2. [[Melvin]]  — Inflation and [[Economics, Finance & Investing|Consumer Price Index]] https://www.singstat.gov.sg/modules/infographics/consumer-price-index
 
 
-### 3. [[Ka Ho]]  — Engineering connections - HMS Illustrious (UK Aircraft Carrier)
+### 3. [[Ka Ho]]  — Engineering connections - [[Hardware & Devices|HMS Illustrious]] (UK Aircraft Carrier)
 
 - <https://www.youtube.com/watch?v=IgoREfXJR88&list=PLt4UmbeKIBOwZ0WKax6KogEX0-ZRSZGMu&index=4>
 
@@ -52,10 +52,10 @@ tags:
 ### 6. [[Yu Yang]]  — Developing a basic Java [[Software & Web Development|programming]] workshop as an introduction.
 
 
-### 7. [[Jessica]]  — PARA method for knowledge management. https://fortelabs.com/blog/para/
+### 7. [[Jessica]]  — [[Tools for Thought & PKM|PARA method]] for knowledge management. https://fortelabs.com/blog/para/
 
 
-### 8. [[Fari]]  — Google Easter eggs - Grogu Google search Easter Egg: what does Baby Yoda do? | NationalWorld
+### 8. [[Fari]]  — [[Software & Web Development|Google Easter eggs]] - Grogu Google search Easter Egg: what does Baby Yoda do? | NationalWorld
 
 
 ---

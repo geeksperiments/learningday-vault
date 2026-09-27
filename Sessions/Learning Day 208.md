@@ -25,13 +25,13 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Finland
+### 1. [[Louis]]  — [[World History & Geopolitics|Finland]]
 
 
-### 2. [[Melvin]]  — https://upperdeck.com/legendary-marvel-second-edition/ try it at https://legendarysoloplay.github.io/Legendary-Solo-Play/
+### 2. [[Melvin]]  — [[Films, Shows & Media]] — https://upperdeck.com/legendary-marvel-second-edition/ try it at https://legendarysoloplay.github.io/Legendary-Solo-Play/
 
 
-### 3. [[Abraham]]  — Alexander McQueen: Life, Death, Pageantry
+### 3. [[Abraham]]  — [[Design, Art & Creative Tools|Alexander McQueen]]: Life, Death, Pageantry
 
 - Jack the Ripper
 - <https://youtu.be/9EEV-_mYy1A?si=iqO_7UzjkZIiQkxm>
@@ -56,7 +56,7 @@ tags:
 - Savage Beauty pictures
 - <https://blog.metmuseum.org/alexandermcqueen/objects/>
 
-### 4. [[Darren]]  — An introduction to Primal
+### 4. [[Darren]]  — An introduction to [[Films, Shows & Media|Primal]]
 
 - <https://docs.google.com/presentation/d/1JkJ3Kyq2Z4VhbvyhHfbqVN5VtdCNBsY-pVbbhB1-wrk/edit?usp=sharing>
 
@@ -77,7 +77,7 @@ tags:
 -Singapore Kopsia: https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2987
 -Ann Siang Sounds: https://www.instagram.com/annsiangsounds?igsh=NmlsanZianE0ajQx
 
-### 8. [[Rhine]]  — fighting game numpad notation: https://docs.google.com/presentation/d/1LcvzJ6zg2BP0bc4mLde7mTj-64y0krXZstAdGSduugU/edit?usp=drivesdk
+### 8. [[Rhine]]  — fighting game [[Japan & Japanese Culture|numpad notation]]: https://docs.google.com/presentation/d/1LcvzJ6zg2BP0bc4mLde7mTj-64y0krXZstAdGSduugU/edit?usp=drivesdk
 
 
 ---

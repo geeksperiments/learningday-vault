@@ -3,6 +3,10 @@ speaker: "Aaron"
 talk_count: 3
 first_talk: "2023-05-06"
 last_talk: "2024-07-06"
+topics:
+  - "[[Science, Ecology & Environment]]"
+  - "[[Health, Fitness & Wellness]]"
+  - "[[Books & Literature]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 3
 - **First Sharing:** 2023-05-06
 - **Latest Sharing:** 2024-07-06
+- **Primary Topics:** [[Science, Ecology & Environment]] · [[Health, Fitness & Wellness]] · [[Books & Literature]]
 - **Directory:** [[Learning Day Index]]
 
 ---

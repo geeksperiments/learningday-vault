@@ -26,7 +26,7 @@ tags:
 ### 1. [[Louis & Scarlett]]  — Trip to Osaka & [[Japan & Japanese Culture|Kyoto]] 2023 - Planning & Activities
 
 
-### 2. [[Melvin]]  — The Path: What Chinese Philosophers Can Teach Us About the Good Life by Michael Puett and Christine Gross-Loh https://instituteofcoaching.org/resources/coach-way
+### 2. [[Melvin]]  — The Path: What Chinese Philosophers Can [[Education & Pedagogy|Teach]] Us About the Good Life by Michael Puett and Christine Gross-Loh https://instituteofcoaching.org/resources/coach-way
 
 
 ### 3. [[Ka Ho]]  — Honeyworks [[Music, Audio & Acoustics|music]] - Teammate by Hatsune Miku
@@ -34,7 +34,7 @@ tags:
 - Music: https://www.youtube.com/watch?v=QAbwPeAYf_o
 - Lyrics: https://vocaloidlyrics.fandom.com/wiki/%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%82%A4%E3%83%88_(Teammate)
 
-### 4. [[Lih Wei]]  — Reverse engineering .NET programs and modifying them
+### 4. [[Lih Wei]]  — [[Software & Web Development|Reverse engineering]] .NET programs and modifying them
 
 
 ### 5. [[Paul]]  — Almost proper demo about [[Music, Audio & Acoustics|lo-fi audio plugins]]...
@@ -42,7 +42,7 @@ tags:
 - https://bedroomproducersblog.com/2023/06/21/unison-audio-introduces-free-lo-fi-plugin-zen-master/
 - to be shared further next when there's no audio constraint :-)
 
-### 6. [[Shan]]  — Teaser about Emotional Regulation
+### 6. [[Shan]]  — Teaser about [[Psychology & Human Behavior|Emotional Regulation]]
 
 
 ---

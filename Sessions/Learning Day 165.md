@@ -24,15 +24,15 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Julian]]  — Ask me anything & Travel Writing & Lombok Trip
+### 1. [[Julian]]  — [[Community, Volunteering & Social Dynamics|Ask me anything]] & Travel Writing & Lombok Trip
 
 - <https://www.bbc.co.uk/bitesize/articles/z7gkdp3#zfq6hcw>
 - Nature Watch Magazine https://www.nss.org.sg/articles.aspx
 
-### 2. [[Hijie]]  — Agile Methodology
+### 2. [[Hijie]]  — [[Productivity & Time Management|Agile]] Methodology
 
 
-### 3. [[Ka Ho]]  — I Have The Numbers! (Ref URL: https://youtu.be/D8RSQQpHx2I?si=Is14bDIq1o-HI-bb)
+### 3. [[Ka Ho]]  — [[Community, Volunteering & Social Dynamics]] — I Have The Numbers! (Ref URL: https://youtu.be/D8RSQQpHx2I?si=Is14bDIq1o-HI-bb)
 
 - Variant played with UNO card deck instead.
 
@@ -44,7 +44,7 @@ tags:
 - April 2024 Challenge (using Charlatan Synth): https://www.kvraudio.com/forum/viewtopic.php?t=608771
 - Paul's entry: https://soundcloud.com/whatevergeek/swamp-dance
 
-### 5. [[Jun Yun]]  — Ask me anything
+### 5. [[Jun Yun]]  — [[Community, Volunteering & Social Dynamics|Ask me anything]]
 
 -AI Singapore apprenticeship
 -Dragonboating
@@ -57,7 +57,7 @@ tags:
 - Healthcare challenges in Singapore
 - <https://www.synapxe.sg/healthtech/health-ai>
 
-### 7. [[Aaron]]  — Ice Hockey
+### 7. [[Aaron]]  — [[Health, Fitness & Wellness|Ice Hockey]]
 
 - Sedin Twins tic-tac-toe
 - <https://youtu.be/B_58IfFFjoY?si=zOElbtYY3gPrO8hR>

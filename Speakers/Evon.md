@@ -3,6 +3,8 @@ speaker: "Evon"
 talk_count: 1
 first_talk: "2023-04-01"
 last_talk: "2023-04-01"
+topics:
+  - "[[Crafts, Origami & Life Hacks]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2023-04-01
 - **Latest Sharing:** 2023-04-01
+- **Primary Topics:** [[Crafts, Origami & Life Hacks]]
 - **Directory:** [[Learning Day Index]]
 
 ---

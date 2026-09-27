@@ -3,6 +3,10 @@ speaker: "Yu Yang"
 talk_count: 13
 first_talk: "2022-05-29"
 last_talk: "2026-07-04"
+topics:
+  - "[[Food, Cooking & Beverage]]"
+  - "[[Health, Fitness & Wellness]]"
+  - "[[Economics, Finance & Investing]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 13
 - **First Sharing:** 2022-05-29
 - **Latest Sharing:** 2026-07-04
+- **Primary Topics:** [[Food, Cooking & Beverage]] · [[Health, Fitness & Wellness]] · [[Economics, Finance & Investing]]
 - **Directory:** [[Learning Day Index]]
 
 ---

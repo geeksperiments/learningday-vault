@@ -29,7 +29,7 @@ tags:
 - Ren - Money Game part 2
 - <https://youtu.be/YonS9_QJbp8>
 
-### 2. [[Jan]]  — Jan's birthday song
+### 2. [[Jan]]  — Jan's birthday [[Music, Audio & Acoustics|song]]
 
 - A Cruel Angel's Thesis English rebuild AMV (Geekyfandubs) + Lyrics
 - <https://youtu.be/bOVyA6tbqsY>
@@ -37,7 +37,7 @@ tags:
 ### 3. [[Julian]]  — How to Make Pineapple Tarts (feat. the family [[Food, Cooking & Beverage|recipe]])
 
 
-### 4. [[Melvin]]  — 'The Elephant in the Brain: Hidden Motives in Everyday Life'
+### 4. [[Melvin]]  — 'The [[Psychology & Human Behavior|Elephant in the Brain]]: Hidden Motives in Everyday Life'
 
 - <https://www.slideshare.net/INSTITUTEsk/robin-hanson-hidden-motives-are-everywhere>
 
@@ -51,7 +51,7 @@ tags:
 * Free VSTs (virtual music instruments/effects) for Music Production
 * https://bedroomproducersblog.com/tag/free-software/
 
-### 6. [[Fari]]  — Growing Avocado plants from Avocado seeds  - https://youtu.be/fwEVJw1Q-Gs
+### 6. [[Fari]]  — Growing Avocado [[Science, Ecology & Environment|plants]] from Avocado seeds  - https://youtu.be/fwEVJw1Q-Gs
 
 * It's very trial and error! Some seeds never grow. But just have fun trying!
 * The paper towel method does work, it takes around 1 month for the root to grow

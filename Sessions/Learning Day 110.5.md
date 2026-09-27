@@ -22,19 +22,19 @@ tags:
 
 ## Talks & Presentations
 
-### [[Louis]]  — Cheap and decent standing desks. Don't buy Everdesk/Omnidesk. And other desk accessories.https://shopee.sg/search?keyword=squirrey
+### [[Louis]]  — Cheap and decent standing desks. Don't buy Everdesk/Omnidesk. And other [[Hardware & Devices|desk accessories]].https://shopee.sg/search?keyword=squirrey
 
 
-### [[Melvin]]  — Digital gardening https://maggieappleton.com/garden-history Example garden by Andy https://notes.andymatuschak.org/
+### [[Melvin]]  — [[Tools for Thought & PKM|Digital gardening]] https://maggieappleton.com/garden-history Example garden by Andy https://notes.andymatuschak.org/
 
 
-### [[Martin]]  — Difference between Singapore and Australia. Singaporeans trust the government to do the right thing. Social cohesion is tenative and tenuous. https://www.edelman.com/sites/g/files/aatuss191/files/2021-03/2021%20Edelman%20Trust%20Barometer.pdf
+### [[Martin]]  — Difference between Singapore and Australia. Singaporeans trust the government to do the right thing. [[Community, Volunteering & Social Dynamics|Social cohesion]] is tenative and tenuous. https://www.edelman.com/sites/g/files/aatuss191/files/2021-03/2021%20Edelman%20Trust%20Barometer.pdf
 
 
-### [[Rahul]]  — EU digital covid certificate. Digitally signed by a secret private key, can be verified offline in the app. Bug in SG generated EU DCC QR codes.
+### [[Rahul]]  — EU digital covid [[Cybersecurity & Cryptography|certificate]]. Digitally signed by a secret private key, can be verified offline in the app. Bug in SG generated EU DCC QR codes.
 
 
-### [[Jin]]  — Washington, D.C., Has an Insider-Trading Problem https://www.capitoltrades.com/
+### [[Jin]]  — Washington, D.C., Has an [[Economics, Finance & Investing|Insider-Trading]] Problem https://www.capitoltrades.com/
 
 -- https://pad.riseup.net/p/ld110.5
 

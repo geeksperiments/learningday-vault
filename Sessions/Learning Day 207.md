@@ -25,17 +25,17 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Meritocracy, inheritance, privilege
+### 1. [[Louis]]  — [[Economics, Finance & Investing|Meritocracy]], inheritance, privilege
 
 
 ### 2. [[Melvin]]  — [[Books & Literature|Project Hail Mary]] by Andy Weir
 
 
-### 3. [[Darren]]  — End of Super Sentai
+### 3. [[Darren]]  — End of [[Films, Shows & Media|Super Sentai]]
 
 - <https://docs.google.com/presentation/d/13MaeTN8nU8sYr2Y2QCbWvnGeEvtyN1sShONuncOZLlw/edit?usp=sharing>
 
-### 4. [[Teo]]  — How to resolve an employment dispute?
+### 4. [[Teo]]  — How to resolve an [[Economics, Finance & Investing|employment dispute]]?
 
 - CPF - Enforcement and Penalties for Non-Compliance: https://www.cpf.gov.sg/employer/compliance-and-rectifications/enforcement-and-penalties-for-non-compliance
 - TADM: https://www.tal.sg/tadm
@@ -46,14 +46,14 @@ tags:
 
 - suno.com
 
-### 6. [[Ka Ho]]  — 5G - non stand-alone vs stand-alone and how it impacts the SIM card to use to access the mobile networks.
+### 6. [[Ka Ho]]  — [[Hardware & Devices|5G]] - non stand-alone vs stand-alone and how it impacts the SIM card to use to access the mobile networks.
 
 - (Featuring picture of lady telephone operator.)
 
 ### 7. [[Rhine]]  — The [[Software & Web Development|Linux]] boot process https://docs.google.com/presentation/d/1ArkCzu8hLYcESspeM88T76p9zaOd30aOTboZ8SoPXUo/edit?usp=drivesdk
 
 
-### 8. [[Lih Wei]]  — Modding a clock-in machine
+### 8. [[Lih Wei]]  — [[Crafts, Origami & Life Hacks|Modding]] a clock-in machine
 
 
 ---

@@ -3,6 +3,8 @@ speaker: "Joshua"
 talk_count: 1
 first_talk: "2025-10-04"
 last_talk: "2025-10-04"
+topics:
+  - "[[Music, Audio & Acoustics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2025-10-04
 - **Latest Sharing:** 2025-10-04
+- **Primary Topics:** [[Music, Audio & Acoustics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

@@ -3,6 +3,10 @@ speaker: "Abraham"
 talk_count: 4
 first_talk: "2026-04-04"
 last_talk: "2026-09-05"
+topics:
+  - "[[Design, Art & Creative Tools]]"
+  - "[[Food, Cooking & Beverage]]"
+  - "[[Films, Shows & Media]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +17,7 @@ tags:
 - **Total Talks:** 4
 - **First Sharing:** 2026-04-04
 - **Latest Sharing:** 2026-09-05
+- **Primary Topics:** [[Design, Art & Creative Tools]] · [[Food, Cooking & Beverage]] · [[Films, Shows & Media]]
 - **Directory:** [[Learning Day Index]]
 
 ---

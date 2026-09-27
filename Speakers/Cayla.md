@@ -3,6 +3,8 @@ speaker: "Cayla"
 talk_count: 1
 first_talk: "2026-01-03"
 last_talk: "2026-01-03"
+topics:
+  - "[[Films, Shows & Media]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2026-01-03
 - **Latest Sharing:** 2026-01-03
+- **Primary Topics:** [[Films, Shows & Media]]
 - **Directory:** [[Learning Day Index]]
 
 ---

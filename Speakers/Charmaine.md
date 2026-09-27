@@ -3,6 +3,8 @@ speaker: "Charmaine"
 talk_count: 1
 first_talk: "2025-11-01"
 last_talk: "2025-11-01"
+topics:
+  - "[[Astronomy, Physics & Mathematics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2025-11-01
 - **Latest Sharing:** 2025-11-01
+- **Primary Topics:** [[Astronomy, Physics & Mathematics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

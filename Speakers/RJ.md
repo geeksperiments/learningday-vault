@@ -3,6 +3,9 @@ speaker: "RJ"
 talk_count: 2
 first_talk: "2024-11-02"
 last_talk: "2024-11-15"
+topics:
+  - "[[Community, Volunteering & Social Dynamics]]"
+  - "[[Education & Pedagogy]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +16,7 @@ tags:
 - **Total Talks:** 2
 - **First Sharing:** 2024-11-02
 - **Latest Sharing:** 2024-11-15
+- **Primary Topics:** [[Community, Volunteering & Social Dynamics]] · [[Education & Pedagogy]]
 - **Directory:** [[Learning Day Index]]
 
 ---

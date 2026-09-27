@@ -28,13 +28,13 @@ tags:
 ### 1. [[Martin]]  — [[Education & Pedagogy|Dual coding theory]]: Use of visual and verbal channels to reinforce learning. Visual information tends to create synchronous learning (or all at once) that helps build networks and hierarchies whereas verbal information is sequential.
 
 
-### 2. [[Jin]]  — Photoshopping the faces to the anime character.
+### 2. [[Jin]]  — [[Design, Art & Creative Tools|Photoshopping]] the faces to the anime character.
 
 
 ### 3. [[Melvin]]  — [[Science, Ecology & Environment|Nature's phlebotomist]], mosquitoes
 
 
-### 4. [[Shu En]]  — THe myth of making the egg stand upright only during the spring equinox - it can be done without the use of salt and at anytime of the year.
+### 4. [[Shu En]]  — THe myth of making [[Books & Literature|the egg]] stand upright only during the spring equinox - it can be done without the use of salt and at anytime of the year.
 
 
 ### 5. [[Angela]]  — Improving [[Music, Audio & Acoustics|Optical Music Recognition]] Prediction Results for Camera
@@ -43,10 +43,10 @@ tags:
 ### 6. [[Louis]]  — Thinking about Finance beyond just money. The case of simple concept of [[Economics, Finance & Investing|investing]] using the idea of Burger King and sesame seeds.
 
 
-### 7. [[Ka Ho]]  — Meme on Mahjong - the fallacy, and how gambling is about money and luck.
+### 7. [[Ka Ho]]  — Meme on [[Board & Tabletop Games|Mahjong]] - the fallacy, and how gambling is about money and luck.
 
 
-### 8. [[Ervin Lam]]  — The Three Types of Capitals: Economic, Social, Emotional
+### 8. [[Ervin Lam]]  — The Three Types of Capitals: [[Economics, Finance & Investing|Economic]], Social, Emotional
 
 
 ---

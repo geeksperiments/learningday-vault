@@ -35,24 +35,24 @@ tags:
 ### 2. [[Hijie]]  — [[Artificial Intelligence|Vibe Coding]]. VS Code Apps and [[Software & Web Development|Python]]
 
 
-### 3. [[Joshua]]  — Kpop Demon Hunters
+### 3. [[Joshua]]  — [[Music, Audio & Acoustics|Kpop]] Demon Hunters
 
 - Also shared abit about his Serious Slumber Party as a Sleep Coach
 - <https://linktr.ee/seriousslumberparty>
 
-### 4. [[Darren]]  — Hulk: The Death Battle Curse (Revisited)
+### 4. [[Darren]]  — Hulk: The [[Films, Shows & Media|Death Battle]] Curse (Revisited)
 
 - <https://docs.google.com/presentation/d/15S-6poi-DPpRnuoo-XmQCFXUm_1xloRzFvMZfwtQPH8/edit?usp=sharing>
 - <https://drive.google.com/file/d/13N9siChA4NkKi_UgUl23LcJIgVHz6TQN/view?usp=drivesdk>
 
-### 5. [[Hafeez]]  — Regex
+### 5. [[Hafeez]]  — [[Software & Web Development|Regex]]
 
 - Regex Warrior: MRT Stations of Singapore
 - I scored 14 points with S|[inpg][okae]! Can you do better?
 - <https://izzhafeez.com/quizzes/regex-g-mrt?seed=23317256&N=24>
 - <https://www.w3schools.com/python/python_regex.asp>
 
-### 6. [[Ka Ho]]  — When do drinks got so vulgar?
+### 6. [[Ka Ho]]  — When do [[Food, Cooking & Beverage|drinks]] got so vulgar?
 
 - Character:
 - Looks innocent on the outside but actually...
@@ -66,7 +66,7 @@ tags:
 - <https://www.youtube.com/watch?v=rP1AvLhzj98>
 - [Supplementary Reading: https://www.whatsonweibo.com/dangerous-women-the-green-tea-bitch/]
 
-### 7. [[Irene]]  — ask me anything! Early childhood, phone use for children and living in New Zealand
+### 7. [[Irene]]  — [[Community, Volunteering & Social Dynamics|ask me anything]]! Early childhood, phone use for children and living in New Zealand
 
 
 ### 8. [[Anne]]  — Brain Bank [[Singapore History & Culture|Singapore]] - one may choose to donate one's brain for scientific research - each brain can contribute 200 samples!: https://www.brainbanksingapore.org/donate-now

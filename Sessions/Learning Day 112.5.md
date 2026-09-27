@@ -24,7 +24,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Ka Ho]]  — Bonhoeffer’s Theory of Stupidity - https://www.youtube.com/watch?v=ww47bR86wSc
+### 1. [[Ka Ho]]  — [[Philosophy & Mental Models|Bonhoeffer]]’s Theory of Stupidity - https://www.youtube.com/watch?v=ww47bR86wSc
 
 
 ### 2. [[Louis & Scarlett]]  — Nissin [[Japan & Japanese Culture|Cup Noodles from Japan]] (made in Japan) and soda version. Original and Tomato Flavour

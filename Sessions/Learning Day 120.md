@@ -25,7 +25,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Walking around Joo Chiat - 1 litre cider (Cider Pit), shophouses, rattan furniture shop, pet grooming shops indicating wealthier audience
+### 1. [[Louis]]  — Walking around [[Singapore History & Culture|Joo Chiat]] - 1 litre cider (Cider Pit), shophouses, rattan furniture shop, pet grooming shops indicating wealthier audience
 
 
 ### 2. [[Melvin]]  — Super slow protocol from [[Health, Fitness & Wellness|Body by Science]]. Once a week for 12 minutes to maintain lean body mass. Full demo by Dough McGuff https://www.youtube.com/watch?v=FVhhbC51_3k
@@ -56,7 +56,7 @@ tags:
 ### 7. [[Saffiyah]]  — Ask me anything - about secondary school, going your own path despite social media influences, [[Health, Fitness & Wellness|mental health]].
 
 
-### 8. [[Yu Yang]]  — Rules for ruler
+### 8. [[Yu Yang]]  — [[Philosophy & Mental Models|Rules for ruler]]
 
 - <https://www.youtube.com/watch?v=rStL7niR7gs&ab_channel=CGPGrey>
 

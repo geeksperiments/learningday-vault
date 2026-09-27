@@ -3,6 +3,8 @@ speaker: "Q"
 talk_count: 1
 first_talk: "2023-08-06"
 last_talk: "2023-08-06"
+topics:
+  - "[[Music, Audio & Acoustics]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2023-08-06
 - **Latest Sharing:** 2023-08-06
+- **Primary Topics:** [[Music, Audio & Acoustics]]
 - **Directory:** [[Learning Day Index]]
 
 ---

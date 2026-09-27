@@ -25,7 +25,7 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Ching]]  — Special Needs Sign Language
+### 1. [[Ching]]  — Special Needs [[Education & Pedagogy|Sign Language]]
 
 
 ### 2. [[Melvin]]  — [[Crafts, Origami & Life Hacks|Origami Envelope]] using Square Paper and A4 Paper - useful for turning birthday letters into a portable piece
@@ -53,19 +53,19 @@ tags:
 - Waiting in the Wings https://www.youtube.com/watch?v=87HAEkf_Li0
 - Crossing the line https://www.youtube.com/watch?v=iaHBg8E1o00
 
-### 6. [[Lih Wei]]  — Analogue Camera show and tell
+### 6. [[Lih Wei]]  — Analogue [[Design, Art & Creative Tools|Camera]] show and tell
 
 - Modular components that can be interchanged for others
 - Taking a picture onto the film
 - Loading film
 
-### 7. [[Yu Yang]]  — Commercial Law, Consumer Rights
+### 7. [[Yu Yang]]  — [[Economics, Finance & Investing|Commercial Law]], Consumer Rights
 
 - Process: Offer, Agreement, Consideration, Acceptance
 - The customer makes the offer by ordering
 - Can only sue the company if monetary value has been provided
 
-### 8. [[Zhang quan]]  — Basics of Sanskrit. Numbers and the alphabet, consonants, vowels. Variations of the sanskrit in different countries.
+### 8. [[Zhang quan]]  — Basics of [[Books & Literature|Sanskrit]]. Numbers and the alphabet, consonants, vowels. Variations of the sanskrit in different countries.
 
 - <https://www.lexilogos.com/keyboard/sanskrit_devanagari.htm>
 

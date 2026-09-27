@@ -24,10 +24,10 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Louis]]  — Ender's Game https://docs.google.com/presentation/d/1AAph8FslkqvbIxPtjo5JprY-tJkgG10A/edit?usp=sharing&ouid=116652419571884847106&rtpof=true&sd=true
+### 1. [[Louis]]  — [[Books & Literature|Ender's Game]] https://docs.google.com/presentation/d/1AAph8FslkqvbIxPtjo5JprY-tJkgG10A/edit?usp=sharing&ouid=116652419571884847106&rtpof=true&sd=true
 
 
-### 2. [[Hafeez]]  — Flags on Powerpoint https://www.youtube.com/watch?v=w5QSVhgrqVE
+### 2. [[Hafeez]]  — [[Design, Art & Creative Tools|Flags on Powerpoint]] https://www.youtube.com/watch?v=w5QSVhgrqVE
 
 
 ### 3. [[Paul]]  — [[Music, Audio & Acoustics|Physical Modeling Synthesis]]
@@ -54,14 +54,14 @@ tags:
 - <https://www.instagram.com/reel/DEkUMn1SSYX/?igsh=MXNwaHpvczJrbzRreA==>
 - <https://youtu.be/f2rzzX1qDWQ?si=Hc2AoRsAtUWace_7>
 
-### 5. [[Harold]]  — Google Maps
+### 5. [[Harold]]  — [[Urban Planning, Transport & Outdoors|Google Maps]]
 
 
-### 6. [[Darren]]  — Dirty Dom: A Successful Modern Wrestling Heel
+### 6. [[Darren]]  — Dirty Dom: A Successful Modern [[Films, Shows & Media|Wrestling]] Heel
 
 - <https://docs.google.com/presentation/d/1_81ExXgOGwK4yhAsbt87fwIsIstkvG8paeDuAl0XohY/edit?usp=sharing>
 
-### 7. [[Ka Ho]]  — (Let's play a game!)
+### 7. [[Ka Ho]]  — ([[Board & Tabletop Games|Let's play a game]]!)
 
 - Name: "Talk cock" - Audience guess who is the real narrator.
 - Title of topic: Hang Ball (Hong Kong terms.) - act of raising Typhoon warning signals.

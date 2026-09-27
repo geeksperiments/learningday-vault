@@ -21,18 +21,18 @@ tags:
 
 ## Talks & Presentations
 
-### 4. [[Darren]]  — History of G1 Transformers
+### 4. [[Darren]]  — History of G1 [[Films, Shows & Media|Transformers]]
 
 - <https://docs.google.com/à/d/15HPasFlq87PbdsYJ5L5n-iEAPpW-lZ2DVE8pICL9084/edit?usp=drivesdk>
 
-### 5. [[Ka Ho]]  — Stand-up comedy vs crosstalk
+### 5. [[Ka Ho]]  — [[Films, Shows & Media|Stand-up comedy]] vs crosstalk
 
 - The funny in money - typical stand-up comedy that is sponsored: https://www.youtube.com/watch?v=0M7XaoLEC9A
 - When crosstalk meet stand-up comedy (Chinese)： https://www.youtube.com/watch?v=Sa-_l0bu2IQ
 - Note: There's no English show of comparing stand-up comedy with crosstalk because crosstalks are mainly in Chinese and so far none of the crosstalks available in youtube have any English subtitles.
 - Stand-up comedy can be considered more common than typical asian oral comedy because there are less rules in the content and the material to be used in the show. Even for the music (singing) session, inclusion of music from PA system considered as stand-up comedy rather than a oral comedy and most asian oral comedies commonly have two actors while most stand-up comedy have only one actor at a time.
 
-### 6. [[Julian]]  — Configuration Space / Arrangement Space
+### 6. [[Julian]]  — [[Astronomy, Physics & Mathematics|Configuration Space]] / Arrangement Space
 
 
 ### 7. [[Jia Le & Pei Ling]]  — explaining the [[Economics, Finance & Investing|finance]] sector (private equity & private banking)

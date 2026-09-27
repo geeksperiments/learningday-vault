@@ -3,6 +3,8 @@ speaker: "Alan"
 talk_count: 1
 first_talk: "2025-01-04"
 last_talk: "2025-01-04"
+topics:
+  - "[[Philosophy & Mental Models]]"
 tags:
   - learning-day
   - speaker
@@ -13,6 +15,7 @@ tags:
 - **Total Talks:** 1
 - **First Sharing:** 2025-01-04
 - **Latest Sharing:** 2025-01-04
+- **Primary Topics:** [[Philosophy & Mental Models]]
 - **Directory:** [[Learning Day Index]]
 
 ---

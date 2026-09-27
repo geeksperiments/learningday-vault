@@ -25,11 +25,11 @@ tags:
 
 ## Talks & Presentations
 
-### 1. [[Julian]]  — Why decolonisation is important for environmentalism (a brief introduction)
+### 1. [[Julian]]  — [[Community, Volunteering & Social Dynamics|Why decolonisation is important for environmentalism (a brief introduction)]]
 
 - <https://www.yesmagazine.org/environment/2020/09/15/conservation-decolonize-environmentalism>
 
-### 2. [[Vui Chee]]  — Specialisation hinder Creativity
+### 2. [[Vui Chee]]  — [[Philosophy & Mental Models|Specialisation hinder Creativity]]
 
 - Range: Why Generalists Triumph in a Specialized World by David Epstein https://www.goodreads.com/en/book/show/41795733
 - Farnam Street: Mental Models https://fs.blog/mental-models/
@@ -38,21 +38,21 @@ tags:
 
 - Also: Look up 'The Chow & Robbins problem'
 
-### 4. [[Ka Ho]]  — Randomness with the book of answers. (myanswersbook.com)
+### 4. [[Ka Ho]]  — Randomness with the [[Books & Literature|book]] of answers. (myanswersbook.com)
 
 
-### 5. [[Aaron]]  — The Serangoon Crocodile - a summary of one of the Wild Kampung talks
+### 5. [[Aaron]]  — The Serangoon [[Science, Ecology & Environment|Crocodile]] - a summary of one of the Wild Kampung talks
 
 - <https://go.gov.sg/wildkampung>
 
-### 6. [[Fari]]  — Integration of Australian indigenous people v.s. New Zealand indigenous people
+### 6. [[Fari]]  — Integration of Australian [[Community, Volunteering & Social Dynamics|indigenous]] people v.s. New Zealand indigenous people
 
 - <https://www.bbc.com/news/world-australia-50151344>
 
-### 7. [[Yu Yang]]  — skipping rope
+### 7. [[Yu Yang]]  — [[Health, Fitness & Wellness|skipping rope]]
 
 
-### 8. [[Huizhen]]  — spinal hygiene thrivechiro.com.sg
+### 8. [[Huizhen]]  — spinal hygiene thrivechiro.com.[[Singapore History & Culture|sg]]
 
 
 ---
