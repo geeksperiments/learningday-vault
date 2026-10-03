@@ -21,7 +21,7 @@ tags:
 
 | Time | Section | Key Demo / Action |
 | :--- | :--- | :--- |
-| **0:00 - 2:00** | **1. The Dilemma**: OneNote vs. The Plain Text Epiphany | Relatable hook (why manual notes hit a wall) |
+| **0:00 - 2:00** | **1. Two Tools, Two Use Cases**: OneNote for Manual, Obsidian for AI | Relatable workflow (right tool for the right job) |
 | **2:00 - 5:00** | **2. Linked Thinking**: The Concept Behind the Magic | Show `[[Wikilinks]]` & Backlinks panel |
 | **5:00 - 8:00** | **3. The Reveal**: Learning Day Knowledge Graph | Full-screen Graph View on this vault |
 | **8:00 - 9:30** | **4. The Modern Superpower**: Local Markdown + AI | How AI agents read & write notes for you |
@@ -29,20 +29,20 @@ tags:
 
 ---
 
-## 1. The Dilemma: OneNote vs. The Plain Text Epiphany (2 mins)
+## 1. Two Tools, Two Use Cases: OneNote for Manual, Obsidian for AI (2 mins)
 
-### The Relatable Story
-- *"For day-to-day manual notes, I still use MS OneNote."*
-- OneNote is great for freeform typing, but traditional note-taking apps have a fundamental limitation: **they are walled gardens**.
-  - Your notes are locked in a proprietary database or cloud service.
-  - If the service changes pricing, goes down, or you want to export your data, you are stuck.
+### The Relatable Story: Right Tool for the Right Job
+- *"For day-to-day manual notes, I still use MS OneNote—and it's great for that."*
+- OneNote is fantastic for freeform typing, quick scratchpads, and human-first drafting. You don't have to ditch what already works.
+- **The Natural Shift**: But what happens when you want an **AI assistant** to help create, summarize, and organize notes for you?
 
-### The Obsidian Difference: Local-First Plain Text
-- In Obsidian, there is **no proprietary database**. Every single note is just a plain `.md` (Markdown) file saved in a regular folder on your laptop.
-- **Why this matters to everyone**:
-  1. **Future-Proof**: 20 years from now, plain text files will still be readable on any device.
-  2. **100% Offline & Private**: Your thoughts belong to you, not a cloud server.
-  3. **Zero Cost / No Subscription**: Core Obsidian is free forever.
+### Why Obsidian Is the Natural Fit for AI
+- Proprietary note apps keep data locked in proprietary cloud databases—hard for external AI tools, local scripts, or agents to touch.
+- In Obsidian, every single note is just a **plain `.md` (Markdown) file** stored right on your local laptop.
+- Because it's plain text on disk:
+  1. **AI-Native by Default**: Any AI tool or script can read, write, edit, and link your notes directly without jumping through closed APIs.
+  2. **Future-Proof & Portable**: Plain Markdown readable anywhere, 20+ years from now.
+  3. **Zero Lock-In**: 100% offline, private, and yours.
 
 ---
 
@@ -86,8 +86,8 @@ tags:
 - Because Obsidian notes are standard Markdown files on disk, **local AI tools, scripts, and agents can directly interact with them**.
 - **Real-world example**:
   - While attending a tech conference or meetup, you can snap photos of presentation slides or drop quick voice memos.
-  - An AI agent can read those slides, extract the core ideas, format them cleanly into Markdown, and file them into your Obsidian vault with proper `[[links]]` and citations in real time.
-- Traditional apps like OneNote or Apple Notes make this painful behind closed APIs; Obsidian makes it effortless because it's just files on disk.
+  - An AI assistant can process those, extract the core ideas, format them cleanly into Markdown, and file them into your vault with proper `[[links]]` and citations.
+- **The Takeaway**: Keep using OneNote or Apple Notes for your quick manual notes; use Obsidian when you want a connected, machine-readable knowledge base that AI can help you build and maintain.
 
 ---
 
